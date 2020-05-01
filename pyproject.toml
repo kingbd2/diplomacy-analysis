@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "diplomacy_gif_maker"
+version = "0.1.0"
+description = ""
+authors = ["brian King <kingbd2@googlemail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+beautifulsoup4 = "^4.9.0"
+jupyterlab = "^2.1.0"
+requests = "^2.23.0"
+Pillow = "^7.1.1"
+cairosvg = "^2.4.2"
+lxml = "^4.5.0"
+selenium = "^3.141.0"
+svgpathtools = "^1.3.3"
+svgwrite = "^1.4"
+imageio = "^2.8.0"
+pyimage = "^0.1.1"
+SVGImgUtils = "^0.1.0"
+svgutils = "^0.3.1"
+pandas = "^1.0.3"
+numpy = "^1.18.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = {version = "^19.10b0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

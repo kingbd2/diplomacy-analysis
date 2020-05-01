@@ -1,0 +1,1 @@
+{"Austria": {"Alb": "F", "Ser": "A", "Vie": "A"}, "England": {"Edi": "A", "NTH": "F", "NWG": "F"}, "France": {"Bur": "A", "MAO": "F", "Spa": "A"}, "Germany": {"Den": "F", "Kie": "A", "Ruh": "A"}, "Italy": {"Apu": "A", "ION": "F", "Ven": "A"}, "Russia": {"BOT": "F", "Sev": "F", "Stp": "A", "War": "A"}, "Turkey": {"Ank": "F", "Bul": "A", "Smy": "A"}}

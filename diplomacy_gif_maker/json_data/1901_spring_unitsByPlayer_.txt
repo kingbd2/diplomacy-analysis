@@ -1,0 +1,1 @@
+{"Austria": {"Bud": "A", "Tri": "F", "Vie": "A"}, "England": {"Edi": "F", "Lon": "F", "Lvp": "A"}, "France": {"Bre": "F", "Mar": "A", "Par": "A"}, "Germany": {"Ber": "A", "Kie": "F", "Mun": "A"}, "Italy": {"Nap": "F", "Rom": "A", "Ven": "A"}, "Russia": {"Mos": "A", "Sev": "F", "Stp": {"type": "F", "coast": "sc"}, "War": "A"}, "Turkey": {"Ank": "F", "Con": "A", "Smy": "A"}}

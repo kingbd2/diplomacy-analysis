@@ -1,0 +1,1 @@
+{"Turkey": 1, "England": -1, "France": 2, "Austria": -1, "Germany": 0, "Italy": 1, "Russia": -1}

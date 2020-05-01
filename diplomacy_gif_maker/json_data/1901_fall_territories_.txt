@@ -1,0 +1,1 @@
+{"Par": "France", "Smy": "Turkey", "Lon": "England", "Nap": "Italy", "Ven": "Italy", "Mun": "Germany", "War": "Russia", "Mar": "France", "Mos": "Russia", "Kie": "Germany", "Tri": "Austria", "Lvp": "England", "Stp": "Russia", "Ber": "Germany", "Con": "Turkey", "Sev": "Russia", "Rom": "Italy", "Vie": "Austria", "Edi": "England", "Ank": "Turkey", "Bud": "Austria", "Bre": "France"}

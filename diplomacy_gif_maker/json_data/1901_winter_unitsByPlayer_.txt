@@ -1,0 +1,1 @@
+{"Austria": {"Gre": "F", "Ser": "A", "Vie": "A"}, "England": {"Edi": "A", "NTH": "F", "NWG": "F"}, "France": {"Bel": "A", "Por": "A", "Spa": {"type": "F", "coast": "sc"}}, "Germany": {"Den": "F", "Hol": "A", "Ruh": "A"}, "Italy": {"ION": "F", "Tun": "A", "Ven": "A"}, "Russia": {"BOT": "F", "Nwy": "A", "Rum": "F", "War": "A"}, "Turkey": {"Ank": "A", "Bul": "A", "Con": "F"}}
