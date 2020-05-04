@@ -1,5 +1,5 @@
 ,country,year,units
-0,Austria,1901,12
+0,Austria,1901,9
 1,Austria,1902,14
 2,Austria,1903,10
 3,Austria,1904,6
@@ -16,13 +16,13 @@
 14,Austria,1915,3
 15,Austria,1916,3
 16,Austria,1917,3
-17,England,1901,12
+17,England,1901,9
 18,England,1902,9
 19,England,1903,12
 20,England,1904,9
 21,England,1905,6
 22,England,1906,3
-23,France,1901,12
+23,France,1901,9
 24,France,1902,18
 25,France,1903,18
 26,France,1904,24
@@ -42,8 +42,8 @@
 40,France,1918,19
 41,France,1919,18
 42,France,1920,18
-43,France,1921,5
-44,Germany,1901,12
+43,France,1921,8
+44,Germany,1901,9
 45,Germany,1902,15
 46,Germany,1903,15
 47,Germany,1904,15
@@ -63,8 +63,8 @@
 61,Germany,1918,36
 62,Germany,1919,39
 63,Germany,1920,38
-64,Germany,1921,28
-65,Italy,1901,12
+64,Germany,1921,42
+65,Italy,1901,9
 66,Italy,1902,12
 67,Italy,1903,15
 68,Italy,1904,18
@@ -83,14 +83,14 @@
 81,Italy,1917,9
 82,Italy,1918,3
 83,Italy,1919,1
-84,Russia,1901,16
+84,Russia,1901,12
 85,Russia,1902,16
 86,Russia,1903,18
 87,Russia,1904,15
 88,Russia,1905,12
 89,Russia,1906,9
 90,Russia,1907,8
-91,Turkey,1901,12
+91,Turkey,1901,9
 92,Turkey,1902,12
 93,Turkey,1903,12
 94,Turkey,1904,15
@@ -110,4 +110,4 @@
 108,Turkey,1918,36
 109,Turkey,1919,36
 110,Turkey,1920,42
-111,Turkey,1921,30
+111,Turkey,1921,45
