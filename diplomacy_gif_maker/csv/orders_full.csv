@@ -1,1000 +1,1000 @@
-,country,type,unitFrom_list,unitTo_list,result_list,result_reason_list,year,season
-0,Turkey,MOVE,Ank,BLA,FAILS,Attack strength is not greater than the prevent strength,1901,spring
-1,Turkey,MOVE,Smy,Lon,FAILS,Invalid move path,1901,spring
-2,Turkey,MOVE,Con,Bul,SUCCEEDS,Attack strength is greater,1901,spring
-3,Italy,HOLD,Ven,ION,SUCCEEDS,Unchallenged,1901,spring
-4,Italy,MOVE,Nap,Apu,SUCCEEDS,Attack strength is greater,1901,spring
-5,Italy,MOVE,Rom,Bur,SUCCEEDS,Attack strength is greater,1901,spring
-6,France,MOVE,Par,Spa,SUCCEEDS,Attack strength is greater,1901,spring
-7,France,MOVE,Mar,MAO,SUCCEEDS,Attack strength is greater,1901,spring
-8,France,MOVE,Bre,Alb,SUCCEEDS,Attack strength is greater,1901,spring
-9,Austria,MOVE,Tri,Ser,SUCCEEDS,Attack strength is greater,1901,spring
-10,Austria,MOVE,Bud,Kie,SUCCEEDS,Attack strength is greater,1901,spring
-11,Austria,HOLD,Vie,Ruh,SUCCEEDS,Unchallenged,1901,spring
-12,Germany,MOVE,Ber,Den,SUCCEEDS,Attack strength is greater,1901,spring
-13,Germany,MOVE,Mun,NWG,SUCCEEDS,Attack strength is greater,1901,spring
-14,Germany,MOVE,Kie,NTH,SUCCEEDS,Attack strength is greater,1901,spring
-15,England,MOVE,Edi,Edi,SUCCEEDS,Attack strength is greater,1901,spring
-16,England,MOVE,Lon,Stp,SUCCEEDS,Attack strength is greater,1901,spring
-17,England,MOVE,Lvp,BLA,SUCCEEDS,Attack strength is greater,1901,spring
-18,Russia,MOVE,Mos,BOT,SUCCEEDS,Attack strength is greater,1901,spring
-19,Turkey,MOVE,Bul,Par,FAILS,Invalid move path,1901,fall
-20,Turkey,MOVE,Smy,Ank,SUCCEEDS,Attack strength is greater,1901,fall
-21,Turkey,MOVE,Ank,Con,SUCCEEDS,Attack strength is greater,1901,fall
-22,England,SUPPORT,NTH,Nwy,SUCCEEDS,Unchallenged,1901,fall
-23,England,CONVOY,NWG,Nwy,SUCCEEDS,Unchallenged,1901,fall
-24,England,MOVE,Edi,Nwy,FAILS,Invalid move path,1901,fall
-25,France,MOVE,Bur,Bel,SUCCEEDS,Attack strength is greater,1901,fall
-26,France,MOVE,Spa,Por,SUCCEEDS,Attack strength is greater,1901,fall
-27,France,MOVE,MAO,Spa,SUCCEEDS,Attack strength is greater,1901,fall
-28,Austria,MOVE,Alb,Gre,SUCCEEDS,Attack strength is greater,1901,fall
-29,Austria,SUPPORT,Ser,Gre,SUCCEEDS,Unchallenged,1901,fall
-30,Austria,MOVE,Vie,Gal,FAILS,Attack strength is not greater than the prevent strength,1901,fall
-31,Germany,SUPPORT,Ruh,Hol,SUCCEEDS,Unchallenged,1901,fall
-32,Germany,MOVE,Den,Swe,FAILS,Attack strength is not greater than the prevent strength,1901,fall
-33,Germany,MOVE,Kie,Hol,SUCCEEDS,Attack strength is greater,1901,fall
-34,Italy,HOLD,Ven,Tun,SUCCEEDS,Unchallenged,1901,fall
-35,Italy,CONVOY,ION,Tun,SUCCEEDS,Unchallenged,1901,fall
-36,Italy,MOVE,Apu,Nwy,SUCCEEDS,Attack strength is greater,1901,fall
-37,Russia,MOVE,Stp,Swe,SUCCEEDS,Attack strength is greater,1901,fall
-38,Russia,MOVE,BOT,Gal,FAILS,Attack strength is not greater than the prevent strength,1901,fall
-39,Russia,MOVE,War,Rum,FAILS,Attack strength is not greater than the prevent strength,1901,fall
-40,Turkey,HOLD,Ank,Rum,SUCCEEDS,Unchallenged,1902,spring
-41,Turkey,MOVE,Bul,AEG,SUCCEEDS,Attack strength is greater,1902,spring
-42,Turkey,MOVE,Smy,AEG,SUCCEEDS,Attack strength is greater,1902,spring
-43,Turkey,SUPPORT,Con,AEG,SUCCEEDS,Unchallenged,1902,spring
-44,Italy,HOLD,Ven,TYS,SUCCEEDS,Unchallenged,1902,spring
-45,Italy,MOVE,ION,Pic,FAILS,Attack strength is not greater than the prevent strength,1902,spring
-46,Italy,MOVE,Nap,Spa,SUCCEEDS,Attack strength is greater,1902,spring
-47,Italy,HOLD,Tun,MAO,SUCCEEDS,Unchallenged,1902,spring
-48,France,MOVE,Par,ENG,SUCCEEDS,Attack strength is greater,1902,spring
-49,France,HOLD,Mar,Alb,SUCCEEDS,Unchallenged,1902,spring
-50,France,HOLD,Bel,Rum,SUCCEEDS,Unchallenged,1902,spring
-51,France,MOVE,Por,Gal,SUCCEEDS,Attack strength is greater,1902,spring
-52,France,MOVE,Spa,Gal,SUCCEEDS,Attack strength is greater,1902,spring
-53,France,MOVE,Bre,Mun,SUCCEEDS,Attack strength is greater,1902,spring
-54,Austria,MOVE,Tri,Swe,SUCCEEDS,Attack strength is greater,1902,spring
-55,Austria,HOLD,Gre,BAL,SUCCEEDS,Unchallenged,1902,spring
-56,Austria,SUPPORT,Ser,Nwy,SUCCEEDS,Unchallenged,1902,spring
-57,Austria,SUPPORT,Bud,Nwy,SUCCEEDS,Unchallenged,1902,spring
-58,Austria,MOVE,Vie,Nwy,SUCCEEDS,Attack strength is greater,1902,spring
-59,Germany,HOLD,Ber,Swe,SUCCEEDS,Unchallenged,1902,spring
-60,Germany,HOLD,Hol,Swe,SUCCEEDS,Unchallenged,1902,spring
-61,Germany,MOVE,Ruh,Ukr,SUCCEEDS,Attack strength is greater,1902,spring
-62,Turkey,MOVE,Ank,Smy,SUCCEEDS,Attack strength is greater,1902,fall
-63,Turkey,SUPPORT,Con,Bul,SUCCEEDS,Unchallenged,1902,fall
-64,Turkey,SUPPORT,AEG,Gre,SUCCEEDS,Unchallenged,1902,fall
-65,Turkey,MOVE,Rum,Bul,SUCCEEDS,Attack strength is greater,1902,fall
-66,Italy,MOVE,Ven,Tri,FAILS,Attack strength is not greater than the prevent strength,1902,fall
-67,Italy,CONVOY,ION,Gre,SUCCEEDS,Unchallenged,1902,fall
-68,Italy,MOVE,Tun,Gre,SUCCEEDS,Attack strength is greater,1902,fall
-69,Italy,HOLD,TYS,LYO,SUCCEEDS,Unchallenged,1902,fall
-70,France,MOVE,Mar,Wal,SUCCEEDS,Attack strength is greater,1902,fall
-71,France,HOLD,Bel,Wal,SUCCEEDS,Unchallenged,1902,fall
-72,France,CONVOY,ENG,Gas,SUCCEEDS,Unchallenged,1902,fall
-73,France,MOVE,Pic,IRI,SUCCEEDS,Attack strength is greater,1902,fall
-74,France,MOVE,Spa,Tri,SUCCEEDS,Attack strength is greater,1902,fall
-75,France,MOVE,MAO,Swe,SUCCEEDS,Attack strength is greater,1902,fall
-76,Austria,HOLD,Gal,Sil,SUCCEEDS,Unchallenged,1902,fall
-77,Austria,HOLD,Gre,Swe,FAILS,Insufficient hold strength,1902,fall
-78,Austria,MOVE,Alb,Swe,FAILS,Attack strength is not greater than the prevent strength,1902,fall
-79,Austria,HOLD,Ser,Lon,SUCCEEDS,Unchallenged,1902,fall
-80,Austria,SUPPORT,Bud,NTH,SUCCEEDS,Unchallenged,1902,fall
-81,Germany,MOVE,Ber,War,FAILS,Attack strength is not greater than the defend strength,1902,fall
-82,Germany,HOLD,Hol,Rum,SUCCEEDS,Unchallenged,1902,fall
-83,Turkey,MOVE,Bul,Ser,FAILS,Attack strength is not greater than the defend strength,1903,spring
-84,Turkey,CONVOY,AEG,Gre,SUCCEEDS,Unchallenged,1903,spring
-85,Turkey,MOVE,Smy,Gre,SUCCEEDS,Attack strength is greater,1903,spring
-86,Turkey,MOVE,Con,Bul,FAILS,Attack strength is not greater than the defend strength,1903,spring
-87,England,SUPPORT,NTH,ENG,SUCCEEDS,Unchallenged,1903,spring
-88,England,MOVE,Lon,ENG,SUCCEEDS,Attack strength is greater,1903,spring
-89,England,MOVE,Lvp,IRI,FAILS,Attack strength is not greater than the defend strength,1903,spring
-90,England,MOVE,Nwy,Swe,FAILS,Attack strength is not greater than the prevent strength,1903,spring
-91,France,MOVE,Wal,Lvp,SUCCEEDS,Attack strength is greater,1903,spring
-92,France,MOVE,Bel,Wal,FAILS,Invalid move path,1903,spring
-93,France,CONVOY,ENG,Wal,FAILS,Dislodged,1903,spring
-94,France,MOVE,Gas,Bur,SUCCEEDS,Attack strength is greater,1903,spring
-95,France,SUPPORT,IRI,Lvp,SUCCEEDS,Neither displaced nor disrupted,1903,spring
-96,France,HOLD,LYO,War,SUCCEEDS,Unchallenged,1903,spring
-97,Austria,SUPPORT,Gal,Tri,SUCCEEDS,Unchallenged,1903,spring
-98,Austria,MOVE,Alb,Tri,FAILS,Attack strength is not greater than the prevent strength,1903,spring
-99,Austria,SUPPORT,Ser,Vie,FAILS,Disrupted,1903,spring
-100,Austria,MOVE,Bud,Pru,SUCCEEDS,Attack strength is greater,1903,spring
-101,Germany,MOVE,Ber,Swe,FAILS,Attack strength is not greater than the prevent strength,1903,spring
-102,Germany,HOLD,Hol,War,SUCCEEDS,Unchallenged,1903,spring
-103,Germany,MOVE,BAL,Tri,FAILS,Attack strength is not greater than the prevent strength,1903,spring
-104,Germany,HOLD,Den,Alb,SUCCEEDS,Unchallenged,1903,spring
-105,Germany,MOVE,Sil,TYS,SUCCEEDS,Attack strength is greater,1903,spring
-106,Italy,MOVE,Ven,Alb,FAILS,Attack strength is not greater than the prevent strength,1903,spring
-107,Italy,SUPPORT,ION,Tus,SUCCEEDS,Unchallenged,1903,spring
-108,Italy,MOVE,Nap,Ukr,SUCCEEDS,Attack strength is greater,1903,spring
-109,Italy,MOVE,Gre,Lvn,SUCCEEDS,Attack strength is greater,1903,spring
-110,Italy,MOVE,TYS,Pru,SUCCEEDS,Attack strength is greater,1903,spring
-111,Turkey,MOVE,Gre,Ser,SUCCEEDS,Attack strength is greater,1903,fall
-112,Turkey,SUPPORT,Bul,Ser,SUCCEEDS,Unchallenged,1903,fall
-113,Turkey,MOVE,AEG,ION,SUCCEEDS,Attack strength is greater,1903,fall
-114,Turkey,MOVE,Con,Smy,SUCCEEDS,Attack strength is greater,1903,fall
-115,England,MOVE,NTH,Bel,FAILS,Attack strength is not greater than the defend strength,1903,fall
-116,England,MOVE,Nwy,Stp,SUCCEEDS,Attack strength is greater,1903,fall
-117,England,MOVE,NAO,IRI,SUCCEEDS,Attack strength is greater,1903,fall
-118,England,SUPPORT,ENG,Bel,FAILS,Disrupted,1903,fall
-119,France,MOVE,Lvp,Edi,SUCCEEDS,Attack strength is greater,1903,fall
-120,France,HOLD,Bel,Lvp,SUCCEEDS,Stronger defense,1903,fall
-121,France,SUPPORT,Bur,ENG,SUCCEEDS,Unchallenged,1903,fall
-122,France,MOVE,IRI,Spa,SUCCEEDS,Attack strength is greater,1903,fall
-123,France,MOVE,Bre,Tri,FAILS,Attack strength is not greater than the defend strength,1903,fall
-124,France,MOVE,LYO,ADR,SUCCEEDS,Attack strength is greater,1903,fall
-125,Austria,SUPPORT,Gal,Pru,SUCCEEDS,Unchallenged,1903,fall
-126,Austria,MOVE,Ser,Bel,FAILS,Attack strength is not greater than the prevent strength,1903,fall
-127,Austria,SUPPORT,Vie,Swe,FAILS,Invalid Order,1903,fall
-128,Germany,MOVE,Ber,Swe,SUCCEEDS,Attack strength is greater,1903,fall
-129,Germany,SUPPORT,Hol,Tri,SUCCEEDS,Unchallenged,1903,fall
-130,Germany,SUPPORT,BAL,TYS,FAILS,Disrupted,1903,fall
-131,Germany,MOVE,Den,Pie,FAILS,Attack strength is not greater than the head to head strength,1903,fall
-132,Germany,HOLD,War,Tri,FAILS,Insufficient hold strength,1903,fall
-133,Italy,SUPPORT,Ven,WES,SUCCEEDS,Unchallenged,1903,fall
-134,Italy,MOVE,ION,War,SUCCEEDS,Attack strength is greater,1903,fall
-135,Italy,MOVE,Tus,Den,SUCCEEDS,Attack strength is greater,1903,fall
-136,Italy,MOVE,Alb,BAL,SUCCEEDS,Attack strength is greater,1903,fall
-137,Italy,MOVE,TYS,War,SUCCEEDS,Attack strength is greater,1903,fall
-138,Russia,HOLD,Rum,War,SUCCEEDS,Unchallenged,1903,fall
-139,Turkey,MOVE,ION,Tun,SUCCEEDS,Attack strength is greater,1904,spring
-140,Turkey,MOVE,Ser,Bud,SUCCEEDS,Attack strength is greater,1904,spring
-141,Turkey,MOVE,Bul,Rum,SUCCEEDS,Attack strength is greater,1904,spring
-142,Turkey,MOVE,Smy,AEG,SUCCEEDS,Attack strength is greater,1904,spring
-143,Turkey,MOVE,Con,Bul,SUCCEEDS,Attack strength is greater,1904,spring
-144,Italy,SUPPORT,Tri,Bud,SUCCEEDS,Unchallenged,1904,spring
-145,Italy,MOVE,Rom,TYS,SUCCEEDS,Attack strength is greater,1904,spring
-146,Italy,SUPPORT,Pie,LYO,SUCCEEDS,Unchallenged,1904,spring
-147,Italy,MOVE,WES,MAO,FAILS,Attack strength is not greater than the prevent strength,1904,spring
-148,Italy,HOLD,Ven,LYO,SUCCEEDS,Unchallenged,1904,spring
-149,Italy,MOVE,TYS,Gas,SUCCEEDS,Attack strength is greater,1904,spring
-150,France,MOVE,Par,IRI,SUCCEEDS,Attack strength is greater,1904,spring
-151,France,HOLD,Mar,MAO,SUCCEEDS,Unchallenged,1904,spring
-152,France,MOVE,Lvp,MAO,SUCCEEDS,Attack strength is greater,1904,spring
-153,France,HOLD,Bel,Gal,SUCCEEDS,Unchallenged,1904,spring
-154,France,SUPPORT,Bur,Gal,SUCCEEDS,Unchallenged,1904,spring
-155,France,HOLD,Edi,Lvn,SUCCEEDS,Unchallenged,1904,spring
-156,France,SUPPORT,Spa,Lvn,SUCCEEDS,Unchallenged,1904,spring
-157,France,MOVE,Bre,Swe,SUCCEEDS,Attack strength is greater,1904,spring
-158,Austria,SUPPORT,Bud,Mun,FAILS,Disrupted,1904,spring
-159,Austria,MOVE,Vie,NAO,SUCCEEDS,Attack strength is greater,1904,spring
-160,Germany,MOVE,Pru,Nwy,SUCCEEDS,Attack strength is greater,1904,spring
-161,Germany,HOLD,Hol,Stp,SUCCEEDS,Unchallenged,1904,spring
-162,Germany,SUPPORT,BAL,Swe,SUCCEEDS,Unchallenged,1904,spring
-163,Turkey,MOVE,Tun,Naf,SUCCEEDS,Attack strength is greater,1904,fall
-164,Turkey,MOVE,Bud,Vie,SUCCEEDS,Attack strength is greater,1904,fall
-165,Turkey,MOVE,Bul,Ser,SUCCEEDS,Attack strength is greater,1904,fall
-166,Turkey,MOVE,AEG,ION,SUCCEEDS,Attack strength is greater,1904,fall
-167,Turkey,MOVE,Rum,Bud,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-168,England,MOVE,ENG,Bre,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-169,England,MOVE,NAO,Lvp,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-170,England,SUPPORT,Nwy,Swe,SUCCEEDS,Unchallenged,1904,fall
-171,France,SUPPORT,Mar,Lvp,FAILS,Disrupted,1904,fall
-172,France,HOLD,Bel,MAO,SUCCEEDS,Unchallenged,1904,fall
-173,France,SUPPORT,Bur,MAO,SUCCEEDS,Unchallenged,1904,fall
-174,France,MOVE,Edi,Bre,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-175,France,SUPPORT,Gas,Bud,SUCCEEDS,Unchallenged,1904,fall
-176,France,MOVE,IRI,Bud,FAILS,Attack strength is not greater than the defend strength,1904,fall
-177,France,SUPPORT,Spa,Tyr,SUCCEEDS,Unchallenged,1904,fall
-178,France,MOVE,MAO,Swe,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-179,Austria,MOVE,Gal,Swe,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-180,Austria,SUPPORT,Vie,Stp,FAILS,Displaced,1904,fall
-181,Germany,HOLD,Hol,Vie,SUCCEEDS,Unchallenged,1904,fall
-182,Germany,MOVE,Mun,Mar,FAILS,Attack strength is not greater than the prevent strength,1904,fall
-183,Germany,MOVE,BAL,Naf,SUCCEEDS,Attack strength is greater,1904,fall
-184,Germany,SUPPORT,Den,Tyr,SUCCEEDS,Unchallenged,1904,fall
-185,Germany,MOVE,Lvn,Mar,FAILS,Attack strength is not greater than the defend strength,1904,fall
-186,Italy,SUPPORT,Tri,Gal,SUCCEEDS,Unchallenged,1904,fall
-187,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1904,fall
-188,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1905,spring
-189,Turkey,MOVE,Ser,Bud,SUCCEEDS,Attack strength is greater,1905,spring
-190,Turkey,MOVE,Smy,Arm,SUCCEEDS,Attack strength is greater,1905,spring
-191,Turkey,SUPPORT,Rum,Bud,SUCCEEDS,Unchallenged,1905,spring
-192,Turkey,MOVE,Vie,Gal,SUCCEEDS,Attack strength is greater,1905,spring
-193,Turkey,HOLD,ION,BLA,SUCCEEDS,Unchallenged,1905,spring
-194,Turkey,MOVE,Con,Stp,SUCCEEDS,Attack strength is greater,1905,spring
-195,England,MOVE,Nwy,MAO,SUCCEEDS,Attack strength is greater,1905,spring
-196,England,SUPPORT,ENG,Pic,SUCCEEDS,Unchallenged,1905,spring
-197,France,SUPPORT,Mar,Yor,FAILS,Disrupted,1905,spring
-198,France,MOVE,Bel,War,SUCCEEDS,Attack strength is greater,1905,spring
-199,France,SUPPORT,Bur,Stp,SUCCEEDS,Unchallenged,1905,spring
-200,France,MOVE,Edi,Kie,SUCCEEDS,Attack strength is greater,1905,spring
-201,France,SUPPORT,Gas,BAL,SUCCEEDS,Unchallenged,1905,spring
-202,France,SUPPORT,IRI,BAL,SUCCEEDS,Unchallenged,1905,spring
-203,France,SUPPORT,Spa,Sil,FAILS,Disrupted,1905,spring
-204,France,SUPPORT,MAO,Boh,FAILS,Disrupted,1905,spring
-205,Austria,MOVE,Gal,Tyr,SUCCEEDS,Attack strength is greater,1905,spring
-206,Germany,SUPPORT,Lvn,Mar,SUCCEEDS,Unchallenged,1905,spring
-207,Germany,MOVE,Hol,Spa,SUCCEEDS,Attack strength is greater,1905,spring
-208,Germany,SUPPORT,Swe,Tyr,FAILS,Disrupted,1905,spring
-209,Germany,MOVE,Den,Spa,SUCCEEDS,Attack strength is greater,1905,spring
-210,Germany,MOVE,Ber,WES,SUCCEEDS,Attack strength is greater,1905,spring
-211,Germany,MOVE,Mun,Swe,SUCCEEDS,Attack strength is greater,1905,spring
-212,Italy,SUPPORT,Tri,Swe,SUCCEEDS,Unchallenged,1905,spring
-213,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1905,spring
-214,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1905,fall
-215,Turkey,MOVE,Rum,Bud,SUCCEEDS,Attack strength is greater,1905,fall
-216,Turkey,MOVE,ION,TYS,SUCCEEDS,Attack strength is greater,1905,fall
-217,Turkey,MOVE,Gal,Sil,FAILS,Attack strength is not greater than the defend strength,1905,fall
-218,Turkey,CONVOY,BLA,Rum,SUCCEEDS,Unchallenged,1905,fall
-219,Turkey,MOVE,Arm,Rum,SUCCEEDS,Attack strength is greater,1905,fall
-220,Turkey,MOVE,Bud,Vie,SUCCEEDS,Attack strength is greater,1905,fall
-221,Italy,SUPPORT,Tri,Vie,SUCCEEDS,Unchallenged,1905,fall
-222,Italy,MOVE,Pie,Mar,FAILS,Attack strength is not greater than the defend strength,1905,fall
-223,Italy,MOVE,WES,MAO,SUCCEEDS,Attack strength is greater,1905,fall
-224,Italy,MOVE,LYO,Spa,FAILS,Attack strength is not greater than the defend strength,1905,fall
-225,Italy,MOVE,Tyr,Mun,FAILS,Attack strength is not greater than the prevent strength,1905,fall
-226,Italy,MOVE,TYS,WES,SUCCEEDS,Attack strength is greater,1905,fall
-227,France,SUPPORT,Mar,Lon,FAILS,Disrupted,1905,fall
-228,France,SUPPORT,Bur,Mos,SUCCEEDS,Unchallenged,1905,fall
-229,France,HOLD,Pic,Swe,SUCCEEDS,Unchallenged,1905,fall
-230,France,SUPPORT,Gas,Mun,SUCCEEDS,Unchallenged,1905,fall
-231,France,SUPPORT,IRI,Swe,SUCCEEDS,Unchallenged,1905,fall
-232,France,SUPPORT,Spa,Mos,FAILS,Disrupted,1905,fall
-233,France,MOVE,Yor,Den,SUCCEEDS,Attack strength is greater,1905,fall
-234,France,SUPPORT,MAO,Nwy,FAILS,Disrupted,1905,fall
-235,Austria,SUPPORT,War,MAO,SUCCEEDS,Neither displaced nor disrupted,1905,fall
-236,Germany,SUPPORT,Nwy,War,FAILS,Disrupted,1905,fall
-237,Germany,MOVE,Boh,Nwy,FAILS,Attack strength is not greater than the prevent strength,1905,fall
-238,Germany,MOVE,BAL,BAL,FAILS,Attack strength is not greater than the defend strength,1905,fall
-239,Germany,MOVE,Lvn,Nwy,SUCCEEDS,Attack strength is greater,1905,fall
-240,Turkey,HOLD,Naf,Boh,SUCCEEDS,Unchallenged,1906,spring
-241,Turkey,MOVE,Vie,Ukr,SUCCEEDS,Attack strength is greater,1906,spring
-242,Turkey,MOVE,Rum,Rum,SUCCEEDS,Attack strength is greater,1906,spring
-243,Turkey,MOVE,Ank,Ukr,SUCCEEDS,Attack strength is greater,1906,spring
-244,Turkey,SUPPORT,Gal,Rum,SUCCEEDS,Unchallenged,1906,spring
-245,Turkey,CONVOY,BLA,Vie,SUCCEEDS,Unchallenged,1906,spring
-246,Turkey,MOVE,Bud,WES,SUCCEEDS,Attack strength is greater,1906,spring
-247,Turkey,MOVE,TYS,Mar,SUCCEEDS,Attack strength is greater,1906,spring
-248,Italy,HOLD,Tri,Spa,SUCCEEDS,Unchallenged,1906,spring
-249,Italy,MOVE,Pie,Boh,FAILS,Attack strength is not greater than the defend strength,1906,spring
-250,Italy,MOVE,WES,Spa,SUCCEEDS,Attack strength is greater,1906,spring
-251,Italy,SUPPORT,Tyr,Gas,SUCCEEDS,Unchallenged,1906,spring
-252,Italy,SUPPORT,LYO,Mun,SUCCEEDS,Unchallenged,1906,spring
-253,Italy,MOVE,MAO,MAO,FAILS,Attack strength is not greater than the defend strength,1906,spring
-254,France,SUPPORT,Mar,MAO,FAILS,Disrupted,1906,spring
-255,France,SUPPORT,Bur,MAO,SUCCEEDS,Unchallenged,1906,spring
-256,France,HOLD,Lon,MAO,SUCCEEDS,Unchallenged,1906,spring
-257,France,SUPPORT,Pic,Ukr,SUCCEEDS,Unchallenged,1906,spring
-258,France,SUPPORT,Gas,Ukr,FAILS,Disrupted,1906,spring
-259,France,MOVE,Por,Mun,SUCCEEDS,Attack strength is greater,1906,spring
-260,France,SUPPORT,IRI,Nwy,SUCCEEDS,Unchallenged,1906,spring
-261,France,SUPPORT,Spa,Swe,FAILS,Disrupted,1906,spring
-262,France,SUPPORT,Bre,Swe,SUCCEEDS,Unchallenged,1906,spring
-263,Austria,MOVE,War,War,FAILS,Attack strength is not greater than the prevent strength,1906,spring
-264,Germany,SUPPORT,Mos,Wal,SUCCEEDS,Unchallenged,1906,spring
-265,Germany,MOVE,Boh,Ukr,SUCCEEDS,Attack strength is greater,1906,spring
-266,Germany,MOVE,NTH,Stp,SUCCEEDS,Attack strength is greater,1906,spring
-267,Turkey,SUPPORT,Boh,Mun,SUCCEEDS,Unchallenged,1906,fall
-268,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1906,fall
-269,Turkey,MOVE,Rum,Sev,SUCCEEDS,Attack strength is greater,1906,fall
-270,Turkey,SUPPORT,Vie,Mos,SUCCEEDS,Unchallenged,1906,fall
-271,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1906,fall
-272,Turkey,SUPPORT,WES,Sev,SUCCEEDS,Unchallenged,1906,fall
-273,Turkey,MOVE,Gal,Lvp,FAILS,Attack strength is not greater than the defend strength,1906,fall
-274,Turkey,SUPPORT,BLA,Spa,SUCCEEDS,Unchallenged,1906,fall
-275,England,MOVE,Wal,Wal,FAILS,Attack strength is not greater than the prevent strength,1906,fall
-276,France,SUPPORT,Mar,Spa,FAILS,Disrupted,1906,fall
-277,France,SUPPORT,Bur,Spa,SUCCEEDS,Unchallenged,1906,fall
-278,France,MOVE,Lon,Lvp,FAILS,Attack strength is not greater than the defend strength,1906,fall
-279,France,HOLD,Pic,Gas,SUCCEEDS,Unchallenged,1906,fall
-280,France,MOVE,Gas,NAO,FAILS,Attack strength is not greater than the defend strength,1906,fall
-281,France,SUPPORT,Por,Stp,SUCCEEDS,Unchallenged,1906,fall
-282,France,MOVE,IRI,Nwy,FAILS,Attack strength is not greater than the prevent strength,1906,fall
-283,France,MOVE,Bre,Stp,FAILS,Attack strength is not greater than the defend strength,1906,fall
-284,France,MOVE,MAO,Swe,FAILS,Attack strength is not greater than the defend strength,1906,fall
-285,Austria,SUPPORT,War,Tyr,FAILS,Disrupted,1906,fall
-286,Germany,SUPPORT,Mos,Lvp,FAILS,Disrupted,1906,fall
-287,Germany,MOVE,Swe,Mar,FAILS,Attack strength is not greater than the prevent strength,1906,fall
-288,Germany,MOVE,Nwy,Mun,FAILS,Attack strength is not greater than the defend strength,1906,fall
-289,Germany,MOVE,BAL,Nwy,FAILS,Attack strength is not greater than the defend strength,1906,fall
-290,Germany,SUPPORT,Mun,Mos,FAILS,Disrupted,1906,fall
-291,Germany,SUPPORT,Sil,Nwy,SUCCEEDS,Unchallenged,1906,fall
-292,Turkey,MOVE,Boh,Sil,FAILS,Attack strength is not greater than the defend strength,1907,spring
-293,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1907,spring
-294,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1907,spring
-295,Turkey,MOVE,Vie,Boh,FAILS,Attack strength is not greater than the prevent strength,1907,spring
-296,Turkey,SUPPORT,Ukr,War,FAILS,Invalid Order,1907,spring
-297,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1907,spring
-298,Turkey,SUPPORT,Gal,Sil,FAILS,Disrupted,1907,spring
-299,Turkey,SUPPORT,BLA,Bul,SUCCEEDS,Unchallenged,1907,spring
-300,Turkey,MOVE,Con,MAO,SUCCEEDS,Attack strength is greater,1907,spring
-301,Italy,HOLD,Tri,LYO,SUCCEEDS,Unchallenged,1907,spring
-302,Italy,SUPPORT,NAO,Pie,FAILS,Disrupted,1907,spring
-303,Italy,MOVE,Pie,MAO,FAILS,Attack strength is not greater than the defend strength,1907,spring
-304,Italy,MOVE,Ven,Spa,FAILS,Attack strength is not greater than the defend strength,1907,spring
-305,Italy,MOVE,Spa,Mun,FAILS,Attack strength is not greater than the defend strength,1907,spring
-306,Italy,MOVE,LYO,Spa,FAILS,Attack strength is not greater than the prevent strength,1907,spring
-307,Italy,MOVE,Tyr,Yor,FAILS,Attack strength is not greater than the defend strength,1907,spring
-308,France,SUPPORT,Mar,Spa,SUCCEEDS,Unchallenged,1907,spring
-309,France,SUPPORT,Bur,Spa,SUCCEEDS,Unchallenged,1907,spring
-310,France,MOVE,Lon,NAO,SUCCEEDS,Attack strength is greater,1907,spring
-311,France,SUPPORT,Gas,Spa,SUCCEEDS,Unchallenged,1907,spring
-312,France,MOVE,Por,Gal,SUCCEEDS,Attack strength is greater,1907,spring
-313,France,MOVE,IRI,Nwy,FAILS,Attack strength is not greater than the defend strength,1907,spring
-314,France,SUPPORT,Bre,Nwy,SUCCEEDS,Unchallenged,1907,spring
-315,France,SUPPORT,MAO,BOT,SUCCEEDS,Neither displaced nor disrupted,1907,spring
-316,Austria,MOVE,War,Boh,FAILS,Attack strength is not greater than the defend strength,1907,spring
-317,Germany,SUPPORT,Swe,Ruh,SUCCEEDS,Unchallenged,1907,spring
-318,Germany,MOVE,NTH,Gal,SUCCEEDS,Attack strength is greater,1907,spring
-319,Germany,MOVE,BAL,Lvn,SUCCEEDS,Attack strength is greater,1907,spring
-320,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1907,fall
-321,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1907,fall
-322,Turkey,MOVE,Sev,Mos,SUCCEEDS,Attack strength is greater,1907,fall
-323,Turkey,SUPPORT,Vie,Mos,SUCCEEDS,Unchallenged,1907,fall
-324,Turkey,SUPPORT,Ukr,Mun,SUCCEEDS,Unchallenged,1907,fall
-325,Turkey,SUPPORT,Boh,Sil,FAILS,Disrupted,1907,fall
-326,Turkey,MOVE,Gal,Rum,FAILS,Attack strength is not greater than the defend strength,1907,fall
-327,Turkey,MOVE,Bul,Tyr,SUCCEEDS,Attack strength is greater,1907,fall
-328,Turkey,HOLD,BLA,MAO,SUCCEEDS,Unchallenged,1907,fall
-329,Italy,MOVE,Tri,Mar,FAILS,Attack strength is not greater than the defend strength,1907,fall
-330,Italy,MOVE,NAO,Spa,FAILS,Attack strength is not greater than the defend strength,1907,fall
-331,Italy,MOVE,Pie,Mun,FAILS,Attack strength is not greater than the prevent strength,1907,fall
-332,Italy,HOLD,Ven,LYO,SUCCEEDS,Unchallenged,1907,fall
-333,Italy,MOVE,LYO,Mar,FAILS,Attack strength is not greater than the defend strength,1907,fall
-334,Italy,MOVE,Tyr,NAO,FAILS,Attack strength is not greater than the defend strength,1907,fall
-335,France,MOVE,Mar,LYO,SUCCEEDS,Attack strength is greater,1907,fall
-336,France,MOVE,Bur,Lvp,FAILS,Attack strength is not greater than the prevent strength,1907,fall
-337,France,SUPPORT,Gas,Gal,SUCCEEDS,Unchallenged,1907,fall
-338,France,MOVE,IRI,Stp,FAILS,Attack strength is not greater than the defend strength,1907,fall
-339,France,SUPPORT,Spa,Stp,SUCCEEDS,Neither displaced nor disrupted,1907,fall
-340,France,SUPPORT,Bre,Stp,SUCCEEDS,Unchallenged,1907,fall
-341,France,MOVE,Yor,Boh,SUCCEEDS,Attack strength is greater,1907,fall
-342,France,SUPPORT,MAO,Boh,FAILS,Disrupted,1907,fall
-343,Austria,MOVE,War,War,FAILS,Attack strength is not greater than the defend strength,1907,fall
-344,Germany,SUPPORT,Ruh,War,SUCCEEDS,Unchallenged,1907,fall
-345,Turkey,SUPPORT,WES,LYO,FAILS,Disrupted,1908,spring
-346,Turkey,SUPPORT,Naf,Gal,SUCCEEDS,Unchallenged,1908,spring
-347,Turkey,MOVE,Rum,War,SUCCEEDS,Attack strength is greater,1908,spring
-348,Turkey,SUPPORT,Mos,War,FAILS,Displaced,1908,spring
-349,Turkey,SUPPORT,Vie,Sil,SUCCEEDS,Unchallenged,1908,spring
-350,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1908,spring
-351,Turkey,MOVE,Boh,Sev,FAILS,Attack strength is not greater than the defend strength,1908,spring
-352,Turkey,MOVE,Gal,Sev,SUCCEEDS,Attack strength is greater,1908,spring
-353,Turkey,CONVOY,BLA,Ven,SUCCEEDS,Unchallenged,1908,spring
-354,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1908,spring
-355,Italy,MOVE,Tri,NWG,SUCCEEDS,Attack strength is greater,1908,spring
-356,Italy,MOVE,Pie,Tus,FAILS,Attack strength is not greater than the defend strength,1908,spring
-357,Italy,MOVE,NAO,Mun,FAILS,Attack strength is not greater than the prevent strength,1908,spring
-358,Italy,MOVE,Ven,LYO,SUCCEEDS,Attack strength is greater,1908,spring
-359,Italy,MOVE,Tyr,Mos,FAILS,Attack strength is not greater than the prevent strength,1908,spring
-360,Italy,SUPPORT,TYS,Mun,SUCCEEDS,Unchallenged,1908,spring
-361,Austria,MOVE,War,BAL,SUCCEEDS,Attack strength is greater,1908,spring
-362,Germany,SUPPORT,Ruh,NWG,SUCCEEDS,Unchallenged,1908,spring
-363,Germany,MOVE,BOT,Mos,SUCCEEDS,Attack strength is greater,1908,spring
-364,Germany,MOVE,Nwy,Pru,FAILS,Attack strength is not greater than the prevent strength,1908,spring
-365,Germany,SUPPORT,Stp,Boh,SUCCEEDS,Unchallenged,1908,spring
-366,Germany,MOVE,Ber,Mun,SUCCEEDS,Attack strength is greater,1908,spring
-367,Germany,MOVE,Mun,Boh,SUCCEEDS,Attack strength is greater,1908,spring
-368,Germany,MOVE,Kie,Cly,SUCCEEDS,Attack strength is greater,1908,spring
-369,Germany,SUPPORT,Sil,MAO,SUCCEEDS,Neither displaced nor disrupted,1908,spring
-370,France,SUPPORT,Mar,WES,SUCCEEDS,Unchallenged,1908,spring
-371,France,MOVE,Lvp,MAO,SUCCEEDS,Attack strength is greater,1908,spring
-372,France,SUPPORT,Bur,WES,SUCCEEDS,Unchallenged,1908,spring
-373,France,SUPPORT,Gas,WES,SUCCEEDS,Unchallenged,1908,spring
-374,Turkey,SUPPORT,Sev,Mos,SUCCEEDS,Unchallenged,1908,fall
-375,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1908,fall
-376,Turkey,MOVE,Vie,Boh,FAILS,Attack strength is not greater than the defend strength,1908,fall
-377,Turkey,SUPPORT,Ukr,Mos,SUCCEEDS,Neither displaced nor disrupted,1908,fall
-378,Turkey,SUPPORT,WES,LYO,SUCCEEDS,Unchallenged,1908,fall
-379,Turkey,SUPPORT,Gal,Mos,FAILS,Disrupted,1908,fall
-380,Turkey,MOVE,Lvn,War,SUCCEEDS,Attack strength is greater,1908,fall
-381,Turkey,HOLD,BLA,Mun,SUCCEEDS,Unchallenged,1908,fall
-382,Turkey,HOLD,War,NWG,FAILS,Insufficient hold strength,1908,fall
-383,Germany,SUPPORT,Pru,Gal,SUCCEEDS,Unchallenged,1908,fall
-384,Germany,MOVE,Ruh,Lvn,FAILS,Attack strength is not greater than the defend strength,1908,fall
-385,Germany,MOVE,Nwy,Lvn,SUCCEEDS,Attack strength is greater,1908,fall
-386,Germany,MOVE,Boh,Tyr,FAILS,Attack strength is not greater than the defend strength,1908,fall
-387,Germany,MOVE,Stp,War,SUCCEEDS,Attack strength is greater,1908,fall
-388,Germany,SUPPORT,BAL,Ukr,SUCCEEDS,Unchallenged,1908,fall
-389,Germany,MOVE,Mun,Lvp,FAILS,Attack strength is not greater than the defend strength,1908,fall
-390,Germany,MOVE,Sil,LYO,SUCCEEDS,Attack strength is greater,1908,fall
-391,Austria,MOVE,Mos,LYO,FAILS,Attack strength is not greater than the defend strength,1908,fall
-392,Italy,SUPPORT,Tus,Lvp,SUCCEEDS,Unchallenged,1908,fall
-393,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1909,spring
-394,Turkey,MOVE,Naf,Boh,FAILS,Attack strength is not greater than the prevent strength,1909,spring
-395,Turkey,MOVE,Vie,Rum,SUCCEEDS,Attack strength is greater,1909,spring
-396,Turkey,HOLD,Mos,MAO,SUCCEEDS,Stronger defense,1909,spring
-397,Turkey,SUPPORT,Ukr,Boh,SUCCEEDS,Unchallenged,1909,spring
-398,Turkey,MOVE,Ank,Rum,SUCCEEDS,Attack strength is greater,1909,spring
-399,Turkey,SUPPORT,WES,Bul,FAILS,Displaced,1909,spring
-400,Turkey,SUPPORT,Gal,War,SUCCEEDS,Neither displaced nor disrupted,1909,spring
-401,Turkey,CONVOY,BLA,Mun,SUCCEEDS,Unchallenged,1909,spring
-402,Turkey,MOVE,Con,Mos,SUCCEEDS,Attack strength is greater,1909,spring
-403,Germany,MOVE,Pru,Gal,FAILS,Attack strength is not greater than the defend strength,1909,spring
-404,Germany,MOVE,Ruh,NAO,FAILS,Attack strength is not greater than the defend strength,1909,spring
-405,Germany,SUPPORT,Lvn,Tyr,SUCCEEDS,Unchallenged,1909,spring
-406,Germany,MOVE,Boh,Mos,FAILS,Attack strength is not greater than the defend strength,1909,spring
-407,Germany,MOVE,NWG,Mos,FAILS,Attack strength is not greater than the defend strength,1909,spring
-408,Germany,SUPPORT,BAL,IRI,SUCCEEDS,Unchallenged,1909,spring
-409,Germany,MOVE,Mun,Mar,FAILS,Attack strength is not greater than the defend strength,1909,spring
-410,Germany,MOVE,War,Boh,FAILS,Attack strength is not greater than the defend strength,1909,spring
-411,Austria,SUPPORT,Stp,LYO,SUCCEEDS,Unchallenged,1909,spring
-412,Italy,SUPPORT,Tus,MAO,SUCCEEDS,Unchallenged,1909,spring
-413,Italy,MOVE,NAO,Lvp,FAILS,Attack strength is not greater than the defend strength,1909,spring
-414,Italy,MOVE,Pie,WES,FAILS,Attack strength is not greater than the defend strength,1909,spring
-415,Italy,SUPPORT,Ven,MAO,SUCCEEDS,Unchallenged,1909,spring
-416,Italy,SUPPORT,Tyr,WES,FAILS,Disrupted,1909,spring
-417,Italy,MOVE,TYS,WES,FAILS,Attack strength is not greater than the defend strength,1909,spring
-418,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1909,fall
-419,Turkey,SUPPORT,Naf,Rum,SUCCEEDS,Unchallenged,1909,fall
-420,Turkey,MOVE,Bul,Gal,FAILS,Attack strength is not greater than the defend strength,1909,fall
-421,Turkey,MOVE,Rum,Sil,FAILS,Attack strength is not greater than the defend strength,1909,fall
-422,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1909,fall
-423,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1909,fall
-424,Turkey,SUPPORT,Boh,Mos,SUCCEEDS,Unchallenged,1909,fall
-425,Turkey,MOVE,Gal,War,FAILS,Attack strength is not greater than the defend strength,1909,fall
-426,Turkey,MOVE,Tun,Mos,FAILS,Attack strength is not greater than the defend strength,1909,fall
-427,Turkey,HOLD,BLA,War,SUCCEEDS,Unchallenged,1909,fall
-428,Germany,SUPPORT,Ruh,Mos,SUCCEEDS,Unchallenged,1909,fall
-429,Germany,SUPPORT,Lvn,Lvp,SUCCEEDS,Unchallenged,1909,fall
-430,Germany,MOVE,Pru,LYO,FAILS,Attack strength is not greater than the defend strength,1909,fall
-431,Germany,HOLD,NWG,LYO,SUCCEEDS,Unchallenged,1909,fall
-432,Germany,HOLD,BAL,Mun,SUCCEEDS,Unchallenged,1909,fall
-433,Germany,SUPPORT,Mun,Mar,SUCCEEDS,Unchallenged,1909,fall
-434,Germany,MOVE,War,TYS,FAILS,Attack strength is not greater than the defend strength,1909,fall
-435,Germany,SUPPORT,Sil,MAO,FAILS,Disrupted,1909,fall
-436,Austria,SUPPORT,Stp,MAO,SUCCEEDS,Unchallenged,1909,fall
-437,Italy,SUPPORT,Tus,TYS,SUCCEEDS,Unchallenged,1909,fall
-438,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1910,spring
-439,Turkey,SUPPORT,Naf,Rum,FAILS,Disrupted,1910,spring
-440,Turkey,MOVE,Bul,Gal,FAILS,Attack strength is not greater than the defend strength,1910,spring
-441,Turkey,MOVE,Rum,Sil,FAILS,Attack strength is not greater than the defend strength,1910,spring
-442,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1910,spring
-443,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1910,spring
-444,Turkey,SUPPORT,Boh,Bul,FAILS,Disrupted,1910,spring
-445,Turkey,MOVE,Gal,WES,FAILS,Attack strength is not greater than the defend strength,1910,spring
-446,Turkey,MOVE,Tun,MAO,FAILS,Attack strength is not greater than the defend strength,1910,spring
-447,Turkey,HOLD,BLA,Mun,SUCCEEDS,Unchallenged,1910,spring
-448,Turkey,MOVE,Con,Mun,FAILS,Attack strength is not greater than the defend strength,1910,spring
-449,Italy,SUPPORT,TYS,Mos,SUCCEEDS,Unchallenged,1910,spring
-450,Italy,SUPPORT,Tus,Boh,SUCCEEDS,Unchallenged,1910,spring
-451,Italy,MOVE,NAO,Mos,FAILS,Attack strength is not greater than the defend strength,1910,spring
-452,Italy,MOVE,Tyr,Boh,FAILS,Attack strength is not greater than the prevent strength,1910,spring
-453,Italy,HOLD,Pie,Pie,SUCCEEDS,Stronger defense,1910,spring
-454,Austria,HOLD,Stp,Mun,SUCCEEDS,Unchallenged,1910,spring
-455,Germany,MOVE,Ruh,Naf,FAILS,Attack strength is not greater than the prevent strength,1910,spring
-456,Germany,SUPPORT,Lvn,NAO,SUCCEEDS,Unchallenged,1910,spring
-457,Germany,SUPPORT,Pru,Pie,SUCCEEDS,Unchallenged,1910,spring
-458,Germany,HOLD,NWG,Naf,SUCCEEDS,Unchallenged,1910,spring
-459,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1910,fall
-460,Turkey,MOVE,Naf,WES,SUCCEEDS,Attack strength is greater,1910,fall
-461,Turkey,SUPPORT,Tun,WES,SUCCEEDS,Unchallenged,1910,fall
-462,Turkey,MOVE,Rum,Bud,SUCCEEDS,Attack strength is greater,1910,fall
-463,Turkey,MOVE,Mos,War,FAILS,Attack strength is not greater than the prevent strength,1910,fall
-464,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1910,fall
-465,Turkey,MOVE,Boh,Sil,FAILS,Attack strength is not greater than the defend strength,1910,fall
-466,Turkey,SUPPORT,Gal,War,SUCCEEDS,Neither displaced nor disrupted,1910,fall
-467,Turkey,MOVE,Bul,Sev,FAILS,Attack strength is not greater than the defend strength,1910,fall
-468,Turkey,CONVOY,BLA,Sev,SUCCEEDS,Unchallenged,1910,fall
-469,Turkey,MOVE,Con,Bul,FAILS,Attack strength is not greater than the defend strength,1910,fall
-470,Italy,SUPPORT,TYS,WES,SUCCEEDS,Neither displaced nor disrupted,1910,fall
-471,Italy,MOVE,Tus,Pie,FAILS,Attack strength is not greater than the defend strength,1910,fall
-472,Italy,MOVE,NAO,MAO,SUCCEEDS,Attack strength is greater,1910,fall
-473,Italy,HOLD,Tyr,LYO,SUCCEEDS,Unchallenged,1910,fall
-474,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1910,fall
-475,Austria,MOVE,Stp,Mun,FAILS,Attack strength is not greater than the prevent strength,1910,fall
-476,Germany,MOVE,Ruh,War,FAILS,Attack strength is not greater than the defend strength,1910,fall
-477,Germany,SUPPORT,Lvn,War,SUCCEEDS,Unchallenged,1910,fall
-478,Germany,SUPPORT,Pru,Boh,SUCCEEDS,Unchallenged,1910,fall
-479,Germany,HOLD,NWG,Gal,SUCCEEDS,Unchallenged,1910,fall
-480,Germany,HOLD,BAL,War,SUCCEEDS,Unchallenged,1910,fall
-481,Germany,MOVE,Mun,Mun,FAILS,Attack strength is not greater than the defend strength,1910,fall
-482,Germany,MOVE,War,Spa,FAILS,Attack strength is not greater than the defend strength,1910,fall
-483,Germany,MOVE,Sil,TYS,FAILS,Attack strength is not greater than the prevent strength,1910,fall
-484,France,SUPPORT,Mar,NAO,SUCCEEDS,Unchallenged,1910,fall
-485,France,HOLD,Lvp,WES,SUCCEEDS,Unchallenged,1910,fall
-486,France,SUPPORT,Bur,TYS,SUCCEEDS,Unchallenged,1910,fall
-487,France,MOVE,Gas,Naf,FAILS,Attack strength is not greater than the defend strength,1910,fall
-488,Turkey,MOVE,WES,Naf,SUCCEEDS,Attack strength is greater,1911,spring
-489,Turkey,SUPPORT,Tun,Naf,SUCCEEDS,Unchallenged,1911,spring
-490,Turkey,SUPPORT,Sev,Sil,SUCCEEDS,Unchallenged,1911,spring
-491,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1911,spring
-492,Turkey,SUPPORT,Ukr,Ser,SUCCEEDS,Unchallenged,1911,spring
-493,Turkey,SUPPORT,Boh,Vie,FAILS,Disrupted,1911,spring
-494,Turkey,MOVE,Gal,Bul,FAILS,Attack strength is not greater than the head to head strength,1911,spring
-495,Turkey,MOVE,Bul,ENG,SUCCEEDS,Attack strength is greater,1911,spring
-496,Turkey,HOLD,BLA,LYO,SUCCEEDS,Unchallenged,1911,spring
-497,Turkey,MOVE,Bud,Mun,SUCCEEDS,Attack strength is greater,1911,spring
-498,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1911,spring
-499,Italy,MOVE,MAO,Mos,SUCCEEDS,Attack strength is greater,1911,spring
-500,Italy,SUPPORT,Tus,Mun,SUCCEEDS,Unchallenged,1911,spring
-501,Italy,SUPPORT,Pie,Mos,SUCCEEDS,Unchallenged,1911,spring
-502,Italy,MOVE,Tyr,War,FAILS,Attack strength is not greater than the prevent strength,1911,spring
-503,Italy,MOVE,TYS,NTH,SUCCEEDS,Attack strength is greater,1911,spring
-504,Austria,SUPPORT,Stp,Boh,SUCCEEDS,Unchallenged,1911,spring
-505,Germany,MOVE,Ruh,Mos,FAILS,Attack strength is not greater than the prevent strength,1911,spring
-506,Germany,SUPPORT,Lvn,Gal,SUCCEEDS,Unchallenged,1911,spring
-507,Germany,MOVE,Pru,LYO,FAILS,Attack strength is not greater than the defend strength,1911,spring
-508,Germany,MOVE,NWG,WES,SUCCEEDS,Attack strength is greater,1911,spring
-509,Germany,HOLD,BAL,Yor,SUCCEEDS,Unchallenged,1911,spring
-510,Germany,MOVE,Mun,Mun,FAILS,Attack strength is not greater than the defend strength,1911,spring
-511,Germany,MOVE,War,Mar,FAILS,Attack strength is not greater than the defend strength,1911,spring
-512,Germany,MOVE,Sil,MAO,FAILS,Attack strength is not greater than the head to head strength,1911,spring
-513,France,MOVE,Mar,WES,FAILS,Attack strength is not greater than the prevent strength,1911,spring
-514,France,SUPPORT,Naf,MAO,FAILS,Displaced,1911,spring
-515,France,MOVE,Lvp,WES,SUCCEEDS,Attack strength is greater,1911,spring
-516,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1911,fall
-517,Turkey,MOVE,Naf,WES,FAILS,Attack strength is not greater than the defend strength,1911,fall
-518,Turkey,MOVE,Tun,Bud,FAILS,Attack strength is not greater than the defend strength,1911,fall
-519,Turkey,MOVE,Vie,Sil,SUCCEEDS,Attack strength is greater,1911,fall
-520,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1911,fall
-521,Turkey,SUPPORT,Ukr,Ser,SUCCEEDS,Unchallenged,1911,fall
-522,Turkey,MOVE,Boh,Rum,SUCCEEDS,Attack strength is greater,1911,fall
-523,Turkey,SUPPORT,Gal,Mar,SUCCEEDS,Neither displaced nor disrupted,1911,fall
-524,Turkey,MOVE,Bul,Rom,SUCCEEDS,Attack strength is greater,1911,fall
-525,Turkey,HOLD,BLA,Mar,SUCCEEDS,Unchallenged,1911,fall
-526,Turkey,MOVE,Ser,Vie,SUCCEEDS,Attack strength is greater,1911,fall
-527,Italy,SUPPORT,LYO,MAO,FAILS,Disrupted,1911,fall
-528,Italy,MOVE,Tus,Mos,SUCCEEDS,Attack strength is greater,1911,fall
-529,Italy,MOVE,Pie,Mun,FAILS,Attack strength is not greater than the defend strength,1911,fall
-530,Italy,MOVE,Tyr,Mos,SUCCEEDS,Attack strength is greater,1911,fall
-531,Italy,SUPPORT,ENG,War,FAILS,Disrupted,1911,fall
-532,Austria,SUPPORT,Stp,ENG,SUCCEEDS,Unchallenged,1911,fall
-533,Germany,MOVE,Ruh,Den,SUCCEEDS,Attack strength is greater,1911,fall
-534,Germany,SUPPORT,Lvn,Boh,SUCCEEDS,Unchallenged,1911,fall
-535,Germany,MOVE,Pru,Mos,FAILS,Attack strength is not greater than the defend strength,1911,fall
-536,Germany,MOVE,NTH,Gal,FAILS,Attack strength is not greater than the defend strength,1911,fall
-537,Germany,MOVE,BAL,LYO,SUCCEEDS,Attack strength is greater,1911,fall
-538,Germany,MOVE,Mun,Bel,SUCCEEDS,Attack strength is greater,1911,fall
-539,Germany,MOVE,War,IRI,FAILS,Attack strength is not greater than the defend strength,1911,fall
-540,Germany,MOVE,Sil,LYO,FAILS,Attack strength is not greater than the defend strength,1911,fall
-541,France,SUPPORT,Mar,LYO,FAILS,Disrupted,1911,fall
-542,France,MOVE,Bur,Lon,SUCCEEDS,Attack strength is greater,1911,fall
-543,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1912,spring
-544,Turkey,SUPPORT,Naf,Bud,SUCCEEDS,Unchallenged,1912,spring
-545,Turkey,HOLD,Rum,WES,SUCCEEDS,Unchallenged,1912,spring
-546,Turkey,HOLD,Mos,Ser,SUCCEEDS,Stronger defense,1912,spring
-547,Turkey,SUPPORT,Ukr,Mun,SUCCEEDS,Unchallenged,1912,spring
-548,Turkey,MOVE,Gal,War,SUCCEEDS,Attack strength is greater,1912,spring
-549,Turkey,MOVE,Tun,Sil,FAILS,Attack strength is not greater than the defend strength,1912,spring
-550,Turkey,SUPPORT,BLA,Gal,SUCCEEDS,Unchallenged,1912,spring
-551,Turkey,MOVE,Bud,Edi,SUCCEEDS,Attack strength is greater,1912,spring
-552,Turkey,MOVE,Sil,NTH,FAILS,Attack strength is not greater than the defend strength,1912,spring
-553,Germany,SUPPORT,Pru,Sil,SUCCEEDS,Unchallenged,1912,spring
-554,Germany,SUPPORT,Mun,War,SUCCEEDS,Neither displaced nor disrupted,1912,spring
-555,Germany,SUPPORT,Boh,Gal,FAILS,Disrupted,1912,spring
-556,Germany,MOVE,NTH,Mos,SUCCEEDS,Attack strength is greater,1912,spring
-557,Germany,MOVE,Den,Ven,SUCCEEDS,Attack strength is greater,1912,spring
-558,Germany,MOVE,Ber,Boh,SUCCEEDS,Attack strength is greater,1912,spring
-559,Germany,MOVE,Lvn,Mar,SUCCEEDS,Attack strength is greater,1912,spring
-560,Germany,MOVE,War,TYS,SUCCEEDS,Attack strength is greater,1912,spring
-561,Austria,MOVE,Stp,WES,FAILS,Attack strength is not greater than the defend strength,1912,spring
-562,Italy,MOVE,Rom,LYO,SUCCEEDS,Attack strength is greater,1912,spring
-563,Italy,MOVE,Vie,Mar,FAILS,Attack strength is not greater than the defend strength,1912,spring
-564,Italy,HOLD,ENG,LYO,SUCCEEDS,Stronger defense,1912,spring
-565,Italy,MOVE,Pie,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,spring
-566,Italy,MOVE,Nap,ENG,SUCCEEDS,Attack strength is greater,1912,spring
-567,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1912,fall
-568,Turkey,MOVE,Naf,WES,SUCCEEDS,Attack strength is greater,1912,fall
-569,Turkey,HOLD,Ser,Gal,SUCCEEDS,Unchallenged,1912,fall
-570,Turkey,MOVE,Rum,War,FAILS,Attack strength is not greater than the defend strength,1912,fall
-571,Turkey,MOVE,Mos,War,FAILS,Attack strength is not greater than the defend strength,1912,fall
-572,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1912,fall
-573,Turkey,SUPPORT,Tun,Lvn,SUCCEEDS,Unchallenged,1912,fall
-574,Turkey,HOLD,BLA,Cly,SUCCEEDS,Unchallenged,1912,fall
-575,Turkey,SUPPORT,Bud,Vie,SUCCEEDS,Unchallenged,1912,fall
-576,Germany,MOVE,Pru,ENG,SUCCEEDS,Attack strength is greater,1912,fall
-577,Germany,MOVE,Edi,Vie,SUCCEEDS,Attack strength is greater,1912,fall
-578,Germany,SUPPORT,Boh,Tyr,SUCCEEDS,Unchallenged,1912,fall
-579,Germany,SUPPORT,NTH,Mos,SUCCEEDS,Unchallenged,1912,fall
-580,Germany,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the defend strength,1912,fall
-581,Germany,MOVE,Mun,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,fall
-582,Germany,HOLD,War,Mar,SUCCEEDS,Stronger defense,1912,fall
-583,Germany,SUPPORT,Sil,Tyr,SUCCEEDS,Unchallenged,1912,fall
-584,Austria,MOVE,Stp,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,fall
-585,Italy,SUPPORT,Vie,Mar,FAILS,Disrupted,1912,fall
-586,Italy,MOVE,Tus,TYS,FAILS,Attack strength is not greater than the defend strength,1912,fall
-587,Italy,MOVE,Pie,MAO,FAILS,Attack strength is not greater than the prevent strength,1912,fall
-588,Italy,HOLD,ENG,ENG,FAILS,Insufficient hold strength,1912,fall
-589,Italy,MOVE,Ven,TYS,FAILS,Attack strength is not greater than the prevent strength,1912,fall
-590,Italy,SUPPORT,TYS,Naf,FAILS,Disrupted,1912,fall
-591,Turkey,MOVE,Sev,Ukr,SUCCEEDS,Attack strength is greater,1913,spring
-592,Turkey,MOVE,Ser,Tri,SUCCEEDS,Attack strength is greater,1913,spring
-593,Turkey,SUPPORT,Rum,Gal,SUCCEEDS,Unchallenged,1913,spring
-594,Turkey,HOLD,Mos,Gal,FAILS,Insufficient hold strength,1913,spring
-595,Turkey,MOVE,Ukr,Naf,SUCCEEDS,Attack strength is greater,1913,spring
-596,Turkey,MOVE,WES,Naf,FAILS,Attack strength is not greater than the head to head strength,1913,spring
-597,Turkey,SUPPORT,Tun,Gal,SUCCEEDS,Unchallenged,1913,spring
-598,Turkey,HOLD,BLA,Bul,SUCCEEDS,Unchallenged,1913,spring
-599,Turkey,SUPPORT,Bud,Boh,SUCCEEDS,Unchallenged,1913,spring
-600,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1913,spring
-601,Italy,MOVE,Vie,LYO,FAILS,Attack strength is not greater than the defend strength,1913,spring
-602,Italy,MOVE,Tus,Lvp,SUCCEEDS,Attack strength is greater,1913,spring
-603,Italy,SUPPORT,Pie,Tyr,FAILS,Displaced,1913,spring
-604,Italy,MOVE,IRI,LYO,FAILS,Attack strength is not greater than the prevent strength,1913,spring
-605,Italy,MOVE,Ven,Mos,FAILS,Attack strength is not greater than the prevent strength,1913,spring
-606,Italy,SUPPORT,TYS,Mos,SUCCEEDS,Unchallenged,1913,spring
-607,Austria,SUPPORT,Stp,Tyr,SUCCEEDS,Unchallenged,1913,spring
-608,Germany,MOVE,Lvn,NWG,SUCCEEDS,Attack strength is greater,1913,spring
-609,Germany,SUPPORT,Boh,Ukr,FAILS,Disrupted,1913,spring
-610,Germany,MOVE,NTH,Lvp,SUCCEEDS,Attack strength is greater,1913,spring
-611,Germany,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the head to head strength,1913,spring
-612,Germany,MOVE,Cly,Ukr,FAILS,Attack strength is not greater than the prevent strength,1913,spring
-613,Germany,MOVE,Mun,Gal,FAILS,Attack strength is not greater than the prevent strength,1913,spring
-614,Germany,SUPPORT,War,Pie,SUCCEEDS,Unchallenged,1913,spring
-615,Germany,MOVE,Sil,WES,FAILS,Attack strength is not greater than the prevent strength,1913,spring
-616,France,SUPPORT,Mar,Bur,SUCCEEDS,Unchallenged,1913,spring
-617,France,MOVE,Naf,IRI,SUCCEEDS,Attack strength is greater,1913,spring
-618,France,MOVE,Bel,Wal,SUCCEEDS,Attack strength is greater,1913,spring
-619,France,MOVE,ENG,WES,FAILS,Attack strength is not greater than the defend strength,1913,spring
-620,France,HOLD,Gas,Pie,SUCCEEDS,Unchallenged,1913,spring
-621,France,MOVE,Lon,WES,SUCCEEDS,Attack strength is greater,1913,spring
-622,Turkey,MOVE,Tri,Tyr,SUCCEEDS,Attack strength is greater,1913,fall
-623,Turkey,SUPPORT,Sev,Gal,SUCCEEDS,Unchallenged,1913,fall
-624,Turkey,HOLD,Tun,Boh,SUCCEEDS,Stronger defense,1913,fall
-625,Turkey,MOVE,Rum,Rum,FAILS,Attack strength is not greater than the defend strength,1913,fall
-626,Turkey,HOLD,Ukr,Gal,SUCCEEDS,Unchallenged,1913,fall
-627,Turkey,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the defend strength,1913,fall
-628,Turkey,MOVE,Bul,Wal,FAILS,Attack strength is not greater than the defend strength,1913,fall
-629,Turkey,HOLD,BLA,Pie,SUCCEEDS,Unchallenged,1913,fall
-630,Turkey,SUPPORT,Bud,NAO,SUCCEEDS,Unchallenged,1913,fall
-631,Italy,SUPPORT,Vie,Lvp,SUCCEEDS,Unchallenged,1913,fall
-632,Italy,SUPPORT,Tus,Lvp,SUCCEEDS,Unchallenged,1913,fall
-633,Italy,MOVE,IRI,IRI,FAILS,Attack strength is not greater than the defend strength,1913,fall
-634,Italy,MOVE,Ven,LYO,FAILS,Attack strength is not greater than the defend strength,1913,fall
-635,Italy,HOLD,LYO,Tun,SUCCEEDS,Stronger defense,1913,fall
-636,Italy,SUPPORT,TYS,LYO,SUCCEEDS,Unchallenged,1913,fall
-637,Austria,SUPPORT,Stp,LYO,SUCCEEDS,Unchallenged,1913,fall
-638,Germany,SUPPORT,Mos,IRI,SUCCEEDS,Unchallenged,1913,fall
-639,Turkey,SUPPORT,Sev,Ser,SUCCEEDS,Unchallenged,1914,spring
-640,Turkey,MOVE,Bul,Naf,SUCCEEDS,Attack strength is greater,1914,spring
-641,Turkey,SUPPORT,Rum,Boh,SUCCEEDS,Unchallenged,1914,spring
-642,Turkey,HOLD,Ukr,Gal,SUCCEEDS,Unchallenged,1914,spring
-643,Turkey,HOLD,Gal,NWG,SUCCEEDS,Stronger defense,1914,spring
-644,Turkey,SUPPORT,Bud,Pru,SUCCEEDS,Unchallenged,1914,spring
-645,Turkey,MOVE,Tun,Tyr,FAILS,Attack strength is not greater than the prevent strength,1914,spring
-646,Turkey,HOLD,BLA,Gal,SUCCEEDS,Unchallenged,1914,spring
-647,Turkey,MOVE,Tyr,Mun,SUCCEEDS,Attack strength is greater,1914,spring
-648,Germany,SUPPORT,Mos,Gal,SUCCEEDS,Unchallenged,1914,spring
-649,Germany,HOLD,NAO,Boh,SUCCEEDS,Unchallenged,1914,spring
-650,Germany,MOVE,Boh,Pie,FAILS,Attack strength is not greater than the defend strength,1914,spring
-651,Germany,MOVE,Cly,TYS,SUCCEEDS,Attack strength is greater,1914,spring
-652,Germany,MOVE,Ber,Pie,SUCCEEDS,Attack strength is greater,1914,spring
-653,Germany,MOVE,Mun,Mar,SUCCEEDS,Attack strength is greater,1914,spring
-654,Germany,SUPPORT,War,Tun,SUCCEEDS,Unchallenged,1914,spring
-655,Germany,MOVE,Kie,Tus,SUCCEEDS,Attack strength is greater,1914,spring
-656,Germany,SUPPORT,Sil,LYO,SUCCEEDS,Unchallenged,1914,spring
-657,Austria,SUPPORT,Stp,MAO,SUCCEEDS,Unchallenged,1914,spring
-658,Italy,SUPPORT,Vie,LYO,SUCCEEDS,Unchallenged,1914,spring
-659,Italy,SUPPORT,Tus,LYO,SUCCEEDS,Neither displaced nor disrupted,1914,spring
-660,Italy,MOVE,Nap,Naf,FAILS,Attack strength is not greater than the defend strength,1914,spring
-661,Turkey,SUPPORT,Sev,Tri,SUCCEEDS,Unchallenged,1914,fall
-662,Turkey,MOVE,Ser,Bul,FAILS,Attack strength is not greater than the prevent strength,1914,fall
-663,Turkey,MOVE,Rum,War,SUCCEEDS,Attack strength is greater,1914,fall
-664,Turkey,SUPPORT,Ukr,Tyr,SUCCEEDS,Unchallenged,1914,fall
-665,Turkey,MOVE,Boh,War,SUCCEEDS,Attack strength is greater,1914,fall
-666,Turkey,MOVE,Gal,WES,FAILS,Attack strength is not greater than the defend strength,1914,fall
-667,Turkey,MOVE,Tun,Tri,FAILS,Attack strength is not greater than the prevent strength,1914,fall
-668,Turkey,HOLD,BLA,NTH,SUCCEEDS,Unchallenged,1914,fall
-669,Turkey,MOVE,Bud,Boh,FAILS,Attack strength is not greater than the prevent strength,1914,fall
-670,Germany,SUPPORT,Mos,Boh,SUCCEEDS,Unchallenged,1914,fall
-671,Germany,HOLD,NAO,Boh,SUCCEEDS,Unchallenged,1914,fall
-672,Germany,SUPPORT,Pru,TYS,SUCCEEDS,Unchallenged,1914,fall
-673,Germany,MOVE,NWG,Pie,SUCCEEDS,Attack strength is greater,1914,fall
-674,Germany,MOVE,Mun,Ven,SUCCEEDS,Attack strength is greater,1914,fall
-675,Germany,SUPPORT,War,Tus,FAILS,Disrupted,1914,fall
-676,Germany,SUPPORT,Tyr,Tyr,FAILS,Displaced,1914,fall
-677,Germany,SUPPORT,Sil,Naf,SUCCEEDS,Unchallenged,1914,fall
-678,Austria,SUPPORT,Stp,Mar,SUCCEEDS,Unchallenged,1914,fall
-679,Italy,MOVE,Nap,Naf,SUCCEEDS,Attack strength is greater,1914,fall
-680,Italy,MOVE,Tus,LYO,SUCCEEDS,Attack strength is greater,1914,fall
-681,Italy,MOVE,Pie,WES,SUCCEEDS,Attack strength is greater,1914,fall
-682,Italy,MOVE,TYS,WES,SUCCEEDS,Attack strength is greater,1914,fall
-683,Italy,SUPPORT,Vie,Naf,SUCCEEDS,Unchallenged,1914,fall
-684,Turkey,SUPPORT,Sev,Rum,SUCCEEDS,Unchallenged,1915,spring
-685,Turkey,SUPPORT,Tun,Con,SUCCEEDS,Unchallenged,1915,spring
-686,Turkey,SUPPORT,Ukr,Alb,FAILS,Disrupted,1915,spring
-687,Turkey,HOLD,Gal,Ukr,FAILS,Insufficient hold strength,1915,spring
-688,Turkey,HOLD,Tyr,Gal,SUCCEEDS,Stronger defense,1915,spring
-689,Turkey,MOVE,Bul,Mun,SUCCEEDS,Attack strength is greater,1915,spring
-690,Turkey,MOVE,BLA,Tyr,SUCCEEDS,Attack strength is greater,1915,spring
-691,Turkey,SUPPORT,Bud,Gal,SUCCEEDS,Unchallenged,1915,spring
-692,Turkey,MOVE,Ser,Gal,SUCCEEDS,Attack strength is greater,1915,spring
-693,Germany,SUPPORT,Pru,Mos,SUCCEEDS,Unchallenged,1915,spring
-694,Germany,MOVE,Mos,Pie,FAILS,Attack strength is not greater than the defend strength,1915,spring
-695,Germany,HOLD,NAO,Pie,SUCCEEDS,Unchallenged,1915,spring
-696,Germany,MOVE,Boh,Pie,SUCCEEDS,Attack strength is greater,1915,spring
-697,Germany,HOLD,NTH,Gas,SUCCEEDS,Unchallenged,1915,spring
-698,Germany,MOVE,Ber,Pie,FAILS,Attack strength is not greater than the defend strength,1915,spring
-699,Turkey,HOLD,Sev,Bud,SUCCEEDS,Unchallenged,1915,fall
-700,Turkey,MOVE,Rum,Gre,SUCCEEDS,Attack strength is greater,1915,fall
-701,Turkey,MOVE,Alb,Rum,SUCCEEDS,Attack strength is greater,1915,fall
-702,Turkey,MOVE,Ukr,Vie,SUCCEEDS,Attack strength is greater,1915,fall
-703,Turkey,MOVE,Tyr,ION,SUCCEEDS,Attack strength is greater,1915,fall
-704,Turkey,MOVE,Tun,Tri,SUCCEEDS,Attack strength is greater,1915,fall
-705,Turkey,MOVE,Bud,AEG,SUCCEEDS,Attack strength is greater,1915,fall
-706,Turkey,MOVE,Con,Lvp,SUCCEEDS,Attack strength is greater,1915,fall
-707,Germany,SUPPORT,Mos,Lon,SUCCEEDS,Unchallenged,1915,fall
-708,Germany,MOVE,NAO,Vie,SUCCEEDS,Attack strength is greater,1915,fall
-709,Germany,SUPPORT,Pru,Mun,SUCCEEDS,Unchallenged,1915,fall
-710,Germany,MOVE,NTH,Ruh,SUCCEEDS,Attack strength is greater,1915,fall
-711,Germany,SUPPORT,Gal,Boh,SUCCEEDS,Unchallenged,1915,fall
-712,Germany,MOVE,Ber,Gal,SUCCEEDS,Attack strength is greater,1915,fall
-713,Germany,MOVE,Mun,Pie,SUCCEEDS,Attack strength is greater,1915,fall
-714,Germany,SUPPORT,War,Tun,SUCCEEDS,Unchallenged,1915,fall
-715,Germany,MOVE,Sil,MAO,SUCCEEDS,Attack strength is greater,1915,fall
-716,Austria,SUPPORT,Stp,Tun,SUCCEEDS,Unchallenged,1915,fall
-717,Italy,SUPPORT,Vie,WES,FAILS,Invalid Order,1915,fall
-718,Italy,SUPPORT,Tus,TYS,SUCCEEDS,Unchallenged,1915,fall
-719,Italy,HOLD,Pie,WES,SUCCEEDS,Stronger defense,1915,fall
-720,Turkey,SUPPORT,Tri,EAS,SUCCEEDS,Unchallenged,1916,spring
-721,Turkey,SUPPORT,Sev,BLA,SUCCEEDS,Unchallenged,1916,spring
-722,Turkey,MOVE,Smy,ADR,SUCCEEDS,Attack strength is greater,1916,spring
-723,Turkey,HOLD,Rum,Alb,SUCCEEDS,Unchallenged,1916,spring
-724,Turkey,HOLD,Vie,ION,SUCCEEDS,Unchallenged,1916,spring
-725,Turkey,MOVE,Ank,Bul,SUCCEEDS,Attack strength is greater,1916,spring
-726,Turkey,MOVE,ION,ION,SUCCEEDS,Attack strength is greater,1916,spring
-727,Turkey,MOVE,Gre,TYS,SUCCEEDS,Attack strength is greater,1916,spring
-728,Turkey,MOVE,AEG,Nwy,FAILS,Attack strength is not greater than the prevent strength,1916,spring
-729,Turkey,SUPPORT,Bud,Sil,SUCCEEDS,Unchallenged,1916,spring
-730,Turkey,MOVE,Con,Bur,SUCCEEDS,Attack strength is greater,1916,spring
-731,Italy,HOLD,Ven,Wal,SUCCEEDS,Unchallenged,1916,spring
-732,Italy,SUPPORT,Nap,NTH,SUCCEEDS,Unchallenged,1916,spring
-733,Italy,MOVE,Tus,Ukr,SUCCEEDS,Attack strength is greater,1916,spring
-734,Austria,MOVE,Stp,Mun,SUCCEEDS,Attack strength is greater,1916,spring
-735,Germany,MOVE,Pru,Bur,SUCCEEDS,Attack strength is greater,1916,spring
-736,Germany,SUPPORT,Ruh,Hol,SUCCEEDS,Unchallenged,1916,spring
-737,Germany,MOVE,Lvp,Bur,FAILS,Attack strength is not greater than the prevent strength,1916,spring
-738,Germany,HOLD,Mos,Tus,SUCCEEDS,Unchallenged,1916,spring
-739,Germany,MOVE,Lon,Pic,SUCCEEDS,Attack strength is greater,1916,spring
-740,Germany,HOLD,Boh,Tus,SUCCEEDS,Unchallenged,1916,spring
-741,Germany,MOVE,Gal,Wal,SUCCEEDS,Attack strength is greater,1916,spring
-742,Germany,MOVE,Ber,ION,SUCCEEDS,Attack strength is greater,1916,spring
-743,Germany,MOVE,Mun,Tus,SUCCEEDS,Attack strength is greater,1916,spring
-744,Germany,HOLD,War,ENG,SUCCEEDS,Unchallenged,1916,spring
-745,Turkey,MOVE,Tri,Tyr,SUCCEEDS,Attack strength is greater,1916,fall
-746,Turkey,SUPPORT,Sev,Ukr,SUCCEEDS,Unchallenged,1916,fall
-747,Turkey,HOLD,ADR,Gre,SUCCEEDS,Unchallenged,1916,fall
-748,Turkey,MOVE,AEG,Ukr,SUCCEEDS,Attack strength is greater,1916,fall
-749,Turkey,MOVE,Rum,Tyr,SUCCEEDS,Attack strength is greater,1916,fall
-750,Turkey,SUPPORT,Vie,Tri,SUCCEEDS,Unchallenged,1916,fall
-751,Turkey,MOVE,Alb,Rum,SUCCEEDS,Attack strength is greater,1916,fall
-752,Turkey,MOVE,Bul,ION,SUCCEEDS,Attack strength is greater,1916,fall
-753,Turkey,MOVE,EAS,Gal,FAILS,Attack strength is not greater than the defend strength,1916,fall
-754,Turkey,SUPPORT,BLA,Apu,SUCCEEDS,Unchallenged,1916,fall
-755,Turkey,MOVE,Bud,Apu,SUCCEEDS,Attack strength is greater,1916,fall
-756,Italy,SUPPORT,Ven,Edi,SUCCEEDS,Unchallenged,1916,fall
-757,Italy,MOVE,Nap,Bel,SUCCEEDS,Attack strength is greater,1916,fall
-758,Italy,SUPPORT,TYS,Edi,SUCCEEDS,Unchallenged,1916,fall
-759,Austria,MOVE,Nwy,Par,SUCCEEDS,Attack strength is greater,1916,fall
-760,Germany,SUPPORT,Ruh,Bel,SUCCEEDS,Unchallenged,1916,fall
-761,Germany,HOLD,Lvp,Mos,SUCCEEDS,Unchallenged,1916,fall
-762,Germany,CONVOY,NTH,Stp,SUCCEEDS,Unchallenged,1916,fall
-763,Germany,MOVE,Bur,Bur,FAILS,Attack strength is not greater than the prevent strength,1916,fall
-764,Germany,MOVE,Hol,Bur,SUCCEEDS,Attack strength is greater,1916,fall
-765,Germany,MOVE,Ukr,ENG,SUCCEEDS,Attack strength is greater,1916,fall
-766,Germany,HOLD,Boh,Lon,SUCCEEDS,Unchallenged,1916,fall
-767,Germany,MOVE,Mos,MAO,SUCCEEDS,Attack strength is greater,1916,fall
-768,Germany,MOVE,Mun,Apu,FAILS,Attack strength is not greater than the prevent strength,1916,fall
-769,Germany,HOLD,War,Spa,SUCCEEDS,Unchallenged,1916,fall
-770,Germany,HOLD,Sil,Par,SUCCEEDS,Unchallenged,1916,fall
-771,Turkey,SUPPORT,Tri,Ven,SUCCEEDS,Unchallenged,1917,spring
-772,Turkey,SUPPORT,Sev,ION,SUCCEEDS,Unchallenged,1917,spring
-773,Turkey,SUPPORT,Gre,Gal,SUCCEEDS,Unchallenged,1917,spring
-774,Turkey,MOVE,Rum,Boh,FAILS,Attack strength is not greater than the defend strength,1917,spring
-775,Turkey,SUPPORT,Vie,Gal,SUCCEEDS,Unchallenged,1917,spring
-776,Turkey,SUPPORT,Ukr,Boh,SUCCEEDS,Unchallenged,1917,spring
-777,Turkey,MOVE,Gal,Ven,FAILS,Attack strength is not greater than the defend strength,1917,spring
-778,Turkey,MOVE,ADR,ION,FAILS,Attack strength is not greater than the defend strength,1917,spring
-779,Turkey,MOVE,EAS,Con,SUCCEEDS,Attack strength is greater,1917,spring
-780,Turkey,MOVE,BLA,Boh,SUCCEEDS,Attack strength is greater,1917,spring
-781,Turkey,SUPPORT,Tyr,Bur,SUCCEEDS,Unchallenged,1917,spring
-782,Germany,MOVE,Ruh,IRI,FAILS,Attack strength is not greater than the defend strength,1917,spring
-783,Germany,MOVE,Lvp,Pic,SUCCEEDS,Attack strength is greater,1917,spring
-784,Germany,MOVE,Bel,Gas,SUCCEEDS,Attack strength is greater,1917,spring
-785,Germany,HOLD,NTH,Hol,FAILS,Insufficient hold strength,1917,spring
-786,Germany,SUPPORT,Mos,Yor,SUCCEEDS,Unchallenged,1917,spring
-787,Germany,HOLD,Boh,ION,SUCCEEDS,Stronger defense,1917,spring
-788,Germany,MOVE,Bur,Gas,FAILS,Attack strength is not greater than the prevent strength,1917,spring
-789,Germany,SUPPORT,Stp,NTH,SUCCEEDS,Unchallenged,1917,spring
-790,Germany,SUPPORT,Mun,Par,SUCCEEDS,Unchallenged,1917,spring
-791,Germany,HOLD,War,NTH,SUCCEEDS,Unchallenged,1917,spring
-792,Germany,MOVE,Kie,Nap,SUCCEEDS,Attack strength is greater,1917,spring
-793,Germany,SUPPORT,Sil,MAO,SUCCEEDS,Unchallenged,1917,spring
-794,Austria,MOVE,Edi,NAO,SUCCEEDS,Attack strength is greater,1917,spring
-795,Turkey,MOVE,Tri,Ven,SUCCEEDS,Attack strength is greater,1917,fall
-796,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1917,fall
-797,Turkey,MOVE,Gre,Alb,SUCCEEDS,Attack strength is greater,1917,fall
-798,Turkey,SUPPORT,Rum,War,SUCCEEDS,Unchallenged,1917,fall
-799,Turkey,SUPPORT,Vie,Tun,SUCCEEDS,Unchallenged,1917,fall
-800,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1917,fall
-801,Turkey,MOVE,ION,Ven,FAILS,Attack strength is not greater than the prevent strength,1917,fall
-802,Turkey,MOVE,Gal,Ven,FAILS,Attack strength is not greater than the defend strength,1917,fall
-803,Turkey,SUPPORT,ADR,AEG,SUCCEEDS,Unchallenged,1917,fall
-804,Turkey,SUPPORT,Tyr,Tun,FAILS,Disrupted,1917,fall
-805,Turkey,MOVE,Con,Nap,SUCCEEDS,Attack strength is greater,1917,fall
-806,Italy,HOLD,Ven,Lon,FAILS,Insufficient hold strength,1917,fall
-807,Italy,MOVE,TYS,Bur,FAILS,Attack strength is not greater than the prevent strength,1917,fall
-808,Italy,MOVE,Apu,NTH,FAILS,Attack strength is not greater than the defend strength,1917,fall
-809,Austria,MOVE,Yor,Par,FAILS,Attack strength is not greater than the defend strength,1917,fall
-810,Germany,MOVE,Ruh,Tyr,SUCCEEDS,Attack strength is greater,1917,fall
-811,Germany,SUPPORT,Mos,ENG,FAILS,Disrupted,1917,fall
-812,Germany,MOVE,Hol,NTH,SUCCEEDS,Attack strength is greater,1917,fall
-813,Germany,SUPPORT,Pic,Par,SUCCEEDS,Unchallenged,1917,fall
-814,Germany,MOVE,Boh,Bur,FAILS,Attack strength is not greater than the defend strength,1917,fall
-815,Germany,MOVE,IRI,Bur,SUCCEEDS,Attack strength is greater,1917,fall
-816,Germany,SUPPORT,Stp,Bur,SUCCEEDS,Unchallenged,1917,fall
-817,Germany,SUPPORT,Den,Lvp,SUCCEEDS,Unchallenged,1917,fall
-818,Germany,MOVE,Bur,Edi,SUCCEEDS,Attack strength is greater,1917,fall
-819,Germany,SUPPORT,Mun,Gas,SUCCEEDS,Unchallenged,1917,fall
-820,Turkey,SUPPORT,Sev,ION,SUCCEEDS,Unchallenged,1918,spring
-821,Turkey,HOLD,ADR,TYS,SUCCEEDS,Unchallenged,1918,spring
-822,Turkey,SUPPORT,Rum,ION,SUCCEEDS,Unchallenged,1918,spring
-823,Turkey,SUPPORT,Vie,Pie,SUCCEEDS,Unchallenged,1918,spring
-824,Turkey,MOVE,Alb,Pie,SUCCEEDS,Attack strength is greater,1918,spring
-825,Turkey,SUPPORT,Ukr,Bul,SUCCEEDS,Unchallenged,1918,spring
-826,Turkey,MOVE,ION,Mar,SUCCEEDS,Attack strength is greater,1918,spring
-827,Turkey,HOLD,Gal,Bre,SUCCEEDS,Unchallenged,1918,spring
-828,Turkey,SUPPORT,AEG,NTH,SUCCEEDS,Unchallenged,1918,spring
-829,Turkey,MOVE,Ven,Bre,SUCCEEDS,Attack strength is greater,1918,spring
-830,Turkey,SUPPORT,Tyr,NWG,SUCCEEDS,Unchallenged,1918,spring
-831,Turkey,MOVE,Con,Gas,SUCCEEDS,Attack strength is greater,1918,spring
-832,Italy,SUPPORT,Pie,Lvn,FAILS,Invalid Order,1918,spring
-833,Germany,SUPPORT,Par,NTH,SUCCEEDS,Neither displaced nor disrupted,1918,spring
-834,Germany,SUPPORT,ENG,Bur,SUCCEEDS,Unchallenged,1918,spring
-835,Germany,SUPPORT,Mos,NAO,SUCCEEDS,Unchallenged,1918,spring
-836,Germany,MOVE,Pic,NTH,SUCCEEDS,Attack strength is greater,1918,spring
-837,Germany,MOVE,NTH,NTH,SUCCEEDS,Attack strength is greater,1918,spring
-838,Germany,HOLD,Boh,MAO,SUCCEEDS,Unchallenged,1918,spring
-839,Germany,MOVE,Bur,Rom,SUCCEEDS,Attack strength is greater,1918,spring
-840,Germany,MOVE,Stp,Par,SUCCEEDS,Attack strength is greater,1918,spring
-841,Turkey,SUPPORT,Sev,Apu,SUCCEEDS,Unchallenged,1918,fall
-842,Turkey,MOVE,ADR,ION,SUCCEEDS,Attack strength is greater,1918,fall
-843,Turkey,MOVE,AEG,Gal,SUCCEEDS,Attack strength is greater,1918,fall
-844,Turkey,MOVE,Rum,Boh,FAILS,Attack strength is not greater than the defend strength,1918,fall
-845,Turkey,MOVE,Vie,Gal,FAILS,Attack strength is not greater than the defend strength,1918,fall
-846,Turkey,SUPPORT,Ukr,Mar,SUCCEEDS,Unchallenged,1918,fall
-847,Turkey,MOVE,Pie,TYS,FAILS,Attack strength is not greater than the defend strength,1918,fall
-848,Turkey,MOVE,ION,Sil,SUCCEEDS,Attack strength is greater,1918,fall
-849,Turkey,MOVE,Gal,Gre,FAILS,Attack strength is not greater than the defend strength,1918,fall
-850,Turkey,MOVE,Bul,Mun,SUCCEEDS,Attack strength is greater,1918,fall
-851,Turkey,SUPPORT,Tyr,LYO,FAILS,Disrupted,1918,fall
-852,Turkey,MOVE,TYS,Bur,SUCCEEDS,Attack strength is greater,1918,fall
-853,Italy,HOLD,Mar,Bel,SUCCEEDS,Stronger defense,1918,fall
-854,Germany,MOVE,Par,Tyr,FAILS,Attack strength is not greater than the defend strength,1918,fall
-855,Germany,SUPPORT,Lvn,NTH,SUCCEEDS,Unchallenged,1918,fall
-856,Germany,MOVE,ENG,NTH,SUCCEEDS,Attack strength is greater,1918,fall
-857,Germany,SUPPORT,Mos,Mun,SUCCEEDS,Unchallenged,1918,fall
-858,Germany,SUPPORT,Gas,NWG,SUCCEEDS,Unchallenged,1918,fall
-859,Germany,MOVE,Boh,NTH,FAILS,Attack strength is not greater than the defend strength,1918,fall
-860,Germany,MOVE,NWG,NWG,SUCCEEDS,Attack strength is greater,1918,fall
-861,Germany,SUPPORT,Den,Spa,SUCCEEDS,Unchallenged,1918,fall
-862,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1919,spring
-863,Turkey,HOLD,Gre,Mar,SUCCEEDS,Unchallenged,1919,spring
-864,Turkey,SUPPORT,Rum,TYS,SUCCEEDS,Unchallenged,1919,spring
-865,Turkey,SUPPORT,Vie,Nap,SUCCEEDS,Unchallenged,1919,spring
-866,Turkey,SUPPORT,Ukr,Spa,SUCCEEDS,Unchallenged,1919,spring
-867,Turkey,MOVE,TYS,Bur,SUCCEEDS,Attack strength is greater,1919,spring
-868,Turkey,SUPPORT,Pie,NTH,SUCCEEDS,Unchallenged,1919,spring
-869,Turkey,MOVE,ION,Spa,SUCCEEDS,Attack strength is greater,1919,spring
-870,Turkey,HOLD,Gal,Tyr,SUCCEEDS,Unchallenged,1919,spring
-871,Turkey,SUPPORT,LYO,Nwy,SUCCEEDS,Unchallenged,1919,spring
-872,Turkey,HOLD,Tyr,NTH,SUCCEEDS,Stronger defense,1919,spring
-873,Turkey,MOVE,Apu,Par,SUCCEEDS,Attack strength is greater,1919,spring
-874,Italy,MOVE,Mar,Tyr,FAILS,Attack strength is not greater than the defend strength,1919,spring
-875,Germany,MOVE,Par,Hol,SUCCEEDS,Attack strength is greater,1919,spring
-876,Germany,SUPPORT,Lvn,Tus,SUCCEEDS,Unchallenged,1919,spring
-877,Germany,SUPPORT,Bel,Mar,SUCCEEDS,Unchallenged,1919,spring
-878,Germany,SUPPORT,Mos,NWG,SUCCEEDS,Unchallenged,1919,spring
-879,Germany,SUPPORT,Gas,NTH,SUCCEEDS,Unchallenged,1919,spring
-880,Germany,MOVE,Boh,BAR,FAILS,Attack strength is not greater than the defend strength,1919,spring
-881,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1919,fall
-882,Turkey,HOLD,Gre,Rom,SUCCEEDS,Unchallenged,1919,fall
-883,Turkey,SUPPORT,Rum,Rom,SUCCEEDS,Unchallenged,1919,fall
-884,Turkey,SUPPORT,Vie,Bur,SUCCEEDS,Unchallenged,1919,fall
-885,Turkey,SUPPORT,Ukr,ENG,FAILS,Disrupted,1919,fall
-886,Turkey,SUPPORT,Pie,Edi,SUCCEEDS,Unchallenged,1919,fall
-887,Turkey,MOVE,WES,Ukr,SUCCEEDS,Attack strength is greater,1919,fall
-888,Turkey,SUPPORT,Nap,NTH,SUCCEEDS,Unchallenged,1919,fall
-889,Turkey,HOLD,Gal,Mar,FAILS,Insufficient hold strength,1919,fall
-890,Turkey,SUPPORT,LYO,NTH,SUCCEEDS,Unchallenged,1919,fall
-891,Turkey,HOLD,Tyr,Gal,SUCCEEDS,Stronger defense,1919,fall
-892,Turkey,MOVE,TYS,Mar,SUCCEEDS,Attack strength is greater,1919,fall
-893,Germany,MOVE,Par,Tyr,FAILS,Attack strength is not greater than the defend strength,1919,fall
-894,Germany,SUPPORT,Lvn,Gal,SUCCEEDS,Unchallenged,1919,fall
-895,Germany,MOVE,Bel,Gal,SUCCEEDS,Attack strength is greater,1919,fall
-896,Germany,MOVE,NTH,Nwy,SUCCEEDS,Attack strength is greater,1919,fall
-897,Germany,MOVE,Mos,NTH,FAILS,Attack strength is not greater than the defend strength,1919,fall
-898,Germany,MOVE,Hol,Nwy,FAILS,Attack strength is not greater than the prevent strength,1919,fall
-899,Turkey,SUPPORT,Sev,TYS,SUCCEEDS,Unchallenged,1920,spring
-900,Turkey,MOVE,Rom,AEG,SUCCEEDS,Attack strength is greater,1920,spring
-901,Turkey,MOVE,Smy,Boh,SUCCEEDS,Attack strength is greater,1920,spring
-902,Turkey,SUPPORT,Rum,ION,FAILS,Disrupted,1920,spring
-903,Turkey,HOLD,MAO,WES,SUCCEEDS,Unchallenged,1920,spring
-904,Turkey,SUPPORT,Vie,Boh,SUCCEEDS,Unchallenged,1920,spring
-905,Turkey,HOLD,Ukr,Bul,SUCCEEDS,Stronger defense,1920,spring
-906,Turkey,SUPPORT,Pie,Bre,SUCCEEDS,Unchallenged,1920,spring
-907,Turkey,MOVE,Nap,Stp,SUCCEEDS,Attack strength is greater,1920,spring
-908,Turkey,HOLD,Gre,NTH,SUCCEEDS,Unchallenged,1920,spring
-909,Turkey,SUPPORT,Bud,Ukr,SUCCEEDS,Unchallenged,1920,spring
-910,Turkey,MOVE,LYO,Mar,SUCCEEDS,Attack strength is greater,1920,spring
-911,Turkey,MOVE,Tyr,NTH,FAILS,Attack strength is not greater than the prevent strength,1920,spring
-912,Turkey,MOVE,Con,Cly,SUCCEEDS,Attack strength is greater,1920,spring
-913,Germany,MOVE,Par,Nwy,SUCCEEDS,Attack strength is greater,1920,spring
-914,Germany,MOVE,Lvn,Mar,FAILS,Attack strength is not greater than the prevent strength,1920,spring
-915,Germany,SUPPORT,ENG,Rum,SUCCEEDS,Unchallenged,1920,spring
-916,Germany,SUPPORT,Mos,Boh,SUCCEEDS,Unchallenged,1920,spring
-917,Germany,SUPPORT,Gas,Ukr,FAILS,Disrupted,1920,spring
-918,Germany,MOVE,Hol,Boh,SUCCEEDS,Attack strength is greater,1920,spring
-919,Germany,MOVE,Edi,Gas,SUCCEEDS,Attack strength is greater,1920,spring
-920,Germany,MOVE,Swe,Stp,SUCCEEDS,Attack strength is greater,1920,spring
-921,Germany,MOVE,Bur,NTH,FAILS,Attack strength is not greater than the defend strength,1920,spring
-922,Germany,MOVE,Gal,SKA,FAILS,Attack strength is not greater than the defend strength,1920,spring
-923,Germany,SUPPORT,Mun,Gas,SUCCEEDS,Unchallenged,1920,spring
-924,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-925,Turkey,MOVE,Bul,Por,SUCCEEDS,Attack strength is greater,1920,fall
-926,Turkey,SUPPORT,Rum,Gal,SUCCEEDS,Unchallenged,1920,fall
-927,Turkey,CONVOY,MAO,Por,SUCCEEDS,Unchallenged,1920,fall
-928,Turkey,SUPPORT,Vie,Boh,SUCCEEDS,Unchallenged,1920,fall
-929,Turkey,MOVE,Ukr,Gal,SUCCEEDS,Attack strength is greater,1920,fall
-930,Turkey,SUPPORT,Pie,Por,SUCCEEDS,Unchallenged,1920,fall
-931,Turkey,CONVOY,WES,Por,SUCCEEDS,Unchallenged,1920,fall
-932,Turkey,CONVOY,ION,Boh,SUCCEEDS,Unchallenged,1920,fall
-933,Turkey,HOLD,Gre,Por,SUCCEEDS,Unchallenged,1920,fall
-934,Turkey,MOVE,Tyr,Gal,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-935,Turkey,CONVOY,AEG,Por,SUCCEEDS,Unchallenged,1920,fall
-936,Turkey,SUPPORT,Bud,Mos,SUCCEEDS,Unchallenged,1920,fall
-937,Turkey,CONVOY,TYS,Lon,SUCCEEDS,Unchallenged,1920,fall
-938,Germany,SUPPORT,Lvn,Mar,SUCCEEDS,Unchallenged,1920,fall
-939,Germany,MOVE,ENG,Mar,SUCCEEDS,Attack strength is greater,1920,fall
-940,Germany,MOVE,Bur,Lon,FAILS,Attack strength is not greater than the defend strength,1920,fall
-941,Germany,SUPPORT,Gas,Stp,FAILS,Disrupted,1920,fall
-942,Germany,SUPPORT,Nwy,Ukr,SUCCEEDS,Unchallenged,1920,fall
-943,Germany,SUPPORT,NTH,Lvp,SUCCEEDS,Neither displaced nor disrupted,1920,fall
-944,Germany,MOVE,Mos,Boh,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-945,Germany,MOVE,Gal,Mos,FAILS,Attack strength is not greater than the head to head strength,1920,fall
-946,Germany,MOVE,Cly,Boh,SUCCEEDS,Attack strength is greater,1920,fall
-947,Germany,SUPPORT,Bre,Gas,SUCCEEDS,Unchallenged,1920,fall
-948,Germany,SUPPORT,Mun,Stp,SUCCEEDS,Unchallenged,1920,fall
-949,Germany,MOVE,War,LYO,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-950,Germany,MOVE,Sil,NTH,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-951,France,SUPPORT,Mar,NTH,FAILS,Disrupted,1920,fall
-952,France,MOVE,BAR,Gas,FAILS,Attack strength is not greater than the prevent strength,1920,fall
-953,Turkey,SUPPORT,Sev,Ukr,SUCCEEDS,Unchallenged,1921,spring
-954,Turkey,HOLD,Gre,Ukr,SUCCEEDS,Unchallenged,1921,spring
-955,Turkey,SUPPORT,Rum,Spa,SUCCEEDS,Unchallenged,1921,spring
-956,Turkey,SUPPORT,MAO,Boh,SUCCEEDS,Unchallenged,1921,spring
-957,Turkey,MOVE,Vie,Spa,SUCCEEDS,Attack strength is greater,1921,spring
-958,Turkey,MOVE,Por,Spa,SUCCEEDS,Attack strength is greater,1921,spring
-959,Turkey,SUPPORT,Pie,TYS,SUCCEEDS,Unchallenged,1921,spring
-960,Turkey,SUPPORT,WES,Ukr,SUCCEEDS,Unchallenged,1921,spring
-961,Turkey,MOVE,ION,Gal,SUCCEEDS,Attack strength is greater,1921,spring
-962,Turkey,MOVE,Gal,ION,SUCCEEDS,Attack strength is greater,1921,spring
-963,Turkey,MOVE,Bud,LYO,SUCCEEDS,Attack strength is greater,1921,spring
-964,Turkey,MOVE,AEG,Boh,SUCCEEDS,Attack strength is greater,1921,spring
-965,Turkey,MOVE,TYS,AEG,SUCCEEDS,Attack strength is greater,1921,spring
-966,Turkey,SUPPORT,Tyr,Stp,FAILS,Disrupted,1921,spring
-967,Turkey,MOVE,Con,IRI,SUCCEEDS,Attack strength is greater,1921,spring
-968,Germany,MOVE,Lvn,Ukr,SUCCEEDS,Attack strength is greater,1921,spring
-969,Germany,MOVE,Lvp,Mar,SUCCEEDS,Attack strength is greater,1921,spring
-970,Germany,SUPPORT,NTH,ENG,SUCCEEDS,Unchallenged,1921,spring
-971,Germany,SUPPORT,Mos,Mar,SUCCEEDS,Unchallenged,1921,spring
-972,Germany,MOVE,Gas,Mun,FAILS,Attack strength is not greater than the defend strength,1921,spring
-973,Germany,MOVE,Lon,Tyr,SUCCEEDS,Attack strength is greater,1921,spring
-974,Germany,SUPPORT,Nwy,Ukr,FAILS,Disrupted,1921,spring
-975,Germany,SUPPORT,Bur,Den,SUCCEEDS,Unchallenged,1921,spring
-976,Germany,MOVE,Ber,War,FAILS,Attack strength is not greater than the defend strength,1921,spring
-977,Germany,HOLD,Bre,Nwy,SUCCEEDS,Unchallenged,1921,spring
-978,Germany,MOVE,Mun,Nwy,FAILS,Attack strength is not greater than the defend strength,1921,spring
-979,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1921,fall
-980,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1921,fall
-981,Turkey,SUPPORT,Rum,War,SUCCEEDS,Unchallenged,1921,fall
-982,Turkey,SUPPORT,Ukr,Mar,SUCCEEDS,Unchallenged,1921,fall
-983,Turkey,HOLD,TYS,Mun,SUCCEEDS,Unchallenged,1921,fall
-984,Turkey,SUPPORT,Pie,Tun,SUCCEEDS,Unchallenged,1921,fall
-985,Turkey,MOVE,Boh,Spa,SUCCEEDS,Attack strength is greater,1921,fall
-986,Turkey,MOVE,ION,ION,SUCCEEDS,Attack strength is greater,1921,fall
-987,Turkey,HOLD,Gre,Mar,SUCCEEDS,Unchallenged,1921,fall
-988,Turkey,MOVE,MAO,Mar,SUCCEEDS,Attack strength is greater,1921,fall
-989,Turkey,MOVE,AEG,Mun,SUCCEEDS,Attack strength is greater,1921,fall
-990,Turkey,MOVE,Spa,War,SUCCEEDS,Attack strength is greater,1921,fall
-991,Turkey,SUPPORT,LYO,MAO,SUCCEEDS,Unchallenged,1921,fall
-992,Turkey,SUPPORT,Tyr,MAO,SUCCEEDS,Unchallenged,1921,fall
-993,Turkey,MOVE,Gal,Swe,FAILS,Attack strength is not greater than the defend strength,1921,fall
-994,Germany,SUPPORT,ENG,Pru,SUCCEEDS,Unchallenged,1921,fall
-995,Germany,SUPPORT,Bur,Boh,FAILS,Disrupted,1921,fall
-996,Germany,SUPPORT,Gas,Nwy,SUCCEEDS,Unchallenged,1921,fall
-997,Germany,SUPPORT,Nwy,Bur,FAILS,Disrupted,1921,fall
-998,Germany,SUPPORT,NTH,Nwy,SUCCEEDS,Unchallenged,1921,fall
+,country,type,unitFrom_list,unitTo_list,result_list,result_reason_list,year,season,season_number
+0,Turkey,MOVE,Ank,BLA,FAILS,Attack strength is not greater than the prevent strength,1901,spring,1
+1,Turkey,MOVE,Smy,Lon,FAILS,Invalid move path,1901,spring,1
+2,Turkey,MOVE,Con,Bul,SUCCEEDS,Attack strength is greater,1901,spring,1
+3,Italy,HOLD,Ven,ION,SUCCEEDS,Unchallenged,1901,spring,1
+4,Italy,MOVE,Nap,Apu,SUCCEEDS,Attack strength is greater,1901,spring,1
+5,Italy,MOVE,Rom,Bur,SUCCEEDS,Attack strength is greater,1901,spring,1
+6,France,MOVE,Par,Spa,SUCCEEDS,Attack strength is greater,1901,spring,1
+7,France,MOVE,Mar,MAO,SUCCEEDS,Attack strength is greater,1901,spring,1
+8,France,MOVE,Bre,Alb,SUCCEEDS,Attack strength is greater,1901,spring,1
+9,Austria,MOVE,Tri,Ser,SUCCEEDS,Attack strength is greater,1901,spring,1
+10,Austria,MOVE,Bud,Kie,SUCCEEDS,Attack strength is greater,1901,spring,1
+11,Austria,HOLD,Vie,Ruh,SUCCEEDS,Unchallenged,1901,spring,1
+12,Germany,MOVE,Ber,Den,SUCCEEDS,Attack strength is greater,1901,spring,1
+13,Germany,MOVE,Mun,NWG,SUCCEEDS,Attack strength is greater,1901,spring,1
+14,Germany,MOVE,Kie,NTH,SUCCEEDS,Attack strength is greater,1901,spring,1
+15,England,MOVE,Edi,Edi,SUCCEEDS,Attack strength is greater,1901,spring,1
+16,England,MOVE,Lon,Stp,SUCCEEDS,Attack strength is greater,1901,spring,1
+17,England,MOVE,Lvp,BLA,SUCCEEDS,Attack strength is greater,1901,spring,1
+18,Russia,MOVE,Mos,BOT,SUCCEEDS,Attack strength is greater,1901,spring,1
+19,Turkey,MOVE,Bul,Par,FAILS,Invalid move path,1901,fall,2
+20,Turkey,MOVE,Smy,Ank,SUCCEEDS,Attack strength is greater,1901,fall,2
+21,Turkey,MOVE,Ank,Con,SUCCEEDS,Attack strength is greater,1901,fall,2
+22,England,SUPPORT,NTH,Nwy,SUCCEEDS,Unchallenged,1901,fall,2
+23,England,CONVOY,NWG,Nwy,SUCCEEDS,Unchallenged,1901,fall,2
+24,England,MOVE,Edi,Nwy,FAILS,Invalid move path,1901,fall,2
+25,France,MOVE,Bur,Bel,SUCCEEDS,Attack strength is greater,1901,fall,2
+26,France,MOVE,Spa,Por,SUCCEEDS,Attack strength is greater,1901,fall,2
+27,France,MOVE,MAO,Spa,SUCCEEDS,Attack strength is greater,1901,fall,2
+28,Austria,MOVE,Alb,Gre,SUCCEEDS,Attack strength is greater,1901,fall,2
+29,Austria,SUPPORT,Ser,Gre,SUCCEEDS,Unchallenged,1901,fall,2
+30,Austria,MOVE,Vie,Gal,FAILS,Attack strength is not greater than the prevent strength,1901,fall,2
+31,Germany,SUPPORT,Ruh,Hol,SUCCEEDS,Unchallenged,1901,fall,2
+32,Germany,MOVE,Den,Swe,FAILS,Attack strength is not greater than the prevent strength,1901,fall,2
+33,Germany,MOVE,Kie,Hol,SUCCEEDS,Attack strength is greater,1901,fall,2
+34,Italy,HOLD,Ven,Tun,SUCCEEDS,Unchallenged,1901,fall,2
+35,Italy,CONVOY,ION,Tun,SUCCEEDS,Unchallenged,1901,fall,2
+36,Italy,MOVE,Apu,Nwy,SUCCEEDS,Attack strength is greater,1901,fall,2
+37,Russia,MOVE,Stp,Swe,SUCCEEDS,Attack strength is greater,1901,fall,2
+38,Russia,MOVE,BOT,Gal,FAILS,Attack strength is not greater than the prevent strength,1901,fall,2
+39,Russia,MOVE,War,Rum,FAILS,Attack strength is not greater than the prevent strength,1901,fall,2
+40,Turkey,HOLD,Ank,Rum,SUCCEEDS,Unchallenged,1902,spring,4
+41,Turkey,MOVE,Bul,AEG,SUCCEEDS,Attack strength is greater,1902,spring,4
+42,Turkey,MOVE,Smy,AEG,SUCCEEDS,Attack strength is greater,1902,spring,4
+43,Turkey,SUPPORT,Con,AEG,SUCCEEDS,Unchallenged,1902,spring,4
+44,Italy,HOLD,Ven,TYS,SUCCEEDS,Unchallenged,1902,spring,4
+45,Italy,MOVE,ION,Pic,FAILS,Attack strength is not greater than the prevent strength,1902,spring,4
+46,Italy,MOVE,Nap,Spa,SUCCEEDS,Attack strength is greater,1902,spring,4
+47,Italy,HOLD,Tun,MAO,SUCCEEDS,Unchallenged,1902,spring,4
+48,France,MOVE,Par,ENG,SUCCEEDS,Attack strength is greater,1902,spring,4
+49,France,HOLD,Mar,Alb,SUCCEEDS,Unchallenged,1902,spring,4
+50,France,HOLD,Bel,Rum,SUCCEEDS,Unchallenged,1902,spring,4
+51,France,MOVE,Por,Gal,SUCCEEDS,Attack strength is greater,1902,spring,4
+52,France,MOVE,Spa,Gal,SUCCEEDS,Attack strength is greater,1902,spring,4
+53,France,MOVE,Bre,Mun,SUCCEEDS,Attack strength is greater,1902,spring,4
+54,Austria,MOVE,Tri,Swe,SUCCEEDS,Attack strength is greater,1902,spring,4
+55,Austria,HOLD,Gre,BAL,SUCCEEDS,Unchallenged,1902,spring,4
+56,Austria,SUPPORT,Ser,Nwy,SUCCEEDS,Unchallenged,1902,spring,4
+57,Austria,SUPPORT,Bud,Nwy,SUCCEEDS,Unchallenged,1902,spring,4
+58,Austria,MOVE,Vie,Nwy,SUCCEEDS,Attack strength is greater,1902,spring,4
+59,Germany,HOLD,Ber,Swe,SUCCEEDS,Unchallenged,1902,spring,4
+60,Germany,HOLD,Hol,Swe,SUCCEEDS,Unchallenged,1902,spring,4
+61,Germany,MOVE,Ruh,Ukr,SUCCEEDS,Attack strength is greater,1902,spring,4
+62,Turkey,MOVE,Ank,Smy,SUCCEEDS,Attack strength is greater,1902,fall,5
+63,Turkey,SUPPORT,Con,Bul,SUCCEEDS,Unchallenged,1902,fall,5
+64,Turkey,SUPPORT,AEG,Gre,SUCCEEDS,Unchallenged,1902,fall,5
+65,Turkey,MOVE,Rum,Bul,SUCCEEDS,Attack strength is greater,1902,fall,5
+66,Italy,MOVE,Ven,Tri,FAILS,Attack strength is not greater than the prevent strength,1902,fall,5
+67,Italy,CONVOY,ION,Gre,SUCCEEDS,Unchallenged,1902,fall,5
+68,Italy,MOVE,Tun,Gre,SUCCEEDS,Attack strength is greater,1902,fall,5
+69,Italy,HOLD,TYS,LYO,SUCCEEDS,Unchallenged,1902,fall,5
+70,France,MOVE,Mar,Wal,SUCCEEDS,Attack strength is greater,1902,fall,5
+71,France,HOLD,Bel,Wal,SUCCEEDS,Unchallenged,1902,fall,5
+72,France,CONVOY,ENG,Gas,SUCCEEDS,Unchallenged,1902,fall,5
+73,France,MOVE,Pic,IRI,SUCCEEDS,Attack strength is greater,1902,fall,5
+74,France,MOVE,Spa,Tri,SUCCEEDS,Attack strength is greater,1902,fall,5
+75,France,MOVE,MAO,Swe,SUCCEEDS,Attack strength is greater,1902,fall,5
+76,Austria,HOLD,Gal,Sil,SUCCEEDS,Unchallenged,1902,fall,5
+77,Austria,HOLD,Gre,Swe,FAILS,Insufficient hold strength,1902,fall,5
+78,Austria,MOVE,Alb,Swe,FAILS,Attack strength is not greater than the prevent strength,1902,fall,5
+79,Austria,HOLD,Ser,Lon,SUCCEEDS,Unchallenged,1902,fall,5
+80,Austria,SUPPORT,Bud,NTH,SUCCEEDS,Unchallenged,1902,fall,5
+81,Germany,MOVE,Ber,War,FAILS,Attack strength is not greater than the defend strength,1902,fall,5
+82,Germany,HOLD,Hol,Rum,SUCCEEDS,Unchallenged,1902,fall,5
+83,Turkey,MOVE,Bul,Ser,FAILS,Attack strength is not greater than the defend strength,1903,spring,7
+84,Turkey,CONVOY,AEG,Gre,SUCCEEDS,Unchallenged,1903,spring,7
+85,Turkey,MOVE,Smy,Gre,SUCCEEDS,Attack strength is greater,1903,spring,7
+86,Turkey,MOVE,Con,Bul,FAILS,Attack strength is not greater than the defend strength,1903,spring,7
+87,England,SUPPORT,NTH,ENG,SUCCEEDS,Unchallenged,1903,spring,7
+88,England,MOVE,Lon,ENG,SUCCEEDS,Attack strength is greater,1903,spring,7
+89,England,MOVE,Lvp,IRI,FAILS,Attack strength is not greater than the defend strength,1903,spring,7
+90,England,MOVE,Nwy,Swe,FAILS,Attack strength is not greater than the prevent strength,1903,spring,7
+91,France,MOVE,Wal,Lvp,SUCCEEDS,Attack strength is greater,1903,spring,7
+92,France,MOVE,Bel,Wal,FAILS,Invalid move path,1903,spring,7
+93,France,CONVOY,ENG,Wal,FAILS,Dislodged,1903,spring,7
+94,France,MOVE,Gas,Bur,SUCCEEDS,Attack strength is greater,1903,spring,7
+95,France,SUPPORT,IRI,Lvp,SUCCEEDS,Neither displaced nor disrupted,1903,spring,7
+96,France,HOLD,LYO,War,SUCCEEDS,Unchallenged,1903,spring,7
+97,Austria,SUPPORT,Gal,Tri,SUCCEEDS,Unchallenged,1903,spring,7
+98,Austria,MOVE,Alb,Tri,FAILS,Attack strength is not greater than the prevent strength,1903,spring,7
+99,Austria,SUPPORT,Ser,Vie,FAILS,Disrupted,1903,spring,7
+100,Austria,MOVE,Bud,Pru,SUCCEEDS,Attack strength is greater,1903,spring,7
+101,Germany,MOVE,Ber,Swe,FAILS,Attack strength is not greater than the prevent strength,1903,spring,7
+102,Germany,HOLD,Hol,War,SUCCEEDS,Unchallenged,1903,spring,7
+103,Germany,MOVE,BAL,Tri,FAILS,Attack strength is not greater than the prevent strength,1903,spring,7
+104,Germany,HOLD,Den,Alb,SUCCEEDS,Unchallenged,1903,spring,7
+105,Germany,MOVE,Sil,TYS,SUCCEEDS,Attack strength is greater,1903,spring,7
+106,Italy,MOVE,Ven,Alb,FAILS,Attack strength is not greater than the prevent strength,1903,spring,7
+107,Italy,SUPPORT,ION,Tus,SUCCEEDS,Unchallenged,1903,spring,7
+108,Italy,MOVE,Nap,Ukr,SUCCEEDS,Attack strength is greater,1903,spring,7
+109,Italy,MOVE,Gre,Lvn,SUCCEEDS,Attack strength is greater,1903,spring,7
+110,Italy,MOVE,TYS,Pru,SUCCEEDS,Attack strength is greater,1903,spring,7
+111,Turkey,MOVE,Gre,Ser,SUCCEEDS,Attack strength is greater,1903,fall,8
+112,Turkey,SUPPORT,Bul,Ser,SUCCEEDS,Unchallenged,1903,fall,8
+113,Turkey,MOVE,AEG,ION,SUCCEEDS,Attack strength is greater,1903,fall,8
+114,Turkey,MOVE,Con,Smy,SUCCEEDS,Attack strength is greater,1903,fall,8
+115,England,MOVE,NTH,Bel,FAILS,Attack strength is not greater than the defend strength,1903,fall,8
+116,England,MOVE,Nwy,Stp,SUCCEEDS,Attack strength is greater,1903,fall,8
+117,England,MOVE,NAO,IRI,SUCCEEDS,Attack strength is greater,1903,fall,8
+118,England,SUPPORT,ENG,Bel,FAILS,Disrupted,1903,fall,8
+119,France,MOVE,Lvp,Edi,SUCCEEDS,Attack strength is greater,1903,fall,8
+120,France,HOLD,Bel,Lvp,SUCCEEDS,Stronger defense,1903,fall,8
+121,France,SUPPORT,Bur,ENG,SUCCEEDS,Unchallenged,1903,fall,8
+122,France,MOVE,IRI,Spa,SUCCEEDS,Attack strength is greater,1903,fall,8
+123,France,MOVE,Bre,Tri,FAILS,Attack strength is not greater than the defend strength,1903,fall,8
+124,France,MOVE,LYO,ADR,SUCCEEDS,Attack strength is greater,1903,fall,8
+125,Austria,SUPPORT,Gal,Pru,SUCCEEDS,Unchallenged,1903,fall,8
+126,Austria,MOVE,Ser,Bel,FAILS,Attack strength is not greater than the prevent strength,1903,fall,8
+127,Austria,SUPPORT,Vie,Swe,FAILS,Invalid Order,1903,fall,8
+128,Germany,MOVE,Ber,Swe,SUCCEEDS,Attack strength is greater,1903,fall,8
+129,Germany,SUPPORT,Hol,Tri,SUCCEEDS,Unchallenged,1903,fall,8
+130,Germany,SUPPORT,BAL,TYS,FAILS,Disrupted,1903,fall,8
+131,Germany,MOVE,Den,Pie,FAILS,Attack strength is not greater than the head to head strength,1903,fall,8
+132,Germany,HOLD,War,Tri,FAILS,Insufficient hold strength,1903,fall,8
+133,Italy,SUPPORT,Ven,WES,SUCCEEDS,Unchallenged,1903,fall,8
+134,Italy,MOVE,ION,War,SUCCEEDS,Attack strength is greater,1903,fall,8
+135,Italy,MOVE,Tus,Den,SUCCEEDS,Attack strength is greater,1903,fall,8
+136,Italy,MOVE,Alb,BAL,SUCCEEDS,Attack strength is greater,1903,fall,8
+137,Italy,MOVE,TYS,War,SUCCEEDS,Attack strength is greater,1903,fall,8
+138,Russia,HOLD,Rum,War,SUCCEEDS,Unchallenged,1903,fall,8
+139,Turkey,MOVE,ION,Tun,SUCCEEDS,Attack strength is greater,1904,spring,10
+140,Turkey,MOVE,Ser,Bud,SUCCEEDS,Attack strength is greater,1904,spring,10
+141,Turkey,MOVE,Bul,Rum,SUCCEEDS,Attack strength is greater,1904,spring,10
+142,Turkey,MOVE,Smy,AEG,SUCCEEDS,Attack strength is greater,1904,spring,10
+143,Turkey,MOVE,Con,Bul,SUCCEEDS,Attack strength is greater,1904,spring,10
+144,Italy,SUPPORT,Tri,Bud,SUCCEEDS,Unchallenged,1904,spring,10
+145,Italy,MOVE,Rom,TYS,SUCCEEDS,Attack strength is greater,1904,spring,10
+146,Italy,SUPPORT,Pie,LYO,SUCCEEDS,Unchallenged,1904,spring,10
+147,Italy,MOVE,WES,MAO,FAILS,Attack strength is not greater than the prevent strength,1904,spring,10
+148,Italy,HOLD,Ven,LYO,SUCCEEDS,Unchallenged,1904,spring,10
+149,Italy,MOVE,TYS,Gas,SUCCEEDS,Attack strength is greater,1904,spring,10
+150,France,MOVE,Par,IRI,SUCCEEDS,Attack strength is greater,1904,spring,10
+151,France,HOLD,Mar,MAO,SUCCEEDS,Unchallenged,1904,spring,10
+152,France,MOVE,Lvp,MAO,SUCCEEDS,Attack strength is greater,1904,spring,10
+153,France,HOLD,Bel,Gal,SUCCEEDS,Unchallenged,1904,spring,10
+154,France,SUPPORT,Bur,Gal,SUCCEEDS,Unchallenged,1904,spring,10
+155,France,HOLD,Edi,Lvn,SUCCEEDS,Unchallenged,1904,spring,10
+156,France,SUPPORT,Spa,Lvn,SUCCEEDS,Unchallenged,1904,spring,10
+157,France,MOVE,Bre,Swe,SUCCEEDS,Attack strength is greater,1904,spring,10
+158,Austria,SUPPORT,Bud,Mun,FAILS,Disrupted,1904,spring,10
+159,Austria,MOVE,Vie,NAO,SUCCEEDS,Attack strength is greater,1904,spring,10
+160,Germany,MOVE,Pru,Nwy,SUCCEEDS,Attack strength is greater,1904,spring,10
+161,Germany,HOLD,Hol,Stp,SUCCEEDS,Unchallenged,1904,spring,10
+162,Germany,SUPPORT,BAL,Swe,SUCCEEDS,Unchallenged,1904,spring,10
+163,Turkey,MOVE,Tun,Naf,SUCCEEDS,Attack strength is greater,1904,fall,11
+164,Turkey,MOVE,Bud,Vie,SUCCEEDS,Attack strength is greater,1904,fall,11
+165,Turkey,MOVE,Bul,Ser,SUCCEEDS,Attack strength is greater,1904,fall,11
+166,Turkey,MOVE,AEG,ION,SUCCEEDS,Attack strength is greater,1904,fall,11
+167,Turkey,MOVE,Rum,Bud,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+168,England,MOVE,ENG,Bre,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+169,England,MOVE,NAO,Lvp,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+170,England,SUPPORT,Nwy,Swe,SUCCEEDS,Unchallenged,1904,fall,11
+171,France,SUPPORT,Mar,Lvp,FAILS,Disrupted,1904,fall,11
+172,France,HOLD,Bel,MAO,SUCCEEDS,Unchallenged,1904,fall,11
+173,France,SUPPORT,Bur,MAO,SUCCEEDS,Unchallenged,1904,fall,11
+174,France,MOVE,Edi,Bre,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+175,France,SUPPORT,Gas,Bud,SUCCEEDS,Unchallenged,1904,fall,11
+176,France,MOVE,IRI,Bud,FAILS,Attack strength is not greater than the defend strength,1904,fall,11
+177,France,SUPPORT,Spa,Tyr,SUCCEEDS,Unchallenged,1904,fall,11
+178,France,MOVE,MAO,Swe,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+179,Austria,MOVE,Gal,Swe,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+180,Austria,SUPPORT,Vie,Stp,FAILS,Displaced,1904,fall,11
+181,Germany,HOLD,Hol,Vie,SUCCEEDS,Unchallenged,1904,fall,11
+182,Germany,MOVE,Mun,Mar,FAILS,Attack strength is not greater than the prevent strength,1904,fall,11
+183,Germany,MOVE,BAL,Naf,SUCCEEDS,Attack strength is greater,1904,fall,11
+184,Germany,SUPPORT,Den,Tyr,SUCCEEDS,Unchallenged,1904,fall,11
+185,Germany,MOVE,Lvn,Mar,FAILS,Attack strength is not greater than the defend strength,1904,fall,11
+186,Italy,SUPPORT,Tri,Gal,SUCCEEDS,Unchallenged,1904,fall,11
+187,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1904,fall,11
+188,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1905,spring,13
+189,Turkey,MOVE,Ser,Bud,SUCCEEDS,Attack strength is greater,1905,spring,13
+190,Turkey,MOVE,Smy,Arm,SUCCEEDS,Attack strength is greater,1905,spring,13
+191,Turkey,SUPPORT,Rum,Bud,SUCCEEDS,Unchallenged,1905,spring,13
+192,Turkey,MOVE,Vie,Gal,SUCCEEDS,Attack strength is greater,1905,spring,13
+193,Turkey,HOLD,ION,BLA,SUCCEEDS,Unchallenged,1905,spring,13
+194,Turkey,MOVE,Con,Stp,SUCCEEDS,Attack strength is greater,1905,spring,13
+195,England,MOVE,Nwy,MAO,SUCCEEDS,Attack strength is greater,1905,spring,13
+196,England,SUPPORT,ENG,Pic,SUCCEEDS,Unchallenged,1905,spring,13
+197,France,SUPPORT,Mar,Yor,FAILS,Disrupted,1905,spring,13
+198,France,MOVE,Bel,War,SUCCEEDS,Attack strength is greater,1905,spring,13
+199,France,SUPPORT,Bur,Stp,SUCCEEDS,Unchallenged,1905,spring,13
+200,France,MOVE,Edi,Kie,SUCCEEDS,Attack strength is greater,1905,spring,13
+201,France,SUPPORT,Gas,BAL,SUCCEEDS,Unchallenged,1905,spring,13
+202,France,SUPPORT,IRI,BAL,SUCCEEDS,Unchallenged,1905,spring,13
+203,France,SUPPORT,Spa,Sil,FAILS,Disrupted,1905,spring,13
+204,France,SUPPORT,MAO,Boh,FAILS,Disrupted,1905,spring,13
+205,Austria,MOVE,Gal,Tyr,SUCCEEDS,Attack strength is greater,1905,spring,13
+206,Germany,SUPPORT,Lvn,Mar,SUCCEEDS,Unchallenged,1905,spring,13
+207,Germany,MOVE,Hol,Spa,SUCCEEDS,Attack strength is greater,1905,spring,13
+208,Germany,SUPPORT,Swe,Tyr,FAILS,Disrupted,1905,spring,13
+209,Germany,MOVE,Den,Spa,SUCCEEDS,Attack strength is greater,1905,spring,13
+210,Germany,MOVE,Ber,WES,SUCCEEDS,Attack strength is greater,1905,spring,13
+211,Germany,MOVE,Mun,Swe,SUCCEEDS,Attack strength is greater,1905,spring,13
+212,Italy,SUPPORT,Tri,Swe,SUCCEEDS,Unchallenged,1905,spring,13
+213,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1905,spring,13
+214,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1905,fall,14
+215,Turkey,MOVE,Rum,Bud,SUCCEEDS,Attack strength is greater,1905,fall,14
+216,Turkey,MOVE,ION,TYS,SUCCEEDS,Attack strength is greater,1905,fall,14
+217,Turkey,MOVE,Gal,Sil,FAILS,Attack strength is not greater than the defend strength,1905,fall,14
+218,Turkey,CONVOY,BLA,Rum,SUCCEEDS,Unchallenged,1905,fall,14
+219,Turkey,MOVE,Arm,Rum,SUCCEEDS,Attack strength is greater,1905,fall,14
+220,Turkey,MOVE,Bud,Vie,SUCCEEDS,Attack strength is greater,1905,fall,14
+221,Italy,SUPPORT,Tri,Vie,SUCCEEDS,Unchallenged,1905,fall,14
+222,Italy,MOVE,Pie,Mar,FAILS,Attack strength is not greater than the defend strength,1905,fall,14
+223,Italy,MOVE,WES,MAO,SUCCEEDS,Attack strength is greater,1905,fall,14
+224,Italy,MOVE,LYO,Spa,FAILS,Attack strength is not greater than the defend strength,1905,fall,14
+225,Italy,MOVE,Tyr,Mun,FAILS,Attack strength is not greater than the prevent strength,1905,fall,14
+226,Italy,MOVE,TYS,WES,SUCCEEDS,Attack strength is greater,1905,fall,14
+227,France,SUPPORT,Mar,Lon,FAILS,Disrupted,1905,fall,14
+228,France,SUPPORT,Bur,Mos,SUCCEEDS,Unchallenged,1905,fall,14
+229,France,HOLD,Pic,Swe,SUCCEEDS,Unchallenged,1905,fall,14
+230,France,SUPPORT,Gas,Mun,SUCCEEDS,Unchallenged,1905,fall,14
+231,France,SUPPORT,IRI,Swe,SUCCEEDS,Unchallenged,1905,fall,14
+232,France,SUPPORT,Spa,Mos,FAILS,Disrupted,1905,fall,14
+233,France,MOVE,Yor,Den,SUCCEEDS,Attack strength is greater,1905,fall,14
+234,France,SUPPORT,MAO,Nwy,FAILS,Disrupted,1905,fall,14
+235,Austria,SUPPORT,War,MAO,SUCCEEDS,Neither displaced nor disrupted,1905,fall,14
+236,Germany,SUPPORT,Nwy,War,FAILS,Disrupted,1905,fall,14
+237,Germany,MOVE,Boh,Nwy,FAILS,Attack strength is not greater than the prevent strength,1905,fall,14
+238,Germany,MOVE,BAL,BAL,FAILS,Attack strength is not greater than the defend strength,1905,fall,14
+239,Germany,MOVE,Lvn,Nwy,SUCCEEDS,Attack strength is greater,1905,fall,14
+240,Turkey,HOLD,Naf,Boh,SUCCEEDS,Unchallenged,1906,spring,16
+241,Turkey,MOVE,Vie,Ukr,SUCCEEDS,Attack strength is greater,1906,spring,16
+242,Turkey,MOVE,Rum,Rum,SUCCEEDS,Attack strength is greater,1906,spring,16
+243,Turkey,MOVE,Ank,Ukr,SUCCEEDS,Attack strength is greater,1906,spring,16
+244,Turkey,SUPPORT,Gal,Rum,SUCCEEDS,Unchallenged,1906,spring,16
+245,Turkey,CONVOY,BLA,Vie,SUCCEEDS,Unchallenged,1906,spring,16
+246,Turkey,MOVE,Bud,WES,SUCCEEDS,Attack strength is greater,1906,spring,16
+247,Turkey,MOVE,TYS,Mar,SUCCEEDS,Attack strength is greater,1906,spring,16
+248,Italy,HOLD,Tri,Spa,SUCCEEDS,Unchallenged,1906,spring,16
+249,Italy,MOVE,Pie,Boh,FAILS,Attack strength is not greater than the defend strength,1906,spring,16
+250,Italy,MOVE,WES,Spa,SUCCEEDS,Attack strength is greater,1906,spring,16
+251,Italy,SUPPORT,Tyr,Gas,SUCCEEDS,Unchallenged,1906,spring,16
+252,Italy,SUPPORT,LYO,Mun,SUCCEEDS,Unchallenged,1906,spring,16
+253,Italy,MOVE,MAO,MAO,FAILS,Attack strength is not greater than the defend strength,1906,spring,16
+254,France,SUPPORT,Mar,MAO,FAILS,Disrupted,1906,spring,16
+255,France,SUPPORT,Bur,MAO,SUCCEEDS,Unchallenged,1906,spring,16
+256,France,HOLD,Lon,MAO,SUCCEEDS,Unchallenged,1906,spring,16
+257,France,SUPPORT,Pic,Ukr,SUCCEEDS,Unchallenged,1906,spring,16
+258,France,SUPPORT,Gas,Ukr,FAILS,Disrupted,1906,spring,16
+259,France,MOVE,Por,Mun,SUCCEEDS,Attack strength is greater,1906,spring,16
+260,France,SUPPORT,IRI,Nwy,SUCCEEDS,Unchallenged,1906,spring,16
+261,France,SUPPORT,Spa,Swe,FAILS,Disrupted,1906,spring,16
+262,France,SUPPORT,Bre,Swe,SUCCEEDS,Unchallenged,1906,spring,16
+263,Austria,MOVE,War,War,FAILS,Attack strength is not greater than the prevent strength,1906,spring,16
+264,Germany,SUPPORT,Mos,Wal,SUCCEEDS,Unchallenged,1906,spring,16
+265,Germany,MOVE,Boh,Ukr,SUCCEEDS,Attack strength is greater,1906,spring,16
+266,Germany,MOVE,NTH,Stp,SUCCEEDS,Attack strength is greater,1906,spring,16
+267,Turkey,SUPPORT,Boh,Mun,SUCCEEDS,Unchallenged,1906,fall,17
+268,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+269,Turkey,MOVE,Rum,Sev,SUCCEEDS,Attack strength is greater,1906,fall,17
+270,Turkey,SUPPORT,Vie,Mos,SUCCEEDS,Unchallenged,1906,fall,17
+271,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1906,fall,17
+272,Turkey,SUPPORT,WES,Sev,SUCCEEDS,Unchallenged,1906,fall,17
+273,Turkey,MOVE,Gal,Lvp,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+274,Turkey,SUPPORT,BLA,Spa,SUCCEEDS,Unchallenged,1906,fall,17
+275,England,MOVE,Wal,Wal,FAILS,Attack strength is not greater than the prevent strength,1906,fall,17
+276,France,SUPPORT,Mar,Spa,FAILS,Disrupted,1906,fall,17
+277,France,SUPPORT,Bur,Spa,SUCCEEDS,Unchallenged,1906,fall,17
+278,France,MOVE,Lon,Lvp,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+279,France,HOLD,Pic,Gas,SUCCEEDS,Unchallenged,1906,fall,17
+280,France,MOVE,Gas,NAO,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+281,France,SUPPORT,Por,Stp,SUCCEEDS,Unchallenged,1906,fall,17
+282,France,MOVE,IRI,Nwy,FAILS,Attack strength is not greater than the prevent strength,1906,fall,17
+283,France,MOVE,Bre,Stp,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+284,France,MOVE,MAO,Swe,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+285,Austria,SUPPORT,War,Tyr,FAILS,Disrupted,1906,fall,17
+286,Germany,SUPPORT,Mos,Lvp,FAILS,Disrupted,1906,fall,17
+287,Germany,MOVE,Swe,Mar,FAILS,Attack strength is not greater than the prevent strength,1906,fall,17
+288,Germany,MOVE,Nwy,Mun,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+289,Germany,MOVE,BAL,Nwy,FAILS,Attack strength is not greater than the defend strength,1906,fall,17
+290,Germany,SUPPORT,Mun,Mos,FAILS,Disrupted,1906,fall,17
+291,Germany,SUPPORT,Sil,Nwy,SUCCEEDS,Unchallenged,1906,fall,17
+292,Turkey,MOVE,Boh,Sil,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+293,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1907,spring,19
+294,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+295,Turkey,MOVE,Vie,Boh,FAILS,Attack strength is not greater than the prevent strength,1907,spring,19
+296,Turkey,SUPPORT,Ukr,War,FAILS,Invalid Order,1907,spring,19
+297,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1907,spring,19
+298,Turkey,SUPPORT,Gal,Sil,FAILS,Disrupted,1907,spring,19
+299,Turkey,SUPPORT,BLA,Bul,SUCCEEDS,Unchallenged,1907,spring,19
+300,Turkey,MOVE,Con,MAO,SUCCEEDS,Attack strength is greater,1907,spring,19
+301,Italy,HOLD,Tri,LYO,SUCCEEDS,Unchallenged,1907,spring,19
+302,Italy,SUPPORT,NAO,Pie,FAILS,Disrupted,1907,spring,19
+303,Italy,MOVE,Pie,MAO,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+304,Italy,MOVE,Ven,Spa,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+305,Italy,MOVE,Spa,Mun,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+306,Italy,MOVE,LYO,Spa,FAILS,Attack strength is not greater than the prevent strength,1907,spring,19
+307,Italy,MOVE,Tyr,Yor,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+308,France,SUPPORT,Mar,Spa,SUCCEEDS,Unchallenged,1907,spring,19
+309,France,SUPPORT,Bur,Spa,SUCCEEDS,Unchallenged,1907,spring,19
+310,France,MOVE,Lon,NAO,SUCCEEDS,Attack strength is greater,1907,spring,19
+311,France,SUPPORT,Gas,Spa,SUCCEEDS,Unchallenged,1907,spring,19
+312,France,MOVE,Por,Gal,SUCCEEDS,Attack strength is greater,1907,spring,19
+313,France,MOVE,IRI,Nwy,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+314,France,SUPPORT,Bre,Nwy,SUCCEEDS,Unchallenged,1907,spring,19
+315,France,SUPPORT,MAO,BOT,SUCCEEDS,Neither displaced nor disrupted,1907,spring,19
+316,Austria,MOVE,War,Boh,FAILS,Attack strength is not greater than the defend strength,1907,spring,19
+317,Germany,SUPPORT,Swe,Ruh,SUCCEEDS,Unchallenged,1907,spring,19
+318,Germany,MOVE,NTH,Gal,SUCCEEDS,Attack strength is greater,1907,spring,19
+319,Germany,MOVE,BAL,Lvn,SUCCEEDS,Attack strength is greater,1907,spring,19
+320,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1907,fall,20
+321,Turkey,SUPPORT,Naf,MAO,SUCCEEDS,Unchallenged,1907,fall,20
+322,Turkey,MOVE,Sev,Mos,SUCCEEDS,Attack strength is greater,1907,fall,20
+323,Turkey,SUPPORT,Vie,Mos,SUCCEEDS,Unchallenged,1907,fall,20
+324,Turkey,SUPPORT,Ukr,Mun,SUCCEEDS,Unchallenged,1907,fall,20
+325,Turkey,SUPPORT,Boh,Sil,FAILS,Disrupted,1907,fall,20
+326,Turkey,MOVE,Gal,Rum,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+327,Turkey,MOVE,Bul,Tyr,SUCCEEDS,Attack strength is greater,1907,fall,20
+328,Turkey,HOLD,BLA,MAO,SUCCEEDS,Unchallenged,1907,fall,20
+329,Italy,MOVE,Tri,Mar,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+330,Italy,MOVE,NAO,Spa,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+331,Italy,MOVE,Pie,Mun,FAILS,Attack strength is not greater than the prevent strength,1907,fall,20
+332,Italy,HOLD,Ven,LYO,SUCCEEDS,Unchallenged,1907,fall,20
+333,Italy,MOVE,LYO,Mar,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+334,Italy,MOVE,Tyr,NAO,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+335,France,MOVE,Mar,LYO,SUCCEEDS,Attack strength is greater,1907,fall,20
+336,France,MOVE,Bur,Lvp,FAILS,Attack strength is not greater than the prevent strength,1907,fall,20
+337,France,SUPPORT,Gas,Gal,SUCCEEDS,Unchallenged,1907,fall,20
+338,France,MOVE,IRI,Stp,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+339,France,SUPPORT,Spa,Stp,SUCCEEDS,Neither displaced nor disrupted,1907,fall,20
+340,France,SUPPORT,Bre,Stp,SUCCEEDS,Unchallenged,1907,fall,20
+341,France,MOVE,Yor,Boh,SUCCEEDS,Attack strength is greater,1907,fall,20
+342,France,SUPPORT,MAO,Boh,FAILS,Disrupted,1907,fall,20
+343,Austria,MOVE,War,War,FAILS,Attack strength is not greater than the defend strength,1907,fall,20
+344,Germany,SUPPORT,Ruh,War,SUCCEEDS,Unchallenged,1907,fall,20
+345,Turkey,SUPPORT,WES,LYO,FAILS,Disrupted,1908,spring,22
+346,Turkey,SUPPORT,Naf,Gal,SUCCEEDS,Unchallenged,1908,spring,22
+347,Turkey,MOVE,Rum,War,SUCCEEDS,Attack strength is greater,1908,spring,22
+348,Turkey,SUPPORT,Mos,War,FAILS,Displaced,1908,spring,22
+349,Turkey,SUPPORT,Vie,Sil,SUCCEEDS,Unchallenged,1908,spring,22
+350,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1908,spring,22
+351,Turkey,MOVE,Boh,Sev,FAILS,Attack strength is not greater than the defend strength,1908,spring,22
+352,Turkey,MOVE,Gal,Sev,SUCCEEDS,Attack strength is greater,1908,spring,22
+353,Turkey,CONVOY,BLA,Ven,SUCCEEDS,Unchallenged,1908,spring,22
+354,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1908,spring,22
+355,Italy,MOVE,Tri,NWG,SUCCEEDS,Attack strength is greater,1908,spring,22
+356,Italy,MOVE,Pie,Tus,FAILS,Attack strength is not greater than the defend strength,1908,spring,22
+357,Italy,MOVE,NAO,Mun,FAILS,Attack strength is not greater than the prevent strength,1908,spring,22
+358,Italy,MOVE,Ven,LYO,SUCCEEDS,Attack strength is greater,1908,spring,22
+359,Italy,MOVE,Tyr,Mos,FAILS,Attack strength is not greater than the prevent strength,1908,spring,22
+360,Italy,SUPPORT,TYS,Mun,SUCCEEDS,Unchallenged,1908,spring,22
+361,Austria,MOVE,War,BAL,SUCCEEDS,Attack strength is greater,1908,spring,22
+362,Germany,SUPPORT,Ruh,NWG,SUCCEEDS,Unchallenged,1908,spring,22
+363,Germany,MOVE,BOT,Mos,SUCCEEDS,Attack strength is greater,1908,spring,22
+364,Germany,MOVE,Nwy,Pru,FAILS,Attack strength is not greater than the prevent strength,1908,spring,22
+365,Germany,SUPPORT,Stp,Boh,SUCCEEDS,Unchallenged,1908,spring,22
+366,Germany,MOVE,Ber,Mun,SUCCEEDS,Attack strength is greater,1908,spring,22
+367,Germany,MOVE,Mun,Boh,SUCCEEDS,Attack strength is greater,1908,spring,22
+368,Germany,MOVE,Kie,Cly,SUCCEEDS,Attack strength is greater,1908,spring,22
+369,Germany,SUPPORT,Sil,MAO,SUCCEEDS,Neither displaced nor disrupted,1908,spring,22
+370,France,SUPPORT,Mar,WES,SUCCEEDS,Unchallenged,1908,spring,22
+371,France,MOVE,Lvp,MAO,SUCCEEDS,Attack strength is greater,1908,spring,22
+372,France,SUPPORT,Bur,WES,SUCCEEDS,Unchallenged,1908,spring,22
+373,France,SUPPORT,Gas,WES,SUCCEEDS,Unchallenged,1908,spring,22
+374,Turkey,SUPPORT,Sev,Mos,SUCCEEDS,Unchallenged,1908,fall,23
+375,Turkey,MOVE,Naf,MAO,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+376,Turkey,MOVE,Vie,Boh,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+377,Turkey,SUPPORT,Ukr,Mos,SUCCEEDS,Neither displaced nor disrupted,1908,fall,23
+378,Turkey,SUPPORT,WES,LYO,SUCCEEDS,Unchallenged,1908,fall,23
+379,Turkey,SUPPORT,Gal,Mos,FAILS,Disrupted,1908,fall,23
+380,Turkey,MOVE,Lvn,War,SUCCEEDS,Attack strength is greater,1908,fall,23
+381,Turkey,HOLD,BLA,Mun,SUCCEEDS,Unchallenged,1908,fall,23
+382,Turkey,HOLD,War,NWG,FAILS,Insufficient hold strength,1908,fall,23
+383,Germany,SUPPORT,Pru,Gal,SUCCEEDS,Unchallenged,1908,fall,23
+384,Germany,MOVE,Ruh,Lvn,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+385,Germany,MOVE,Nwy,Lvn,SUCCEEDS,Attack strength is greater,1908,fall,23
+386,Germany,MOVE,Boh,Tyr,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+387,Germany,MOVE,Stp,War,SUCCEEDS,Attack strength is greater,1908,fall,23
+388,Germany,SUPPORT,BAL,Ukr,SUCCEEDS,Unchallenged,1908,fall,23
+389,Germany,MOVE,Mun,Lvp,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+390,Germany,MOVE,Sil,LYO,SUCCEEDS,Attack strength is greater,1908,fall,23
+391,Austria,MOVE,Mos,LYO,FAILS,Attack strength is not greater than the defend strength,1908,fall,23
+392,Italy,SUPPORT,Tus,Lvp,SUCCEEDS,Unchallenged,1908,fall,23
+393,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1909,spring,25
+394,Turkey,MOVE,Naf,Boh,FAILS,Attack strength is not greater than the prevent strength,1909,spring,25
+395,Turkey,MOVE,Vie,Rum,SUCCEEDS,Attack strength is greater,1909,spring,25
+396,Turkey,HOLD,Mos,MAO,SUCCEEDS,Stronger defense,1909,spring,25
+397,Turkey,SUPPORT,Ukr,Boh,SUCCEEDS,Unchallenged,1909,spring,25
+398,Turkey,MOVE,Ank,Rum,SUCCEEDS,Attack strength is greater,1909,spring,25
+399,Turkey,SUPPORT,WES,Bul,FAILS,Displaced,1909,spring,25
+400,Turkey,SUPPORT,Gal,War,SUCCEEDS,Neither displaced nor disrupted,1909,spring,25
+401,Turkey,CONVOY,BLA,Mun,SUCCEEDS,Unchallenged,1909,spring,25
+402,Turkey,MOVE,Con,Mos,SUCCEEDS,Attack strength is greater,1909,spring,25
+403,Germany,MOVE,Pru,Gal,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+404,Germany,MOVE,Ruh,NAO,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+405,Germany,SUPPORT,Lvn,Tyr,SUCCEEDS,Unchallenged,1909,spring,25
+406,Germany,MOVE,Boh,Mos,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+407,Germany,MOVE,NWG,Mos,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+408,Germany,SUPPORT,BAL,IRI,SUCCEEDS,Unchallenged,1909,spring,25
+409,Germany,MOVE,Mun,Mar,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+410,Germany,MOVE,War,Boh,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+411,Austria,SUPPORT,Stp,LYO,SUCCEEDS,Unchallenged,1909,spring,25
+412,Italy,SUPPORT,Tus,MAO,SUCCEEDS,Unchallenged,1909,spring,25
+413,Italy,MOVE,NAO,Lvp,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+414,Italy,MOVE,Pie,WES,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+415,Italy,SUPPORT,Ven,MAO,SUCCEEDS,Unchallenged,1909,spring,25
+416,Italy,SUPPORT,Tyr,WES,FAILS,Disrupted,1909,spring,25
+417,Italy,MOVE,TYS,WES,FAILS,Attack strength is not greater than the defend strength,1909,spring,25
+418,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1909,fall,26
+419,Turkey,SUPPORT,Naf,Rum,SUCCEEDS,Unchallenged,1909,fall,26
+420,Turkey,MOVE,Bul,Gal,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+421,Turkey,MOVE,Rum,Sil,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+422,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1909,fall,26
+423,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1909,fall,26
+424,Turkey,SUPPORT,Boh,Mos,SUCCEEDS,Unchallenged,1909,fall,26
+425,Turkey,MOVE,Gal,War,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+426,Turkey,MOVE,Tun,Mos,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+427,Turkey,HOLD,BLA,War,SUCCEEDS,Unchallenged,1909,fall,26
+428,Germany,SUPPORT,Ruh,Mos,SUCCEEDS,Unchallenged,1909,fall,26
+429,Germany,SUPPORT,Lvn,Lvp,SUCCEEDS,Unchallenged,1909,fall,26
+430,Germany,MOVE,Pru,LYO,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+431,Germany,HOLD,NWG,LYO,SUCCEEDS,Unchallenged,1909,fall,26
+432,Germany,HOLD,BAL,Mun,SUCCEEDS,Unchallenged,1909,fall,26
+433,Germany,SUPPORT,Mun,Mar,SUCCEEDS,Unchallenged,1909,fall,26
+434,Germany,MOVE,War,TYS,FAILS,Attack strength is not greater than the defend strength,1909,fall,26
+435,Germany,SUPPORT,Sil,MAO,FAILS,Disrupted,1909,fall,26
+436,Austria,SUPPORT,Stp,MAO,SUCCEEDS,Unchallenged,1909,fall,26
+437,Italy,SUPPORT,Tus,TYS,SUCCEEDS,Unchallenged,1909,fall,26
+438,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1910,spring,28
+439,Turkey,SUPPORT,Naf,Rum,FAILS,Disrupted,1910,spring,28
+440,Turkey,MOVE,Bul,Gal,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+441,Turkey,MOVE,Rum,Sil,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+442,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1910,spring,28
+443,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1910,spring,28
+444,Turkey,SUPPORT,Boh,Bul,FAILS,Disrupted,1910,spring,28
+445,Turkey,MOVE,Gal,WES,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+446,Turkey,MOVE,Tun,MAO,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+447,Turkey,HOLD,BLA,Mun,SUCCEEDS,Unchallenged,1910,spring,28
+448,Turkey,MOVE,Con,Mun,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+449,Italy,SUPPORT,TYS,Mos,SUCCEEDS,Unchallenged,1910,spring,28
+450,Italy,SUPPORT,Tus,Boh,SUCCEEDS,Unchallenged,1910,spring,28
+451,Italy,MOVE,NAO,Mos,FAILS,Attack strength is not greater than the defend strength,1910,spring,28
+452,Italy,MOVE,Tyr,Boh,FAILS,Attack strength is not greater than the prevent strength,1910,spring,28
+453,Italy,HOLD,Pie,Pie,SUCCEEDS,Stronger defense,1910,spring,28
+454,Austria,HOLD,Stp,Mun,SUCCEEDS,Unchallenged,1910,spring,28
+455,Germany,MOVE,Ruh,Naf,FAILS,Attack strength is not greater than the prevent strength,1910,spring,28
+456,Germany,SUPPORT,Lvn,NAO,SUCCEEDS,Unchallenged,1910,spring,28
+457,Germany,SUPPORT,Pru,Pie,SUCCEEDS,Unchallenged,1910,spring,28
+458,Germany,HOLD,NWG,Naf,SUCCEEDS,Unchallenged,1910,spring,28
+459,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1910,fall,29
+460,Turkey,MOVE,Naf,WES,SUCCEEDS,Attack strength is greater,1910,fall,29
+461,Turkey,SUPPORT,Tun,WES,SUCCEEDS,Unchallenged,1910,fall,29
+462,Turkey,MOVE,Rum,Bud,SUCCEEDS,Attack strength is greater,1910,fall,29
+463,Turkey,MOVE,Mos,War,FAILS,Attack strength is not greater than the prevent strength,1910,fall,29
+464,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1910,fall,29
+465,Turkey,MOVE,Boh,Sil,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+466,Turkey,SUPPORT,Gal,War,SUCCEEDS,Neither displaced nor disrupted,1910,fall,29
+467,Turkey,MOVE,Bul,Sev,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+468,Turkey,CONVOY,BLA,Sev,SUCCEEDS,Unchallenged,1910,fall,29
+469,Turkey,MOVE,Con,Bul,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+470,Italy,SUPPORT,TYS,WES,SUCCEEDS,Neither displaced nor disrupted,1910,fall,29
+471,Italy,MOVE,Tus,Pie,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+472,Italy,MOVE,NAO,MAO,SUCCEEDS,Attack strength is greater,1910,fall,29
+473,Italy,HOLD,Tyr,LYO,SUCCEEDS,Unchallenged,1910,fall,29
+474,Italy,MOVE,Pie,Mos,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+475,Austria,MOVE,Stp,Mun,FAILS,Attack strength is not greater than the prevent strength,1910,fall,29
+476,Germany,MOVE,Ruh,War,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+477,Germany,SUPPORT,Lvn,War,SUCCEEDS,Unchallenged,1910,fall,29
+478,Germany,SUPPORT,Pru,Boh,SUCCEEDS,Unchallenged,1910,fall,29
+479,Germany,HOLD,NWG,Gal,SUCCEEDS,Unchallenged,1910,fall,29
+480,Germany,HOLD,BAL,War,SUCCEEDS,Unchallenged,1910,fall,29
+481,Germany,MOVE,Mun,Mun,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+482,Germany,MOVE,War,Spa,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+483,Germany,MOVE,Sil,TYS,FAILS,Attack strength is not greater than the prevent strength,1910,fall,29
+484,France,SUPPORT,Mar,NAO,SUCCEEDS,Unchallenged,1910,fall,29
+485,France,HOLD,Lvp,WES,SUCCEEDS,Unchallenged,1910,fall,29
+486,France,SUPPORT,Bur,TYS,SUCCEEDS,Unchallenged,1910,fall,29
+487,France,MOVE,Gas,Naf,FAILS,Attack strength is not greater than the defend strength,1910,fall,29
+488,Turkey,MOVE,WES,Naf,SUCCEEDS,Attack strength is greater,1911,spring,31
+489,Turkey,SUPPORT,Tun,Naf,SUCCEEDS,Unchallenged,1911,spring,31
+490,Turkey,SUPPORT,Sev,Sil,SUCCEEDS,Unchallenged,1911,spring,31
+491,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1911,spring,31
+492,Turkey,SUPPORT,Ukr,Ser,SUCCEEDS,Unchallenged,1911,spring,31
+493,Turkey,SUPPORT,Boh,Vie,FAILS,Disrupted,1911,spring,31
+494,Turkey,MOVE,Gal,Bul,FAILS,Attack strength is not greater than the head to head strength,1911,spring,31
+495,Turkey,MOVE,Bul,ENG,SUCCEEDS,Attack strength is greater,1911,spring,31
+496,Turkey,HOLD,BLA,LYO,SUCCEEDS,Unchallenged,1911,spring,31
+497,Turkey,MOVE,Bud,Mun,SUCCEEDS,Attack strength is greater,1911,spring,31
+498,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1911,spring,31
+499,Italy,MOVE,MAO,Mos,SUCCEEDS,Attack strength is greater,1911,spring,31
+500,Italy,SUPPORT,Tus,Mun,SUCCEEDS,Unchallenged,1911,spring,31
+501,Italy,SUPPORT,Pie,Mos,SUCCEEDS,Unchallenged,1911,spring,31
+502,Italy,MOVE,Tyr,War,FAILS,Attack strength is not greater than the prevent strength,1911,spring,31
+503,Italy,MOVE,TYS,NTH,SUCCEEDS,Attack strength is greater,1911,spring,31
+504,Austria,SUPPORT,Stp,Boh,SUCCEEDS,Unchallenged,1911,spring,31
+505,Germany,MOVE,Ruh,Mos,FAILS,Attack strength is not greater than the prevent strength,1911,spring,31
+506,Germany,SUPPORT,Lvn,Gal,SUCCEEDS,Unchallenged,1911,spring,31
+507,Germany,MOVE,Pru,LYO,FAILS,Attack strength is not greater than the defend strength,1911,spring,31
+508,Germany,MOVE,NWG,WES,SUCCEEDS,Attack strength is greater,1911,spring,31
+509,Germany,HOLD,BAL,Yor,SUCCEEDS,Unchallenged,1911,spring,31
+510,Germany,MOVE,Mun,Mun,FAILS,Attack strength is not greater than the defend strength,1911,spring,31
+511,Germany,MOVE,War,Mar,FAILS,Attack strength is not greater than the defend strength,1911,spring,31
+512,Germany,MOVE,Sil,MAO,FAILS,Attack strength is not greater than the head to head strength,1911,spring,31
+513,France,MOVE,Mar,WES,FAILS,Attack strength is not greater than the prevent strength,1911,spring,31
+514,France,SUPPORT,Naf,MAO,FAILS,Displaced,1911,spring,31
+515,France,MOVE,Lvp,WES,SUCCEEDS,Attack strength is greater,1911,spring,31
+516,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1911,fall,32
+517,Turkey,MOVE,Naf,WES,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+518,Turkey,MOVE,Tun,Bud,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+519,Turkey,MOVE,Vie,Sil,SUCCEEDS,Attack strength is greater,1911,fall,32
+520,Turkey,HOLD,Mos,Sil,SUCCEEDS,Stronger defense,1911,fall,32
+521,Turkey,SUPPORT,Ukr,Ser,SUCCEEDS,Unchallenged,1911,fall,32
+522,Turkey,MOVE,Boh,Rum,SUCCEEDS,Attack strength is greater,1911,fall,32
+523,Turkey,SUPPORT,Gal,Mar,SUCCEEDS,Neither displaced nor disrupted,1911,fall,32
+524,Turkey,MOVE,Bul,Rom,SUCCEEDS,Attack strength is greater,1911,fall,32
+525,Turkey,HOLD,BLA,Mar,SUCCEEDS,Unchallenged,1911,fall,32
+526,Turkey,MOVE,Ser,Vie,SUCCEEDS,Attack strength is greater,1911,fall,32
+527,Italy,SUPPORT,LYO,MAO,FAILS,Disrupted,1911,fall,32
+528,Italy,MOVE,Tus,Mos,SUCCEEDS,Attack strength is greater,1911,fall,32
+529,Italy,MOVE,Pie,Mun,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+530,Italy,MOVE,Tyr,Mos,SUCCEEDS,Attack strength is greater,1911,fall,32
+531,Italy,SUPPORT,ENG,War,FAILS,Disrupted,1911,fall,32
+532,Austria,SUPPORT,Stp,ENG,SUCCEEDS,Unchallenged,1911,fall,32
+533,Germany,MOVE,Ruh,Den,SUCCEEDS,Attack strength is greater,1911,fall,32
+534,Germany,SUPPORT,Lvn,Boh,SUCCEEDS,Unchallenged,1911,fall,32
+535,Germany,MOVE,Pru,Mos,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+536,Germany,MOVE,NTH,Gal,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+537,Germany,MOVE,BAL,LYO,SUCCEEDS,Attack strength is greater,1911,fall,32
+538,Germany,MOVE,Mun,Bel,SUCCEEDS,Attack strength is greater,1911,fall,32
+539,Germany,MOVE,War,IRI,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+540,Germany,MOVE,Sil,LYO,FAILS,Attack strength is not greater than the defend strength,1911,fall,32
+541,France,SUPPORT,Mar,LYO,FAILS,Disrupted,1911,fall,32
+542,France,MOVE,Bur,Lon,SUCCEEDS,Attack strength is greater,1911,fall,32
+543,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1912,spring,34
+544,Turkey,SUPPORT,Naf,Bud,SUCCEEDS,Unchallenged,1912,spring,34
+545,Turkey,HOLD,Rum,WES,SUCCEEDS,Unchallenged,1912,spring,34
+546,Turkey,HOLD,Mos,Ser,SUCCEEDS,Stronger defense,1912,spring,34
+547,Turkey,SUPPORT,Ukr,Mun,SUCCEEDS,Unchallenged,1912,spring,34
+548,Turkey,MOVE,Gal,War,SUCCEEDS,Attack strength is greater,1912,spring,34
+549,Turkey,MOVE,Tun,Sil,FAILS,Attack strength is not greater than the defend strength,1912,spring,34
+550,Turkey,SUPPORT,BLA,Gal,SUCCEEDS,Unchallenged,1912,spring,34
+551,Turkey,MOVE,Bud,Edi,SUCCEEDS,Attack strength is greater,1912,spring,34
+552,Turkey,MOVE,Sil,NTH,FAILS,Attack strength is not greater than the defend strength,1912,spring,34
+553,Germany,SUPPORT,Pru,Sil,SUCCEEDS,Unchallenged,1912,spring,34
+554,Germany,SUPPORT,Mun,War,SUCCEEDS,Neither displaced nor disrupted,1912,spring,34
+555,Germany,SUPPORT,Boh,Gal,FAILS,Disrupted,1912,spring,34
+556,Germany,MOVE,NTH,Mos,SUCCEEDS,Attack strength is greater,1912,spring,34
+557,Germany,MOVE,Den,Ven,SUCCEEDS,Attack strength is greater,1912,spring,34
+558,Germany,MOVE,Ber,Boh,SUCCEEDS,Attack strength is greater,1912,spring,34
+559,Germany,MOVE,Lvn,Mar,SUCCEEDS,Attack strength is greater,1912,spring,34
+560,Germany,MOVE,War,TYS,SUCCEEDS,Attack strength is greater,1912,spring,34
+561,Austria,MOVE,Stp,WES,FAILS,Attack strength is not greater than the defend strength,1912,spring,34
+562,Italy,MOVE,Rom,LYO,SUCCEEDS,Attack strength is greater,1912,spring,34
+563,Italy,MOVE,Vie,Mar,FAILS,Attack strength is not greater than the defend strength,1912,spring,34
+564,Italy,HOLD,ENG,LYO,SUCCEEDS,Stronger defense,1912,spring,34
+565,Italy,MOVE,Pie,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,spring,34
+566,Italy,MOVE,Nap,ENG,SUCCEEDS,Attack strength is greater,1912,spring,34
+567,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1912,fall,35
+568,Turkey,MOVE,Naf,WES,SUCCEEDS,Attack strength is greater,1912,fall,35
+569,Turkey,HOLD,Ser,Gal,SUCCEEDS,Unchallenged,1912,fall,35
+570,Turkey,MOVE,Rum,War,FAILS,Attack strength is not greater than the defend strength,1912,fall,35
+571,Turkey,MOVE,Mos,War,FAILS,Attack strength is not greater than the defend strength,1912,fall,35
+572,Turkey,SUPPORT,Ukr,WES,SUCCEEDS,Unchallenged,1912,fall,35
+573,Turkey,SUPPORT,Tun,Lvn,SUCCEEDS,Unchallenged,1912,fall,35
+574,Turkey,HOLD,BLA,Cly,SUCCEEDS,Unchallenged,1912,fall,35
+575,Turkey,SUPPORT,Bud,Vie,SUCCEEDS,Unchallenged,1912,fall,35
+576,Germany,MOVE,Pru,ENG,SUCCEEDS,Attack strength is greater,1912,fall,35
+577,Germany,MOVE,Edi,Vie,SUCCEEDS,Attack strength is greater,1912,fall,35
+578,Germany,SUPPORT,Boh,Tyr,SUCCEEDS,Unchallenged,1912,fall,35
+579,Germany,SUPPORT,NTH,Mos,SUCCEEDS,Unchallenged,1912,fall,35
+580,Germany,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the defend strength,1912,fall,35
+581,Germany,MOVE,Mun,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,fall,35
+582,Germany,HOLD,War,Mar,SUCCEEDS,Stronger defense,1912,fall,35
+583,Germany,SUPPORT,Sil,Tyr,SUCCEEDS,Unchallenged,1912,fall,35
+584,Austria,MOVE,Stp,LYO,FAILS,Attack strength is not greater than the prevent strength,1912,fall,35
+585,Italy,SUPPORT,Vie,Mar,FAILS,Disrupted,1912,fall,35
+586,Italy,MOVE,Tus,TYS,FAILS,Attack strength is not greater than the defend strength,1912,fall,35
+587,Italy,MOVE,Pie,MAO,FAILS,Attack strength is not greater than the prevent strength,1912,fall,35
+588,Italy,HOLD,ENG,ENG,FAILS,Insufficient hold strength,1912,fall,35
+589,Italy,MOVE,Ven,TYS,FAILS,Attack strength is not greater than the prevent strength,1912,fall,35
+590,Italy,SUPPORT,TYS,Naf,FAILS,Disrupted,1912,fall,35
+591,Turkey,MOVE,Sev,Ukr,SUCCEEDS,Attack strength is greater,1913,spring,37
+592,Turkey,MOVE,Ser,Tri,SUCCEEDS,Attack strength is greater,1913,spring,37
+593,Turkey,SUPPORT,Rum,Gal,SUCCEEDS,Unchallenged,1913,spring,37
+594,Turkey,HOLD,Mos,Gal,FAILS,Insufficient hold strength,1913,spring,37
+595,Turkey,MOVE,Ukr,Naf,SUCCEEDS,Attack strength is greater,1913,spring,37
+596,Turkey,MOVE,WES,Naf,FAILS,Attack strength is not greater than the head to head strength,1913,spring,37
+597,Turkey,SUPPORT,Tun,Gal,SUCCEEDS,Unchallenged,1913,spring,37
+598,Turkey,HOLD,BLA,Bul,SUCCEEDS,Unchallenged,1913,spring,37
+599,Turkey,SUPPORT,Bud,Boh,SUCCEEDS,Unchallenged,1913,spring,37
+600,Turkey,MOVE,Con,LYO,SUCCEEDS,Attack strength is greater,1913,spring,37
+601,Italy,MOVE,Vie,LYO,FAILS,Attack strength is not greater than the defend strength,1913,spring,37
+602,Italy,MOVE,Tus,Lvp,SUCCEEDS,Attack strength is greater,1913,spring,37
+603,Italy,SUPPORT,Pie,Tyr,FAILS,Displaced,1913,spring,37
+604,Italy,MOVE,IRI,LYO,FAILS,Attack strength is not greater than the prevent strength,1913,spring,37
+605,Italy,MOVE,Ven,Mos,FAILS,Attack strength is not greater than the prevent strength,1913,spring,37
+606,Italy,SUPPORT,TYS,Mos,SUCCEEDS,Unchallenged,1913,spring,37
+607,Austria,SUPPORT,Stp,Tyr,SUCCEEDS,Unchallenged,1913,spring,37
+608,Germany,MOVE,Lvn,NWG,SUCCEEDS,Attack strength is greater,1913,spring,37
+609,Germany,SUPPORT,Boh,Ukr,FAILS,Disrupted,1913,spring,37
+610,Germany,MOVE,NTH,Lvp,SUCCEEDS,Attack strength is greater,1913,spring,37
+611,Germany,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the head to head strength,1913,spring,37
+612,Germany,MOVE,Cly,Ukr,FAILS,Attack strength is not greater than the prevent strength,1913,spring,37
+613,Germany,MOVE,Mun,Gal,FAILS,Attack strength is not greater than the prevent strength,1913,spring,37
+614,Germany,SUPPORT,War,Pie,SUCCEEDS,Unchallenged,1913,spring,37
+615,Germany,MOVE,Sil,WES,FAILS,Attack strength is not greater than the prevent strength,1913,spring,37
+616,France,SUPPORT,Mar,Bur,SUCCEEDS,Unchallenged,1913,spring,37
+617,France,MOVE,Naf,IRI,SUCCEEDS,Attack strength is greater,1913,spring,37
+618,France,MOVE,Bel,Wal,SUCCEEDS,Attack strength is greater,1913,spring,37
+619,France,MOVE,ENG,WES,FAILS,Attack strength is not greater than the defend strength,1913,spring,37
+620,France,HOLD,Gas,Pie,SUCCEEDS,Unchallenged,1913,spring,37
+621,France,MOVE,Lon,WES,SUCCEEDS,Attack strength is greater,1913,spring,37
+622,Turkey,MOVE,Tri,Tyr,SUCCEEDS,Attack strength is greater,1913,fall,38
+623,Turkey,SUPPORT,Sev,Gal,SUCCEEDS,Unchallenged,1913,fall,38
+624,Turkey,HOLD,Tun,Boh,SUCCEEDS,Stronger defense,1913,fall,38
+625,Turkey,MOVE,Rum,Rum,FAILS,Attack strength is not greater than the defend strength,1913,fall,38
+626,Turkey,HOLD,Ukr,Gal,SUCCEEDS,Unchallenged,1913,fall,38
+627,Turkey,MOVE,Gal,Tyr,FAILS,Attack strength is not greater than the defend strength,1913,fall,38
+628,Turkey,MOVE,Bul,Wal,FAILS,Attack strength is not greater than the defend strength,1913,fall,38
+629,Turkey,HOLD,BLA,Pie,SUCCEEDS,Unchallenged,1913,fall,38
+630,Turkey,SUPPORT,Bud,NAO,SUCCEEDS,Unchallenged,1913,fall,38
+631,Italy,SUPPORT,Vie,Lvp,SUCCEEDS,Unchallenged,1913,fall,38
+632,Italy,SUPPORT,Tus,Lvp,SUCCEEDS,Unchallenged,1913,fall,38
+633,Italy,MOVE,IRI,IRI,FAILS,Attack strength is not greater than the defend strength,1913,fall,38
+634,Italy,MOVE,Ven,LYO,FAILS,Attack strength is not greater than the defend strength,1913,fall,38
+635,Italy,HOLD,LYO,Tun,SUCCEEDS,Stronger defense,1913,fall,38
+636,Italy,SUPPORT,TYS,LYO,SUCCEEDS,Unchallenged,1913,fall,38
+637,Austria,SUPPORT,Stp,LYO,SUCCEEDS,Unchallenged,1913,fall,38
+638,Germany,SUPPORT,Mos,IRI,SUCCEEDS,Unchallenged,1913,fall,38
+639,Turkey,SUPPORT,Sev,Ser,SUCCEEDS,Unchallenged,1914,spring,40
+640,Turkey,MOVE,Bul,Naf,SUCCEEDS,Attack strength is greater,1914,spring,40
+641,Turkey,SUPPORT,Rum,Boh,SUCCEEDS,Unchallenged,1914,spring,40
+642,Turkey,HOLD,Ukr,Gal,SUCCEEDS,Unchallenged,1914,spring,40
+643,Turkey,HOLD,Gal,NWG,SUCCEEDS,Stronger defense,1914,spring,40
+644,Turkey,SUPPORT,Bud,Pru,SUCCEEDS,Unchallenged,1914,spring,40
+645,Turkey,MOVE,Tun,Tyr,FAILS,Attack strength is not greater than the prevent strength,1914,spring,40
+646,Turkey,HOLD,BLA,Gal,SUCCEEDS,Unchallenged,1914,spring,40
+647,Turkey,MOVE,Tyr,Mun,SUCCEEDS,Attack strength is greater,1914,spring,40
+648,Germany,SUPPORT,Mos,Gal,SUCCEEDS,Unchallenged,1914,spring,40
+649,Germany,HOLD,NAO,Boh,SUCCEEDS,Unchallenged,1914,spring,40
+650,Germany,MOVE,Boh,Pie,FAILS,Attack strength is not greater than the defend strength,1914,spring,40
+651,Germany,MOVE,Cly,TYS,SUCCEEDS,Attack strength is greater,1914,spring,40
+652,Germany,MOVE,Ber,Pie,SUCCEEDS,Attack strength is greater,1914,spring,40
+653,Germany,MOVE,Mun,Mar,SUCCEEDS,Attack strength is greater,1914,spring,40
+654,Germany,SUPPORT,War,Tun,SUCCEEDS,Unchallenged,1914,spring,40
+655,Germany,MOVE,Kie,Tus,SUCCEEDS,Attack strength is greater,1914,spring,40
+656,Germany,SUPPORT,Sil,LYO,SUCCEEDS,Unchallenged,1914,spring,40
+657,Austria,SUPPORT,Stp,MAO,SUCCEEDS,Unchallenged,1914,spring,40
+658,Italy,SUPPORT,Vie,LYO,SUCCEEDS,Unchallenged,1914,spring,40
+659,Italy,SUPPORT,Tus,LYO,SUCCEEDS,Neither displaced nor disrupted,1914,spring,40
+660,Italy,MOVE,Nap,Naf,FAILS,Attack strength is not greater than the defend strength,1914,spring,40
+661,Turkey,SUPPORT,Sev,Tri,SUCCEEDS,Unchallenged,1914,fall,41
+662,Turkey,MOVE,Ser,Bul,FAILS,Attack strength is not greater than the prevent strength,1914,fall,41
+663,Turkey,MOVE,Rum,War,SUCCEEDS,Attack strength is greater,1914,fall,41
+664,Turkey,SUPPORT,Ukr,Tyr,SUCCEEDS,Unchallenged,1914,fall,41
+665,Turkey,MOVE,Boh,War,SUCCEEDS,Attack strength is greater,1914,fall,41
+666,Turkey,MOVE,Gal,WES,FAILS,Attack strength is not greater than the defend strength,1914,fall,41
+667,Turkey,MOVE,Tun,Tri,FAILS,Attack strength is not greater than the prevent strength,1914,fall,41
+668,Turkey,HOLD,BLA,NTH,SUCCEEDS,Unchallenged,1914,fall,41
+669,Turkey,MOVE,Bud,Boh,FAILS,Attack strength is not greater than the prevent strength,1914,fall,41
+670,Germany,SUPPORT,Mos,Boh,SUCCEEDS,Unchallenged,1914,fall,41
+671,Germany,HOLD,NAO,Boh,SUCCEEDS,Unchallenged,1914,fall,41
+672,Germany,SUPPORT,Pru,TYS,SUCCEEDS,Unchallenged,1914,fall,41
+673,Germany,MOVE,NWG,Pie,SUCCEEDS,Attack strength is greater,1914,fall,41
+674,Germany,MOVE,Mun,Ven,SUCCEEDS,Attack strength is greater,1914,fall,41
+675,Germany,SUPPORT,War,Tus,FAILS,Disrupted,1914,fall,41
+676,Germany,SUPPORT,Tyr,Tyr,FAILS,Displaced,1914,fall,41
+677,Germany,SUPPORT,Sil,Naf,SUCCEEDS,Unchallenged,1914,fall,41
+678,Austria,SUPPORT,Stp,Mar,SUCCEEDS,Unchallenged,1914,fall,41
+679,Italy,MOVE,Nap,Naf,SUCCEEDS,Attack strength is greater,1914,fall,41
+680,Italy,MOVE,Tus,LYO,SUCCEEDS,Attack strength is greater,1914,fall,41
+681,Italy,MOVE,Pie,WES,SUCCEEDS,Attack strength is greater,1914,fall,41
+682,Italy,MOVE,TYS,WES,SUCCEEDS,Attack strength is greater,1914,fall,41
+683,Italy,SUPPORT,Vie,Naf,SUCCEEDS,Unchallenged,1914,fall,41
+684,Turkey,SUPPORT,Sev,Rum,SUCCEEDS,Unchallenged,1915,spring,43
+685,Turkey,SUPPORT,Tun,Con,SUCCEEDS,Unchallenged,1915,spring,43
+686,Turkey,SUPPORT,Ukr,Alb,FAILS,Disrupted,1915,spring,43
+687,Turkey,HOLD,Gal,Ukr,FAILS,Insufficient hold strength,1915,spring,43
+688,Turkey,HOLD,Tyr,Gal,SUCCEEDS,Stronger defense,1915,spring,43
+689,Turkey,MOVE,Bul,Mun,SUCCEEDS,Attack strength is greater,1915,spring,43
+690,Turkey,MOVE,BLA,Tyr,SUCCEEDS,Attack strength is greater,1915,spring,43
+691,Turkey,SUPPORT,Bud,Gal,SUCCEEDS,Unchallenged,1915,spring,43
+692,Turkey,MOVE,Ser,Gal,SUCCEEDS,Attack strength is greater,1915,spring,43
+693,Germany,SUPPORT,Pru,Mos,SUCCEEDS,Unchallenged,1915,spring,43
+694,Germany,MOVE,Mos,Pie,FAILS,Attack strength is not greater than the defend strength,1915,spring,43
+695,Germany,HOLD,NAO,Pie,SUCCEEDS,Unchallenged,1915,spring,43
+696,Germany,MOVE,Boh,Pie,SUCCEEDS,Attack strength is greater,1915,spring,43
+697,Germany,HOLD,NTH,Gas,SUCCEEDS,Unchallenged,1915,spring,43
+698,Germany,MOVE,Ber,Pie,FAILS,Attack strength is not greater than the defend strength,1915,spring,43
+699,Turkey,HOLD,Sev,Bud,SUCCEEDS,Unchallenged,1915,fall,44
+700,Turkey,MOVE,Rum,Gre,SUCCEEDS,Attack strength is greater,1915,fall,44
+701,Turkey,MOVE,Alb,Rum,SUCCEEDS,Attack strength is greater,1915,fall,44
+702,Turkey,MOVE,Ukr,Vie,SUCCEEDS,Attack strength is greater,1915,fall,44
+703,Turkey,MOVE,Tyr,ION,SUCCEEDS,Attack strength is greater,1915,fall,44
+704,Turkey,MOVE,Tun,Tri,SUCCEEDS,Attack strength is greater,1915,fall,44
+705,Turkey,MOVE,Bud,AEG,SUCCEEDS,Attack strength is greater,1915,fall,44
+706,Turkey,MOVE,Con,Lvp,SUCCEEDS,Attack strength is greater,1915,fall,44
+707,Germany,SUPPORT,Mos,Lon,SUCCEEDS,Unchallenged,1915,fall,44
+708,Germany,MOVE,NAO,Vie,SUCCEEDS,Attack strength is greater,1915,fall,44
+709,Germany,SUPPORT,Pru,Mun,SUCCEEDS,Unchallenged,1915,fall,44
+710,Germany,MOVE,NTH,Ruh,SUCCEEDS,Attack strength is greater,1915,fall,44
+711,Germany,SUPPORT,Gal,Boh,SUCCEEDS,Unchallenged,1915,fall,44
+712,Germany,MOVE,Ber,Gal,SUCCEEDS,Attack strength is greater,1915,fall,44
+713,Germany,MOVE,Mun,Pie,SUCCEEDS,Attack strength is greater,1915,fall,44
+714,Germany,SUPPORT,War,Tun,SUCCEEDS,Unchallenged,1915,fall,44
+715,Germany,MOVE,Sil,MAO,SUCCEEDS,Attack strength is greater,1915,fall,44
+716,Austria,SUPPORT,Stp,Tun,SUCCEEDS,Unchallenged,1915,fall,44
+717,Italy,SUPPORT,Vie,WES,FAILS,Invalid Order,1915,fall,44
+718,Italy,SUPPORT,Tus,TYS,SUCCEEDS,Unchallenged,1915,fall,44
+719,Italy,HOLD,Pie,WES,SUCCEEDS,Stronger defense,1915,fall,44
+720,Turkey,SUPPORT,Tri,EAS,SUCCEEDS,Unchallenged,1916,spring,46
+721,Turkey,SUPPORT,Sev,BLA,SUCCEEDS,Unchallenged,1916,spring,46
+722,Turkey,MOVE,Smy,ADR,SUCCEEDS,Attack strength is greater,1916,spring,46
+723,Turkey,HOLD,Rum,Alb,SUCCEEDS,Unchallenged,1916,spring,46
+724,Turkey,HOLD,Vie,ION,SUCCEEDS,Unchallenged,1916,spring,46
+725,Turkey,MOVE,Ank,Bul,SUCCEEDS,Attack strength is greater,1916,spring,46
+726,Turkey,MOVE,ION,ION,SUCCEEDS,Attack strength is greater,1916,spring,46
+727,Turkey,MOVE,Gre,TYS,SUCCEEDS,Attack strength is greater,1916,spring,46
+728,Turkey,MOVE,AEG,Nwy,FAILS,Attack strength is not greater than the prevent strength,1916,spring,46
+729,Turkey,SUPPORT,Bud,Sil,SUCCEEDS,Unchallenged,1916,spring,46
+730,Turkey,MOVE,Con,Bur,SUCCEEDS,Attack strength is greater,1916,spring,46
+731,Italy,HOLD,Ven,Wal,SUCCEEDS,Unchallenged,1916,spring,46
+732,Italy,SUPPORT,Nap,NTH,SUCCEEDS,Unchallenged,1916,spring,46
+733,Italy,MOVE,Tus,Ukr,SUCCEEDS,Attack strength is greater,1916,spring,46
+734,Austria,MOVE,Stp,Mun,SUCCEEDS,Attack strength is greater,1916,spring,46
+735,Germany,MOVE,Pru,Bur,SUCCEEDS,Attack strength is greater,1916,spring,46
+736,Germany,SUPPORT,Ruh,Hol,SUCCEEDS,Unchallenged,1916,spring,46
+737,Germany,MOVE,Lvp,Bur,FAILS,Attack strength is not greater than the prevent strength,1916,spring,46
+738,Germany,HOLD,Mos,Tus,SUCCEEDS,Unchallenged,1916,spring,46
+739,Germany,MOVE,Lon,Pic,SUCCEEDS,Attack strength is greater,1916,spring,46
+740,Germany,HOLD,Boh,Tus,SUCCEEDS,Unchallenged,1916,spring,46
+741,Germany,MOVE,Gal,Wal,SUCCEEDS,Attack strength is greater,1916,spring,46
+742,Germany,MOVE,Ber,ION,SUCCEEDS,Attack strength is greater,1916,spring,46
+743,Germany,MOVE,Mun,Tus,SUCCEEDS,Attack strength is greater,1916,spring,46
+744,Germany,HOLD,War,ENG,SUCCEEDS,Unchallenged,1916,spring,46
+745,Turkey,MOVE,Tri,Tyr,SUCCEEDS,Attack strength is greater,1916,fall,47
+746,Turkey,SUPPORT,Sev,Ukr,SUCCEEDS,Unchallenged,1916,fall,47
+747,Turkey,HOLD,ADR,Gre,SUCCEEDS,Unchallenged,1916,fall,47
+748,Turkey,MOVE,AEG,Ukr,SUCCEEDS,Attack strength is greater,1916,fall,47
+749,Turkey,MOVE,Rum,Tyr,SUCCEEDS,Attack strength is greater,1916,fall,47
+750,Turkey,SUPPORT,Vie,Tri,SUCCEEDS,Unchallenged,1916,fall,47
+751,Turkey,MOVE,Alb,Rum,SUCCEEDS,Attack strength is greater,1916,fall,47
+752,Turkey,MOVE,Bul,ION,SUCCEEDS,Attack strength is greater,1916,fall,47
+753,Turkey,MOVE,EAS,Gal,FAILS,Attack strength is not greater than the defend strength,1916,fall,47
+754,Turkey,SUPPORT,BLA,Apu,SUCCEEDS,Unchallenged,1916,fall,47
+755,Turkey,MOVE,Bud,Apu,SUCCEEDS,Attack strength is greater,1916,fall,47
+756,Italy,SUPPORT,Ven,Edi,SUCCEEDS,Unchallenged,1916,fall,47
+757,Italy,MOVE,Nap,Bel,SUCCEEDS,Attack strength is greater,1916,fall,47
+758,Italy,SUPPORT,TYS,Edi,SUCCEEDS,Unchallenged,1916,fall,47
+759,Austria,MOVE,Nwy,Par,SUCCEEDS,Attack strength is greater,1916,fall,47
+760,Germany,SUPPORT,Ruh,Bel,SUCCEEDS,Unchallenged,1916,fall,47
+761,Germany,HOLD,Lvp,Mos,SUCCEEDS,Unchallenged,1916,fall,47
+762,Germany,CONVOY,NTH,Stp,SUCCEEDS,Unchallenged,1916,fall,47
+763,Germany,MOVE,Bur,Bur,FAILS,Attack strength is not greater than the prevent strength,1916,fall,47
+764,Germany,MOVE,Hol,Bur,SUCCEEDS,Attack strength is greater,1916,fall,47
+765,Germany,MOVE,Ukr,ENG,SUCCEEDS,Attack strength is greater,1916,fall,47
+766,Germany,HOLD,Boh,Lon,SUCCEEDS,Unchallenged,1916,fall,47
+767,Germany,MOVE,Mos,MAO,SUCCEEDS,Attack strength is greater,1916,fall,47
+768,Germany,MOVE,Mun,Apu,FAILS,Attack strength is not greater than the prevent strength,1916,fall,47
+769,Germany,HOLD,War,Spa,SUCCEEDS,Unchallenged,1916,fall,47
+770,Germany,HOLD,Sil,Par,SUCCEEDS,Unchallenged,1916,fall,47
+771,Turkey,SUPPORT,Tri,Ven,SUCCEEDS,Unchallenged,1917,spring,49
+772,Turkey,SUPPORT,Sev,ION,SUCCEEDS,Unchallenged,1917,spring,49
+773,Turkey,SUPPORT,Gre,Gal,SUCCEEDS,Unchallenged,1917,spring,49
+774,Turkey,MOVE,Rum,Boh,FAILS,Attack strength is not greater than the defend strength,1917,spring,49
+775,Turkey,SUPPORT,Vie,Gal,SUCCEEDS,Unchallenged,1917,spring,49
+776,Turkey,SUPPORT,Ukr,Boh,SUCCEEDS,Unchallenged,1917,spring,49
+777,Turkey,MOVE,Gal,Ven,FAILS,Attack strength is not greater than the defend strength,1917,spring,49
+778,Turkey,MOVE,ADR,ION,FAILS,Attack strength is not greater than the defend strength,1917,spring,49
+779,Turkey,MOVE,EAS,Con,SUCCEEDS,Attack strength is greater,1917,spring,49
+780,Turkey,MOVE,BLA,Boh,SUCCEEDS,Attack strength is greater,1917,spring,49
+781,Turkey,SUPPORT,Tyr,Bur,SUCCEEDS,Unchallenged,1917,spring,49
+782,Germany,MOVE,Ruh,IRI,FAILS,Attack strength is not greater than the defend strength,1917,spring,49
+783,Germany,MOVE,Lvp,Pic,SUCCEEDS,Attack strength is greater,1917,spring,49
+784,Germany,MOVE,Bel,Gas,SUCCEEDS,Attack strength is greater,1917,spring,49
+785,Germany,HOLD,NTH,Hol,FAILS,Insufficient hold strength,1917,spring,49
+786,Germany,SUPPORT,Mos,Yor,SUCCEEDS,Unchallenged,1917,spring,49
+787,Germany,HOLD,Boh,ION,SUCCEEDS,Stronger defense,1917,spring,49
+788,Germany,MOVE,Bur,Gas,FAILS,Attack strength is not greater than the prevent strength,1917,spring,49
+789,Germany,SUPPORT,Stp,NTH,SUCCEEDS,Unchallenged,1917,spring,49
+790,Germany,SUPPORT,Mun,Par,SUCCEEDS,Unchallenged,1917,spring,49
+791,Germany,HOLD,War,NTH,SUCCEEDS,Unchallenged,1917,spring,49
+792,Germany,MOVE,Kie,Nap,SUCCEEDS,Attack strength is greater,1917,spring,49
+793,Germany,SUPPORT,Sil,MAO,SUCCEEDS,Unchallenged,1917,spring,49
+794,Austria,MOVE,Edi,NAO,SUCCEEDS,Attack strength is greater,1917,spring,49
+795,Turkey,MOVE,Tri,Ven,SUCCEEDS,Attack strength is greater,1917,fall,50
+796,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1917,fall,50
+797,Turkey,MOVE,Gre,Alb,SUCCEEDS,Attack strength is greater,1917,fall,50
+798,Turkey,SUPPORT,Rum,War,SUCCEEDS,Unchallenged,1917,fall,50
+799,Turkey,SUPPORT,Vie,Tun,SUCCEEDS,Unchallenged,1917,fall,50
+800,Turkey,SUPPORT,Ukr,War,SUCCEEDS,Unchallenged,1917,fall,50
+801,Turkey,MOVE,ION,Ven,FAILS,Attack strength is not greater than the prevent strength,1917,fall,50
+802,Turkey,MOVE,Gal,Ven,FAILS,Attack strength is not greater than the defend strength,1917,fall,50
+803,Turkey,SUPPORT,ADR,AEG,SUCCEEDS,Unchallenged,1917,fall,50
+804,Turkey,SUPPORT,Tyr,Tun,FAILS,Disrupted,1917,fall,50
+805,Turkey,MOVE,Con,Nap,SUCCEEDS,Attack strength is greater,1917,fall,50
+806,Italy,HOLD,Ven,Lon,FAILS,Insufficient hold strength,1917,fall,50
+807,Italy,MOVE,TYS,Bur,FAILS,Attack strength is not greater than the prevent strength,1917,fall,50
+808,Italy,MOVE,Apu,NTH,FAILS,Attack strength is not greater than the defend strength,1917,fall,50
+809,Austria,MOVE,Yor,Par,FAILS,Attack strength is not greater than the defend strength,1917,fall,50
+810,Germany,MOVE,Ruh,Tyr,SUCCEEDS,Attack strength is greater,1917,fall,50
+811,Germany,SUPPORT,Mos,ENG,FAILS,Disrupted,1917,fall,50
+812,Germany,MOVE,Hol,NTH,SUCCEEDS,Attack strength is greater,1917,fall,50
+813,Germany,SUPPORT,Pic,Par,SUCCEEDS,Unchallenged,1917,fall,50
+814,Germany,MOVE,Boh,Bur,FAILS,Attack strength is not greater than the defend strength,1917,fall,50
+815,Germany,MOVE,IRI,Bur,SUCCEEDS,Attack strength is greater,1917,fall,50
+816,Germany,SUPPORT,Stp,Bur,SUCCEEDS,Unchallenged,1917,fall,50
+817,Germany,SUPPORT,Den,Lvp,SUCCEEDS,Unchallenged,1917,fall,50
+818,Germany,MOVE,Bur,Edi,SUCCEEDS,Attack strength is greater,1917,fall,50
+819,Germany,SUPPORT,Mun,Gas,SUCCEEDS,Unchallenged,1917,fall,50
+820,Turkey,SUPPORT,Sev,ION,SUCCEEDS,Unchallenged,1918,spring,52
+821,Turkey,HOLD,ADR,TYS,SUCCEEDS,Unchallenged,1918,spring,52
+822,Turkey,SUPPORT,Rum,ION,SUCCEEDS,Unchallenged,1918,spring,52
+823,Turkey,SUPPORT,Vie,Pie,SUCCEEDS,Unchallenged,1918,spring,52
+824,Turkey,MOVE,Alb,Pie,SUCCEEDS,Attack strength is greater,1918,spring,52
+825,Turkey,SUPPORT,Ukr,Bul,SUCCEEDS,Unchallenged,1918,spring,52
+826,Turkey,MOVE,ION,Mar,SUCCEEDS,Attack strength is greater,1918,spring,52
+827,Turkey,HOLD,Gal,Bre,SUCCEEDS,Unchallenged,1918,spring,52
+828,Turkey,SUPPORT,AEG,NTH,SUCCEEDS,Unchallenged,1918,spring,52
+829,Turkey,MOVE,Ven,Bre,SUCCEEDS,Attack strength is greater,1918,spring,52
+830,Turkey,SUPPORT,Tyr,NWG,SUCCEEDS,Unchallenged,1918,spring,52
+831,Turkey,MOVE,Con,Gas,SUCCEEDS,Attack strength is greater,1918,spring,52
+832,Italy,SUPPORT,Pie,Lvn,FAILS,Invalid Order,1918,spring,52
+833,Germany,SUPPORT,Par,NTH,SUCCEEDS,Neither displaced nor disrupted,1918,spring,52
+834,Germany,SUPPORT,ENG,Bur,SUCCEEDS,Unchallenged,1918,spring,52
+835,Germany,SUPPORT,Mos,NAO,SUCCEEDS,Unchallenged,1918,spring,52
+836,Germany,MOVE,Pic,NTH,SUCCEEDS,Attack strength is greater,1918,spring,52
+837,Germany,MOVE,NTH,NTH,SUCCEEDS,Attack strength is greater,1918,spring,52
+838,Germany,HOLD,Boh,MAO,SUCCEEDS,Unchallenged,1918,spring,52
+839,Germany,MOVE,Bur,Rom,SUCCEEDS,Attack strength is greater,1918,spring,52
+840,Germany,MOVE,Stp,Par,SUCCEEDS,Attack strength is greater,1918,spring,52
+841,Turkey,SUPPORT,Sev,Apu,SUCCEEDS,Unchallenged,1918,fall,53
+842,Turkey,MOVE,ADR,ION,SUCCEEDS,Attack strength is greater,1918,fall,53
+843,Turkey,MOVE,AEG,Gal,SUCCEEDS,Attack strength is greater,1918,fall,53
+844,Turkey,MOVE,Rum,Boh,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+845,Turkey,MOVE,Vie,Gal,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+846,Turkey,SUPPORT,Ukr,Mar,SUCCEEDS,Unchallenged,1918,fall,53
+847,Turkey,MOVE,Pie,TYS,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+848,Turkey,MOVE,ION,Sil,SUCCEEDS,Attack strength is greater,1918,fall,53
+849,Turkey,MOVE,Gal,Gre,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+850,Turkey,MOVE,Bul,Mun,SUCCEEDS,Attack strength is greater,1918,fall,53
+851,Turkey,SUPPORT,Tyr,LYO,FAILS,Disrupted,1918,fall,53
+852,Turkey,MOVE,TYS,Bur,SUCCEEDS,Attack strength is greater,1918,fall,53
+853,Italy,HOLD,Mar,Bel,SUCCEEDS,Stronger defense,1918,fall,53
+854,Germany,MOVE,Par,Tyr,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+855,Germany,SUPPORT,Lvn,NTH,SUCCEEDS,Unchallenged,1918,fall,53
+856,Germany,MOVE,ENG,NTH,SUCCEEDS,Attack strength is greater,1918,fall,53
+857,Germany,SUPPORT,Mos,Mun,SUCCEEDS,Unchallenged,1918,fall,53
+858,Germany,SUPPORT,Gas,NWG,SUCCEEDS,Unchallenged,1918,fall,53
+859,Germany,MOVE,Boh,NTH,FAILS,Attack strength is not greater than the defend strength,1918,fall,53
+860,Germany,MOVE,NWG,NWG,SUCCEEDS,Attack strength is greater,1918,fall,53
+861,Germany,SUPPORT,Den,Spa,SUCCEEDS,Unchallenged,1918,fall,53
+862,Turkey,SUPPORT,Sev,WES,SUCCEEDS,Unchallenged,1919,spring,55
+863,Turkey,HOLD,Gre,Mar,SUCCEEDS,Unchallenged,1919,spring,55
+864,Turkey,SUPPORT,Rum,TYS,SUCCEEDS,Unchallenged,1919,spring,55
+865,Turkey,SUPPORT,Vie,Nap,SUCCEEDS,Unchallenged,1919,spring,55
+866,Turkey,SUPPORT,Ukr,Spa,SUCCEEDS,Unchallenged,1919,spring,55
+867,Turkey,MOVE,TYS,Bur,SUCCEEDS,Attack strength is greater,1919,spring,55
+868,Turkey,SUPPORT,Pie,NTH,SUCCEEDS,Unchallenged,1919,spring,55
+869,Turkey,MOVE,ION,Spa,SUCCEEDS,Attack strength is greater,1919,spring,55
+870,Turkey,HOLD,Gal,Tyr,SUCCEEDS,Unchallenged,1919,spring,55
+871,Turkey,SUPPORT,LYO,Nwy,SUCCEEDS,Unchallenged,1919,spring,55
+872,Turkey,HOLD,Tyr,NTH,SUCCEEDS,Stronger defense,1919,spring,55
+873,Turkey,MOVE,Apu,Par,SUCCEEDS,Attack strength is greater,1919,spring,55
+874,Italy,MOVE,Mar,Tyr,FAILS,Attack strength is not greater than the defend strength,1919,spring,55
+875,Germany,MOVE,Par,Hol,SUCCEEDS,Attack strength is greater,1919,spring,55
+876,Germany,SUPPORT,Lvn,Tus,SUCCEEDS,Unchallenged,1919,spring,55
+877,Germany,SUPPORT,Bel,Mar,SUCCEEDS,Unchallenged,1919,spring,55
+878,Germany,SUPPORT,Mos,NWG,SUCCEEDS,Unchallenged,1919,spring,55
+879,Germany,SUPPORT,Gas,NTH,SUCCEEDS,Unchallenged,1919,spring,55
+880,Germany,MOVE,Boh,BAR,FAILS,Attack strength is not greater than the defend strength,1919,spring,55
+881,Turkey,SUPPORT,Sev,MAO,SUCCEEDS,Unchallenged,1919,fall,56
+882,Turkey,HOLD,Gre,Rom,SUCCEEDS,Unchallenged,1919,fall,56
+883,Turkey,SUPPORT,Rum,Rom,SUCCEEDS,Unchallenged,1919,fall,56
+884,Turkey,SUPPORT,Vie,Bur,SUCCEEDS,Unchallenged,1919,fall,56
+885,Turkey,SUPPORT,Ukr,ENG,FAILS,Disrupted,1919,fall,56
+886,Turkey,SUPPORT,Pie,Edi,SUCCEEDS,Unchallenged,1919,fall,56
+887,Turkey,MOVE,WES,Ukr,SUCCEEDS,Attack strength is greater,1919,fall,56
+888,Turkey,SUPPORT,Nap,NTH,SUCCEEDS,Unchallenged,1919,fall,56
+889,Turkey,HOLD,Gal,Mar,FAILS,Insufficient hold strength,1919,fall,56
+890,Turkey,SUPPORT,LYO,NTH,SUCCEEDS,Unchallenged,1919,fall,56
+891,Turkey,HOLD,Tyr,Gal,SUCCEEDS,Stronger defense,1919,fall,56
+892,Turkey,MOVE,TYS,Mar,SUCCEEDS,Attack strength is greater,1919,fall,56
+893,Germany,MOVE,Par,Tyr,FAILS,Attack strength is not greater than the defend strength,1919,fall,56
+894,Germany,SUPPORT,Lvn,Gal,SUCCEEDS,Unchallenged,1919,fall,56
+895,Germany,MOVE,Bel,Gal,SUCCEEDS,Attack strength is greater,1919,fall,56
+896,Germany,MOVE,NTH,Nwy,SUCCEEDS,Attack strength is greater,1919,fall,56
+897,Germany,MOVE,Mos,NTH,FAILS,Attack strength is not greater than the defend strength,1919,fall,56
+898,Germany,MOVE,Hol,Nwy,FAILS,Attack strength is not greater than the prevent strength,1919,fall,56
+899,Turkey,SUPPORT,Sev,TYS,SUCCEEDS,Unchallenged,1920,spring,58
+900,Turkey,MOVE,Rom,AEG,SUCCEEDS,Attack strength is greater,1920,spring,58
+901,Turkey,MOVE,Smy,Boh,SUCCEEDS,Attack strength is greater,1920,spring,58
+902,Turkey,SUPPORT,Rum,ION,FAILS,Disrupted,1920,spring,58
+903,Turkey,HOLD,MAO,WES,SUCCEEDS,Unchallenged,1920,spring,58
+904,Turkey,SUPPORT,Vie,Boh,SUCCEEDS,Unchallenged,1920,spring,58
+905,Turkey,HOLD,Ukr,Bul,SUCCEEDS,Stronger defense,1920,spring,58
+906,Turkey,SUPPORT,Pie,Bre,SUCCEEDS,Unchallenged,1920,spring,58
+907,Turkey,MOVE,Nap,Stp,SUCCEEDS,Attack strength is greater,1920,spring,58
+908,Turkey,HOLD,Gre,NTH,SUCCEEDS,Unchallenged,1920,spring,58
+909,Turkey,SUPPORT,Bud,Ukr,SUCCEEDS,Unchallenged,1920,spring,58
+910,Turkey,MOVE,LYO,Mar,SUCCEEDS,Attack strength is greater,1920,spring,58
+911,Turkey,MOVE,Tyr,NTH,FAILS,Attack strength is not greater than the prevent strength,1920,spring,58
+912,Turkey,MOVE,Con,Cly,SUCCEEDS,Attack strength is greater,1920,spring,58
+913,Germany,MOVE,Par,Nwy,SUCCEEDS,Attack strength is greater,1920,spring,58
+914,Germany,MOVE,Lvn,Mar,FAILS,Attack strength is not greater than the prevent strength,1920,spring,58
+915,Germany,SUPPORT,ENG,Rum,SUCCEEDS,Unchallenged,1920,spring,58
+916,Germany,SUPPORT,Mos,Boh,SUCCEEDS,Unchallenged,1920,spring,58
+917,Germany,SUPPORT,Gas,Ukr,FAILS,Disrupted,1920,spring,58
+918,Germany,MOVE,Hol,Boh,SUCCEEDS,Attack strength is greater,1920,spring,58
+919,Germany,MOVE,Edi,Gas,SUCCEEDS,Attack strength is greater,1920,spring,58
+920,Germany,MOVE,Swe,Stp,SUCCEEDS,Attack strength is greater,1920,spring,58
+921,Germany,MOVE,Bur,NTH,FAILS,Attack strength is not greater than the defend strength,1920,spring,58
+922,Germany,MOVE,Gal,SKA,FAILS,Attack strength is not greater than the defend strength,1920,spring,58
+923,Germany,SUPPORT,Mun,Gas,SUCCEEDS,Unchallenged,1920,spring,58
+924,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+925,Turkey,MOVE,Bul,Por,SUCCEEDS,Attack strength is greater,1920,fall,59
+926,Turkey,SUPPORT,Rum,Gal,SUCCEEDS,Unchallenged,1920,fall,59
+927,Turkey,CONVOY,MAO,Por,SUCCEEDS,Unchallenged,1920,fall,59
+928,Turkey,SUPPORT,Vie,Boh,SUCCEEDS,Unchallenged,1920,fall,59
+929,Turkey,MOVE,Ukr,Gal,SUCCEEDS,Attack strength is greater,1920,fall,59
+930,Turkey,SUPPORT,Pie,Por,SUCCEEDS,Unchallenged,1920,fall,59
+931,Turkey,CONVOY,WES,Por,SUCCEEDS,Unchallenged,1920,fall,59
+932,Turkey,CONVOY,ION,Boh,SUCCEEDS,Unchallenged,1920,fall,59
+933,Turkey,HOLD,Gre,Por,SUCCEEDS,Unchallenged,1920,fall,59
+934,Turkey,MOVE,Tyr,Gal,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+935,Turkey,CONVOY,AEG,Por,SUCCEEDS,Unchallenged,1920,fall,59
+936,Turkey,SUPPORT,Bud,Mos,SUCCEEDS,Unchallenged,1920,fall,59
+937,Turkey,CONVOY,TYS,Lon,SUCCEEDS,Unchallenged,1920,fall,59
+938,Germany,SUPPORT,Lvn,Mar,SUCCEEDS,Unchallenged,1920,fall,59
+939,Germany,MOVE,ENG,Mar,SUCCEEDS,Attack strength is greater,1920,fall,59
+940,Germany,MOVE,Bur,Lon,FAILS,Attack strength is not greater than the defend strength,1920,fall,59
+941,Germany,SUPPORT,Gas,Stp,FAILS,Disrupted,1920,fall,59
+942,Germany,SUPPORT,Nwy,Ukr,SUCCEEDS,Unchallenged,1920,fall,59
+943,Germany,SUPPORT,NTH,Lvp,SUCCEEDS,Neither displaced nor disrupted,1920,fall,59
+944,Germany,MOVE,Mos,Boh,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+945,Germany,MOVE,Gal,Mos,FAILS,Attack strength is not greater than the head to head strength,1920,fall,59
+946,Germany,MOVE,Cly,Boh,SUCCEEDS,Attack strength is greater,1920,fall,59
+947,Germany,SUPPORT,Bre,Gas,SUCCEEDS,Unchallenged,1920,fall,59
+948,Germany,SUPPORT,Mun,Stp,SUCCEEDS,Unchallenged,1920,fall,59
+949,Germany,MOVE,War,LYO,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+950,Germany,MOVE,Sil,NTH,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+951,France,SUPPORT,Mar,NTH,FAILS,Disrupted,1920,fall,59
+952,France,MOVE,BAR,Gas,FAILS,Attack strength is not greater than the prevent strength,1920,fall,59
+953,Turkey,SUPPORT,Sev,Ukr,SUCCEEDS,Unchallenged,1921,spring,61
+954,Turkey,HOLD,Gre,Ukr,SUCCEEDS,Unchallenged,1921,spring,61
+955,Turkey,SUPPORT,Rum,Spa,SUCCEEDS,Unchallenged,1921,spring,61
+956,Turkey,SUPPORT,MAO,Boh,SUCCEEDS,Unchallenged,1921,spring,61
+957,Turkey,MOVE,Vie,Spa,SUCCEEDS,Attack strength is greater,1921,spring,61
+958,Turkey,MOVE,Por,Spa,SUCCEEDS,Attack strength is greater,1921,spring,61
+959,Turkey,SUPPORT,Pie,TYS,SUCCEEDS,Unchallenged,1921,spring,61
+960,Turkey,SUPPORT,WES,Ukr,SUCCEEDS,Unchallenged,1921,spring,61
+961,Turkey,MOVE,ION,Gal,SUCCEEDS,Attack strength is greater,1921,spring,61
+962,Turkey,MOVE,Gal,ION,SUCCEEDS,Attack strength is greater,1921,spring,61
+963,Turkey,MOVE,Bud,LYO,SUCCEEDS,Attack strength is greater,1921,spring,61
+964,Turkey,MOVE,AEG,Boh,SUCCEEDS,Attack strength is greater,1921,spring,61
+965,Turkey,MOVE,TYS,AEG,SUCCEEDS,Attack strength is greater,1921,spring,61
+966,Turkey,SUPPORT,Tyr,Stp,FAILS,Disrupted,1921,spring,61
+967,Turkey,MOVE,Con,IRI,SUCCEEDS,Attack strength is greater,1921,spring,61
+968,Germany,MOVE,Lvn,Ukr,SUCCEEDS,Attack strength is greater,1921,spring,61
+969,Germany,MOVE,Lvp,Mar,SUCCEEDS,Attack strength is greater,1921,spring,61
+970,Germany,SUPPORT,NTH,ENG,SUCCEEDS,Unchallenged,1921,spring,61
+971,Germany,SUPPORT,Mos,Mar,SUCCEEDS,Unchallenged,1921,spring,61
+972,Germany,MOVE,Gas,Mun,FAILS,Attack strength is not greater than the defend strength,1921,spring,61
+973,Germany,MOVE,Lon,Tyr,SUCCEEDS,Attack strength is greater,1921,spring,61
+974,Germany,SUPPORT,Nwy,Ukr,FAILS,Disrupted,1921,spring,61
+975,Germany,SUPPORT,Bur,Den,SUCCEEDS,Unchallenged,1921,spring,61
+976,Germany,MOVE,Ber,War,FAILS,Attack strength is not greater than the defend strength,1921,spring,61
+977,Germany,HOLD,Bre,Nwy,SUCCEEDS,Unchallenged,1921,spring,61
+978,Germany,MOVE,Mun,Nwy,FAILS,Attack strength is not greater than the defend strength,1921,spring,61
+979,Turkey,SUPPORT,WES,Spa,SUCCEEDS,Unchallenged,1921,fall,62
+980,Turkey,MOVE,Sev,Mos,FAILS,Attack strength is not greater than the defend strength,1921,fall,62
+981,Turkey,SUPPORT,Rum,War,SUCCEEDS,Unchallenged,1921,fall,62
+982,Turkey,SUPPORT,Ukr,Mar,SUCCEEDS,Unchallenged,1921,fall,62
+983,Turkey,HOLD,TYS,Mun,SUCCEEDS,Unchallenged,1921,fall,62
+984,Turkey,SUPPORT,Pie,Tun,SUCCEEDS,Unchallenged,1921,fall,62
+985,Turkey,MOVE,Boh,Spa,SUCCEEDS,Attack strength is greater,1921,fall,62
+986,Turkey,MOVE,ION,ION,SUCCEEDS,Attack strength is greater,1921,fall,62
+987,Turkey,HOLD,Gre,Mar,SUCCEEDS,Unchallenged,1921,fall,62
+988,Turkey,MOVE,MAO,Mar,SUCCEEDS,Attack strength is greater,1921,fall,62
+989,Turkey,MOVE,AEG,Mun,SUCCEEDS,Attack strength is greater,1921,fall,62
+990,Turkey,MOVE,Spa,War,SUCCEEDS,Attack strength is greater,1921,fall,62
+991,Turkey,SUPPORT,LYO,MAO,SUCCEEDS,Unchallenged,1921,fall,62
+992,Turkey,SUPPORT,Tyr,MAO,SUCCEEDS,Unchallenged,1921,fall,62
+993,Turkey,MOVE,Gal,Swe,FAILS,Attack strength is not greater than the defend strength,1921,fall,62
+994,Germany,SUPPORT,ENG,Pru,SUCCEEDS,Unchallenged,1921,fall,62
+995,Germany,SUPPORT,Bur,Boh,FAILS,Disrupted,1921,fall,62
+996,Germany,SUPPORT,Gas,Nwy,SUCCEEDS,Unchallenged,1921,fall,62
+997,Germany,SUPPORT,Nwy,Bur,FAILS,Disrupted,1921,fall,62
+998,Germany,SUPPORT,NTH,Nwy,SUCCEEDS,Unchallenged,1921,fall,62
