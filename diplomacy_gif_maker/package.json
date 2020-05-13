@@ -1,0 +1,37 @@
+{
+  "name": "lilac_elephant",
+  "version": "1.0.0",
+  "description": "Lilac Elephant web app",
+  "author": "Brian King",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "axios-actions": "^2.1.2",
+    "buefy": "^0.7.0",
+    "bulma": "^0.7.2",
+    "cross-env": "^5.2.0",
+    "csv-to-array": "^1.0.2",
+    "d3": "^5.7.0",
+    "eva-icons": "^1.0.2",
+    "mapbox-gl": "^0.51.0",
+    "mapbox-gl-vue": "^1.9.0",
+    "node-sass": "^4.9.4",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.1",
+    "sass-loader": "^7.1.0",
+    "string_decoder": "^1.2.0",
+    "tiptap": "^1.25.0",
+    "tiptap-extensions": "^1.27.0",
+    "vue-carousel": "^0.16.0-rc2",
+    "vue-scroll-to": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
