@@ -2,15 +2,14 @@
   <div class="container">
     <article class="fl pa3 pa4-ns bg-white black-70 f3 ">
       <header class="bb b--black-70 pv4">
-        <h3 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Diplomacy Game Analysis</h3>
-        <h4 class="f3 fw4 i lh-title mt0">War On Drugs</h4>
+        <h1 class="f2 fw7 ttu tracked lh-title mt0 mb3 avenir">Diplomacy Game Analysis</h1>
+        <h2 class="f3 mid-gray lh-title">War On Drugs</h2>
+        <p class="f5 pa3 lh-title mt0-ns">Click on any of the panels below to zoom in and explore the analysis!</p>
       </header>
-      <div class="mw9 center ph3-ns times" >
-        <div class="cf ph2-ns">
-          <div class="fl w-100 w-10-ns pa2" v-for="item in panelData" :key="item.id">
-            {{item.id}}
-            <analysis-panel :panelData="item"></analysis-panel>
-          </div>
+      <div class="mw9 center ph3-ns times">
+        <div class="cf ph2-ns" v-for="chunk in panelChunks" :key="chunk.id">
+          <!-- {{chunk}} -->
+          <analysis-panel :panelData="item" v-for="item in chunk" :key="item.id" class="fl w-100 w-25-ns pa2"></analysis-panel>
         </div>
       </div>
     </article>
@@ -18,6 +17,7 @@
 </template>
 
 <script>
+  import lodash from 'lodash';
   import analysisPanel from '~/components/analysisPanel.vue'
 
   export default {
@@ -26,6 +26,9 @@
     },
     data() {
       return {
+        itemToDisplay: null,
+        displayActive: false,
+        itemsPerRow: 4,
         panelData: [{
             id: 0,
             title: 'Game map',
@@ -72,6 +75,18 @@
         ],
       };
     },
+    methods: {
+      panelUpdate(id) {
+        console.log(id)
+        this.displayActive = true
+        this.itemToDisplay = id
+      }
+    },
+    computed: {
+      panelChunks() {
+        return lodash.chunk(Object.values(this.panelData), this.itemsPerRow);
+      }
+    }
   }
 </script>
 
@@ -106,4 +121,6 @@
   .links {
     padding-top: 15px;
   }
+
+ 
 </style>
